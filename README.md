@@ -9,7 +9,7 @@ Claude Code, OpenAI, Cursor 등 LLM 코딩 도구의 팁·업데이트·워크�
 - 원문(X 게시물 등)은 그대로 옮기지 않고, 요약과 링크만 남깁니다.
 
 ## 분류별 모음
-- [entries/bookmarks.md](entries/bookmarks.md): Claude Code / Codex / 에이전트 일반·스킬 / 앱·게임·아트 분류별 큐레이션
+- [entries/bookmarks.md](entries/bookmarks.md): Claude Code / Codex / 에이전트 일반·스킬 / 앱·게임·아트. 버전 전용 항목은 Claude 5.5와 GPT-6·GPT-6.1(Astra 포함)만 두고, Opus 4.7·Opus 5·GPT-5처럼 이전 모델에만 해당하는 팁은 빼 두었습니다.
 
 ## 업데이트
 매일 새 항목이 추가됩니다.
