@@ -52,6 +52,7 @@ TOOLS = [
         "title": "Grok Bot",
         "ko": "Grok Bot 운영·설정·사용량 관련 항목 모음입니다.",
         "en": "Entries about running, configuring and budgeting Grok Bot.",
+        "guides": [("Grok Bot 사용 팁", "grok-bot-tips.md")],
     },
 ]
 
@@ -204,9 +205,14 @@ def link_text(title):
 
 def render_topic(topic, items):
     lines = [MARKER, "", f"# {topic['title']}", "",
-             topic["ko"], "", topic["en"], "",
-             f"항목 {len(items)}개, 최신순 / {len(items)} entries, newest first.",
-             ""]
+             topic["ko"], "", topic["en"], ""]
+    guides = topic.get("guides", [])
+    if guides:
+        links = ", ".join(f"[{title}](../guides/{name})"
+                          for title, name in guides)
+        lines += [f"관련 가이드 / Related guides: {links}", ""]
+    lines += [f"항목 {len(items)}개, 최신순 / {len(items)} entries, newest first.",
+              ""]
     for e in items:
         lines.append(f"- [{link_text(e['title'])}](../entries/{e['file']}"
                      f"#{e['anchor']}) ({e['date']}): "

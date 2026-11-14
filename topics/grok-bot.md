@@ -6,6 +6,8 @@ Grok Bot 운영·설정·사용량 관련 항목 모음입니다.
 
 Entries about running, configuring and budgeting Grok Bot.
 
+관련 가이드 / Related guides: [Grok Bot 사용 팁](../guides/grok-bot-tips.md)
+
 항목 22개, 최신순 / 22 entries, newest first.
 
 - [Grok Bot 하네스 최적화로 같은 요금제에서 사용량 여유 증가](../entries/2026-11.md#grok-bot-하네스-최적화로-같은-요금제에서-사용량-여유-증가) (2026-11-14): Grok Bot 팀이 이번 주 하네스 최적화를 몇 가지 배포해, 같은 요금제에서 쓸 수 있는 양이 평균 약 7% 늘고 루틴 실행은 최대 약 15%까지 늘어난다고 밝혔다.
