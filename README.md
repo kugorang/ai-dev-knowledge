@@ -26,6 +26,9 @@ Claude Code, OpenAI, Cursor 등 LLM 코딩 도구의 팁·업데이트·워크�
 - [게임·Unity (Game Dev & Unity)](topics/game-unity.md) (27)
 - [아트·영상 (Art, 3D & Video)](topics/art.md) (32)
 
+가이드
+- [Grok Bot 사용 팁](guides/grok-bot-tips.md): @poteto와 @bot의 X 게시물에서 뽑은 일반 사용 팁 11가지
+
 전체 항목은 220개입니다([entries/2026-10.md](entries/2026-10.md) 7개, [entries/2026-11.md](entries/2026-11.md) 185개, [entries/bookmarks.md](entries/bookmarks.md) 28개).
 
 ## 형식

@@ -28,6 +28,10 @@
 - [Game Dev & Unity](https://raw.githubusercontent.com/kugorang/ai-dev-knowledge/main/topics/game-unity.md): Building games with AI, including Unity, Godot and Unreal
 - [Art, 3D & Video](https://raw.githubusercontent.com/kugorang/ai-dev-knowledge/main/topics/art.md): Images, sprites, pixel art, 3D, VFX and video creation
 
+## Guides
+
+- [Grok Bot usage tips](https://raw.githubusercontent.com/kugorang/ai-dev-knowledge/main/guides/grok-bot-tips.md): Eleven general Grok Bot tips (in Korean) drawn from public X posts by @poteto and @bot
+
 ## Entries
 
 - [2026-11](https://raw.githubusercontent.com/kugorang/ai-dev-knowledge/main/entries/2026-11.md): Entries added in November 2026
