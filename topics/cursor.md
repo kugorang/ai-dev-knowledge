@@ -6,8 +6,10 @@ AI 코드 에디터 Cursor 관련 팁·업데이트·워크플로 모음입니�
 
 Tips, updates and workflows for the Cursor AI code editor.
 
-항목 36개, 최신순 / 36 entries, newest first.
+항목 38개, 최신순 / 38 entries, newest first.
 
+- [에이전트가 슬롭을 못 쓰게 코드베이스부터 고치기: Grok Bot 팀 AIE 발표](../entries/2026-11.md#에이전트가-슬롭을-못-쓰게-코드베이스부터-고치기-grok-bot-팀-aie-발표) (2026-11-15): Grok Bot 팀 엔지니어(@poteto)의 AIE 발표로, 에이전트를 믿고 맡기려면 프롬프트보다 환경에 투자하라는 내용이다.
+- [No AI Slop 선언문: AI 결과물을 넘길 때 지켜야 할 원칙](../entries/2026-11.md#no-ai-slop-선언문-ai-결과물을-넘길-때-지켜야-할-원칙) (2026-11-14): AIE Code Summit 2026 참가자들이 만든 선언문으로, AI를 쓰지 말자는 게 아니라 만드는 데 든 노력보다 받는 사람이 이해하는 데 드는 노력이 더 클 때를 '슬롭'으로 정의한다.
 - [Turnpack: 에이전트 왕복 횟수를 줄이는 로컬 MCP 서버](../entries/2026-11.md#turnpack-에이전트-왕복-횟수를-줄이는-로컬-mcp-서버) (2026-11-14): Turnpack(GitHub OnlyTerp/turnpack, Apache-2.0)은 코딩 에이전트가 검색→읽기→수정→테스트를 한 턴씩 기다리며 도는 걸 줄이려고 만든 로컬 MCP 서버다.
 - [Firebase 에이전트 스킬에 Google Analytics 설정·화면 조회 계측 추가](../entries/2026-11.md#firebase-에이전트-스킬에-google-analytics-설정화면-조회-계측-추가) (2026-11-13): Firebase 에이전트 스킬에 Google Analytics용 스킬이 추가돼, 코딩 에이전트에게 "Google Analytics for Firebase를 쓰도록 앱을 설정해 줘"라고 하면 Firebase 연결, 의존성·초기화 코드, iOS `-ObjC` 링커 플래그나 Android Gradle 선언 같은 플랫폼별 세부 설정까지 챙긴다.
 - [Modern Web Guidance: 코딩 에이전트에 최신 웹 표준 스킬 붙이기](../entries/2026-11.md#modern-web-guidance-코딩-에이전트에-최신-웹-표준-스킬-붙이기) (2026-11-11): Chrome 팀이 만든 스킬 묶음으로, 에이전트가 낡은 패턴 대신 최신 웹 플랫폼 기능(다이얼로그·popover·anchor positioning, container query, view transition, INP 최적화, 폼 검증, 접근성, 패스키 등 100개 이상 사례)을 쓰도록 유도한다.

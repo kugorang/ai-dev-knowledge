@@ -6,8 +6,11 @@
 
 Entries about coding agents, subagents, harnesses and skills (SKILL.md).
 
-항목 158개, 최신순 / 158 entries, newest first.
+항목 161개, 최신순 / 161 entries, newest first.
 
+- [에이전트가 슬롭을 못 쓰게 코드베이스부터 고치기: Grok Bot 팀 AIE 발표](../entries/2026-11.md#에이전트가-슬롭을-못-쓰게-코드베이스부터-고치기-grok-bot-팀-aie-발표) (2026-11-15): Grok Bot 팀 엔지니어(@poteto)의 AIE 발표로, 에이전트를 믿고 맡기려면 프롬프트보다 환경에 투자하라는 내용이다.
+- [서버 로그를 ClickHouse+MCP로 에이전트에 붙여 광고 부정 클릭 잡기](../entries/2026-11.md#서버-로그를-clickhousemcp로-에이전트에-붙여-광고-부정-클릭-잡기) (2026-11-14): 원시 접근 로그를 ClickHouse에 모으고 MCP로 에이전트가 직접 조회하게 해 두었더니, 에이전트가 Google Ads API의 과금 클릭 기록과 로그를 대조해 JS를 한 번도 안 불러온 봇 클릭을 찾아내고, 해당 서브넷을 차단하고 환불 요청서까지 썼다는 운영 사례다.
+- [No AI Slop 선언문: AI 결과물을 넘길 때 지켜야 할 원칙](../entries/2026-11.md#no-ai-slop-선언문-ai-결과물을-넘길-때-지켜야-할-원칙) (2026-11-14): AIE Code Summit 2026 참가자들이 만든 선언문으로, AI를 쓰지 말자는 게 아니라 만드는 데 든 노력보다 받는 사람이 이해하는 데 드는 노력이 더 클 때를 '슬롭'으로 정의한다.
 - [Grok Bot 하네스 최적화로 같은 요금제에서 사용량 여유 증가](../entries/2026-11.md#grok-bot-하네스-최적화로-같은-요금제에서-사용량-여유-증가) (2026-11-14): Grok Bot 팀이 이번 주 하네스 최적화를 몇 가지 배포해, 같은 요금제에서 쓸 수 있는 양이 평균 약 7% 늘고 루틴 실행은 최대 약 15%까지 늘어난다고 밝혔다.
 - [Turnpack: 에이전트 왕복 횟수를 줄이는 로컬 MCP 서버](../entries/2026-11.md#turnpack-에이전트-왕복-횟수를-줄이는-로컬-mcp-서버) (2026-11-14): Turnpack(GitHub OnlyTerp/turnpack, Apache-2.0)은 코딩 에이전트가 검색→읽기→수정→테스트를 한 턴씩 기다리며 도는 걸 줄이려고 만든 로컬 MCP 서버다.
 - [Antigravity Dynamic Workflows: `/run-workflow`로 서브에이전트를 스크립트로 조율](../entries/2026-11.md#antigravity-dynamic-workflows-run-workflow로-서브에이전트를-스크립트로-조율) (2026-11-14): Google Antigravity에 Dynamic Workflows가 풀리기 시작했다.

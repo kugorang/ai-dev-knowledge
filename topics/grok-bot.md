@@ -8,8 +8,9 @@ Entries about running, configuring and budgeting Grok Bot.
 
 관련 가이드 / Related guides: [Grok Bot 사용 팁](../guides/grok-bot-tips.md)
 
-항목 22개, 최신순 / 22 entries, newest first.
+항목 23개, 최신순 / 23 entries, newest first.
 
+- [에이전트가 슬롭을 못 쓰게 코드베이스부터 고치기: Grok Bot 팀 AIE 발표](../entries/2026-11.md#에이전트가-슬롭을-못-쓰게-코드베이스부터-고치기-grok-bot-팀-aie-발표) (2026-11-15): Grok Bot 팀 엔지니어(@poteto)의 AIE 발표로, 에이전트를 믿고 맡기려면 프롬프트보다 환경에 투자하라는 내용이다.
 - [Grok Bot 하네스 최적화로 같은 요금제에서 사용량 여유 증가](../entries/2026-11.md#grok-bot-하네스-최적화로-같은-요금제에서-사용량-여유-증가) (2026-11-14): Grok Bot 팀이 이번 주 하네스 최적화를 몇 가지 배포해, 같은 요금제에서 쓸 수 있는 양이 평균 약 7% 늘고 루틴 실행은 최대 약 15%까지 늘어난다고 밝혔다.
 - [Grok Bot 1.0: 팀 공유 봇, Slack·Teams, 회의 참여](../entries/2026-11.md#grok-bot-10-팀-공유-봇-slackteams-회의-참여) (2026-11-12): Grok Bot 1.0이 나오면서 봇 하나를 팀원이나 그룹과 공유해 Slack·Microsoft Teams에서 같이 쓸 수 있게 됐다(Team Bots는 Team·Enterprise 플랜).
 - [Grok Bot, Tailscale 테일넷에 붙어 사설 MCP에 연결하기](../entries/2026-11.md#grok-bot-tailscale-테일넷에-붙어-사설-mcp에-연결하기) (2026-11-11): Grok Bot이 개인 또는 회사 Tailscale 테일넷에 가입해, 공개망에 올리지 않은 사설 MCP 서버와 내부 도구에 닿을 수 있게 됐다.

@@ -6,8 +6,11 @@ Anthropic의 터미널 코딩 에이전트 Claude Code 관련 팁·업데이트�
 
 Tips, updates and workflows for Claude Code, Anthropic's terminal coding agent.
 
-항목 101개, 최신순 / 101 entries, newest first.
+항목 104개, 최신순 / 104 entries, newest first.
 
+- [Claude Code Projects 업데이트: 코디네이터가 더 적극적으로 진행 상황 보고](../entries/2026-11.md#claude-code-projects-업데이트-코디네이터가-더-적극적으로-진행-상황-보고) (2026-11-14): Claude Code의 Projects는 한 프로젝트 안에서 Claude가 여러 병렬 스레드로 작업을 나눠 조율하는 기능인데, 이번 업데이트로 코디네이터가 훨씬 적극적으로 바뀌었다.
+- [Claude Code 데스크톱에서 mods로 커스텀 테마 만들기](../entries/2026-11.md#claude-code-데스크톱에서-mods로-커스텀-테마-만들기) (2026-11-14): Claude Code 데스크톱 앱에 mods가 생겨 색상을 바꾸거나 움직이는 배경을 넣는 식으로 테마를 직접 만들 수 있게 됐다.
+- [No AI Slop 선언문: AI 결과물을 넘길 때 지켜야 할 원칙](../entries/2026-11.md#no-ai-slop-선언문-ai-결과물을-넘길-때-지켜야-할-원칙) (2026-11-14): AIE Code Summit 2026 참가자들이 만든 선언문으로, AI를 쓰지 말자는 게 아니라 만드는 데 든 노력보다 받는 사람이 이해하는 데 드는 노력이 더 클 때를 '슬롭'으로 정의한다.
 - [Turnpack: 에이전트 왕복 횟수를 줄이는 로컬 MCP 서버](../entries/2026-11.md#turnpack-에이전트-왕복-횟수를-줄이는-로컬-mcp-서버) (2026-11-14): Turnpack(GitHub OnlyTerp/turnpack, Apache-2.0)은 코딩 에이전트가 검색→읽기→수정→테스트를 한 턴씩 기다리며 도는 걸 줄이려고 만든 로컬 MCP 서버다.
 - [Claude Code Stop 훅으로 검사 실패 시 다시 시키려면 exit 2](../entries/2026-11.md#claude-code-stop-훅으로-검사-실패-시-다시-시키려면-exit-2) (2026-11-14): Claude Code의 Stop 훅에서 테스트나 린트 같은 검사를 돌려, 실패하면 Claude가 작업을 끝내지 않고 다시 고치게 만들 수 있다.
 - [빈 폴더에서 도메인만 주고 에이전트로 내 사이트 외부 점검하기](../entries/2026-11.md#빈-폴더에서-도메인만-주고-에이전트로-내-사이트-외부-점검하기) (2026-11-14): 사이트를 점검할 때 저장소 안에서 코드를 보여 주며 시키는 대신, 코드베이스가 전혀 없는 빈 폴더를 열고 Claude Code·Codex·Gemini에 도메인 이름만 넘겨 바깥에서 감사하게 하는 방법이다.

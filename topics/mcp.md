@@ -6,8 +6,9 @@ MCP 서버·클라이언트·보안을 다룬 항목 모음입니다.
 
 Entries about MCP servers, clients and security.
 
-항목 36개, 최신순 / 36 entries, newest first.
+항목 37개, 최신순 / 37 entries, newest first.
 
+- [서버 로그를 ClickHouse+MCP로 에이전트에 붙여 광고 부정 클릭 잡기](../entries/2026-11.md#서버-로그를-clickhousemcp로-에이전트에-붙여-광고-부정-클릭-잡기) (2026-11-14): 원시 접근 로그를 ClickHouse에 모으고 MCP로 에이전트가 직접 조회하게 해 두었더니, 에이전트가 Google Ads API의 과금 클릭 기록과 로그를 대조해 JS를 한 번도 안 불러온 봇 클릭을 찾아내고, 해당 서브넷을 차단하고 환불 요청서까지 썼다는 운영 사례다.
 - [Turnpack: 에이전트 왕복 횟수를 줄이는 로컬 MCP 서버](../entries/2026-11.md#turnpack-에이전트-왕복-횟수를-줄이는-로컬-mcp-서버) (2026-11-14): Turnpack(GitHub OnlyTerp/turnpack, Apache-2.0)은 코딩 에이전트가 검색→읽기→수정→테스트를 한 턴씩 기다리며 도는 걸 줄이려고 만든 로컬 MCP 서버다.
 - [gemini-api CLI + Antigravity 플러그인으로 한 줄 프롬프트에서 해설 영상까지](../entries/2026-11.md#gemini-api-cli--antigravity-플러그인으로-한-줄-프롬프트에서-해설-영상까지) (2026-11-13): gemini-api는 코딩 에이전트와 스크립트용 상태 없는 Gemini API 명령줄 클라이언트로, AI Studio API 키 하나로 음성·음악·이미지·영상 모델을 셸에서 바로 부른다.
 - [Atuin Threads: 여러 머신의 코딩 에이전트 세션을 이어 쓰기](../entries/2026-11.md#atuin-threads-여러-머신의-코딩-에이전트-세션을-이어-쓰기) (2026-11-12): 셸 명령 기록을 검색·동기화하던 Atuin이 18.24부터 코딩 에이전트 세션 기록도 모아 주는 Threads 기능을 넣었다.
