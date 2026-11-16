@@ -6,8 +6,13 @@ Anthropic의 터미널 코딩 에이전트 Claude Code 관련 팁·업데이트�
 
 Tips, updates and workflows for Claude Code, Anthropic's terminal coding agent.
 
-항목 104개, 최신순 / 104 entries, newest first.
+항목 109개, 최신순 / 109 entries, newest first.
 
+- [Shopify 디자이너의 작업 방식: Figma 스케치에서 Codex·Claude Code로 작동하는 데모까지](../entries/2026-11.md#shopify-디자이너의-작업-방식-figma-스케치에서-codexclaude-code로-작동하는-데모까지) (2026-11-16): Shopify 제품 디자인 스튜디오는 Figma를 의도를 그려 AI에 전달하는 메모장으로 쓰고, 실제 결과물은 Codex·Claude Code로 휴대폰이나 컴퓨터에서 바로 써 볼 수 있는 데모로 만든다.
+- [AI 시대 게임 개발: 에이전트로 프로토타입 만들기, 확장, 디컴파일 복원](../entries/2026-11.md#ai-시대-게임-개발-에이전트로-프로토타입-만들기-확장-디컴파일-복원) (2026-11-16): AI 활용을 새 게임 제작(Produce·Invent), 기존 게임 확장(Extend), 소스가 사라진 게임 복원(Recover) 네 영역으로 나눈 글이다.
+- [plannotator 등 GitHub 급상승 에이전트 도구: 계획·diff 리뷰 작업대, Stitch Skills, AG-UI](../entries/2026-11.md#plannotator-등-github-급상승-에이전트-도구-계획diff-리뷰-작업대-stitch-skills-ag-ui) (2026-11-16): plannotator는 에이전트가 만든 계획·요구 문서·HTML 프로토타입·코드 diff·PR을 로컬 브라우저 창에 띄워 직접 표시하고 주석을 달면, 그 피드백을 한 번에 에이전트로 돌려보내는 Apache-2.0 작업대다.
+- [awesome-short-drama-skills: AI 숏드라마·웹툰 영상용 에이전트 스킬 86종과 블라인드 실측](../entries/2026-11.md#awesome-short-drama-skills-ai-숏드라마웹툰-영상용-에이전트-스킬-86종과-블라인드-실측) (2026-11-16): 소설 각색, 회차별 줄거리, 엔딩 훅·결제 지점, 대본 검토, 콘티, 캐릭터 시트, Seedance·Kling·MiniMax용 영상 프롬프트까지 단계별로 정리한 CC0 스킬 모음이다(86개 + 관련 오픈소스 플랫폼 16개, 대부분 표준 SKILL.md라 Claude Code·Codex 등에 설치).
+- [Docker Sandboxes: 코딩 에이전트는 컨테이너 대신 전용 microVM에서 돌리기](../entries/2026-11.md#docker-sandboxes-코딩-에이전트는-컨테이너-대신-전용-microvm에서-돌리기) (2026-11-15): Docker 공식 블로그가 코딩 에이전트를 일반 컨테이너가 아니라 Docker Sandboxes에서 돌려야 하는 이유를 정리했다.
 - [Claude Code Projects 업데이트: 코디네이터가 더 적극적으로 진행 상황 보고](../entries/2026-11.md#claude-code-projects-업데이트-코디네이터가-더-적극적으로-진행-상황-보고) (2026-11-14): Claude Code의 Projects는 한 프로젝트 안에서 Claude가 여러 병렬 스레드로 작업을 나눠 조율하는 기능인데, 이번 업데이트로 코디네이터가 훨씬 적극적으로 바뀌었다.
 - [Claude Code 데스크톱에서 mods로 커스텀 테마 만들기](../entries/2026-11.md#claude-code-데스크톱에서-mods로-커스텀-테마-만들기) (2026-11-14): Claude Code 데스크톱 앱에 mods가 생겨 색상을 바꾸거나 움직이는 배경을 넣는 식으로 테마를 직접 만들 수 있게 됐다.
 - [No AI Slop 선언문: AI 결과물을 넘길 때 지켜야 할 원칙](../entries/2026-11.md#no-ai-slop-선언문-ai-결과물을-넘길-때-지켜야-할-원칙) (2026-11-14): AIE Code Summit 2026 참가자들이 만든 선언문으로, AI를 쓰지 말자는 게 아니라 만드는 데 든 노력보다 받는 사람이 이해하는 데 드는 노력이 더 클 때를 '슬롭'으로 정의한다.

@@ -6,8 +6,10 @@
 
 Entries about images, sprites, pixel art, 3D, VFX and video creation.
 
-항목 32개, 최신순 / 32 entries, newest first.
+항목 34개, 최신순 / 34 entries, newest first.
 
+- [AI 시대 게임 개발: 에이전트로 프로토타입 만들기, 확장, 디컴파일 복원](../entries/2026-11.md#ai-시대-게임-개발-에이전트로-프로토타입-만들기-확장-디컴파일-복원) (2026-11-16): AI 활용을 새 게임 제작(Produce·Invent), 기존 게임 확장(Extend), 소스가 사라진 게임 복원(Recover) 네 영역으로 나눈 글이다.
+- [awesome-short-drama-skills: AI 숏드라마·웹툰 영상용 에이전트 스킬 86종과 블라인드 실측](../entries/2026-11.md#awesome-short-drama-skills-ai-숏드라마웹툰-영상용-에이전트-스킬-86종과-블라인드-실측) (2026-11-16): 소설 각색, 회차별 줄거리, 엔딩 훅·결제 지점, 대본 검토, 콘티, 캐릭터 시트, Seedance·Kling·MiniMax용 영상 프롬프트까지 단계별로 정리한 CC0 스킬 모음이다(86개 + 관련 오픈소스 플랫폼 16개, 대부분 표준 SKILL.md라 Claude Code·Codex 등에 설치).
 - [gemini-api CLI + Antigravity 플러그인으로 한 줄 프롬프트에서 해설 영상까지](../entries/2026-11.md#gemini-api-cli--antigravity-플러그인으로-한-줄-프롬프트에서-해설-영상까지) (2026-11-13): gemini-api는 코딩 에이전트와 스크립트용 상태 없는 Gemini API 명령줄 클라이언트로, AI Studio API 키 하나로 음성·음악·이미지·영상 모델을 셸에서 바로 부른다.
 - [바이브 코딩 프롬프트용 UI·모션 용어 48개](../entries/2026-11.md#바이브-코딩-프롬프트용-ui모션-용어-48개) (2026-11-12): AI에게 화면을 정확히 고쳐 달라고 하려면 "저 버튼 같은 거"가 아니라 UI 요소와 효과의 이름으로 말해야 한다는 전제에서, UI·모션 용어 48개를 레이아웃, 컴포넌트, 효과, 모션, 텍스트, 화면 전환의 6개 묶음으로 나눠 60초 영상으로 정리했다.
 - [Runway 플러그인: Codex·ChatGPT에서 프로토타입 캐릭터 동작·트레일러 영상 만들기](../entries/2026-11.md#runway-플러그인-codexchatgpt에서-프로토타입-캐릭터-동작트레일러-영상-만들기) (2026-11-11): Codex와 ChatGPT에 Runway 플러그인을 붙이면 대화 안에서 영상 생성까지 이어서 할 수 있다.

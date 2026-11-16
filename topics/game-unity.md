@@ -6,8 +6,9 @@ AI로 게임을 만들 때(Unity·Godot·Unreal 포함) 참고할 항목 모음�
 
 Entries about building games with AI, including Unity, Godot and Unreal.
 
-항목 27개, 최신순 / 27 entries, newest first.
+항목 28개, 최신순 / 28 entries, newest first.
 
+- [AI 시대 게임 개발: 에이전트로 프로토타입 만들기, 확장, 디컴파일 복원](../entries/2026-11.md#ai-시대-게임-개발-에이전트로-프로토타입-만들기-확장-디컴파일-복원) (2026-11-16): AI 활용을 새 게임 제작(Produce·Invent), 기존 게임 확장(Extend), 소스가 사라진 게임 복원(Recover) 네 영역으로 나눈 글이다.
 - [seo-skills: Claude Code·Codex·Cursor용 SEO 워크플로 스킬 12개](../entries/2026-11.md#seo-skills-claude-codecodexcursor용-seo-워크플로-스킬-12개) (2026-11-11): 여러 사이트를 직접 운영하며 쓰는 SEO 작업 흐름 12개를 SKILL.md로 묶어 공개한 오픈소스 스킬 모음이다.
 - [Runway 플러그인: Codex·ChatGPT에서 프로토타입 캐릭터 동작·트레일러 영상 만들기](../entries/2026-11.md#runway-플러그인-codexchatgpt에서-프로토타입-캐릭터-동작트레일러-영상-만들기) (2026-11-11): Codex와 ChatGPT에 Runway 플러그인을 붙이면 대화 안에서 영상 생성까지 이어서 할 수 있다.
 - [Codex용 ModRetro Chromatic 플러그인: 휴대용 게임기 ROM을 에이전트로 만들기](../entries/2026-11.md#codex용-modretro-chromatic-플러그인-휴대용-게임기-rom을-에이전트로-만들기) (2026-11-10): OpenAI가 레트로 휴대용 게임기 ModRetro Chromatic의 Codex 에디션을 내놓았고, 함께 나온 ModRetro Chromatic 플러그인을 Codex에 붙이면 레벨 디자인, 스프라이트 애니메이션, ROM 빌드를 시킨 뒤 실제 기기에서 바로 플레이테스트할 수 있다.

@@ -6,8 +6,13 @@ OpenAI Codex(CLI·앱·클라우드) 관련 팁·업데이트·워크플로 모�
 
 Tips, updates and workflows for OpenAI Codex (CLI, app and cloud).
 
-항목 47개, 최신순 / 47 entries, newest first.
+항목 52개, 최신순 / 52 entries, newest first.
 
+- [Shopify 디자이너의 작업 방식: Figma 스케치에서 Codex·Claude Code로 작동하는 데모까지](../entries/2026-11.md#shopify-디자이너의-작업-방식-figma-스케치에서-codexclaude-code로-작동하는-데모까지) (2026-11-16): Shopify 제품 디자인 스튜디오는 Figma를 의도를 그려 AI에 전달하는 메모장으로 쓰고, 실제 결과물은 Codex·Claude Code로 휴대폰이나 컴퓨터에서 바로 써 볼 수 있는 데모로 만든다.
+- [AI 시대 게임 개발: 에이전트로 프로토타입 만들기, 확장, 디컴파일 복원](../entries/2026-11.md#ai-시대-게임-개발-에이전트로-프로토타입-만들기-확장-디컴파일-복원) (2026-11-16): AI 활용을 새 게임 제작(Produce·Invent), 기존 게임 확장(Extend), 소스가 사라진 게임 복원(Recover) 네 영역으로 나눈 글이다.
+- [plannotator 등 GitHub 급상승 에이전트 도구: 계획·diff 리뷰 작업대, Stitch Skills, AG-UI](../entries/2026-11.md#plannotator-등-github-급상승-에이전트-도구-계획diff-리뷰-작업대-stitch-skills-ag-ui) (2026-11-16): plannotator는 에이전트가 만든 계획·요구 문서·HTML 프로토타입·코드 diff·PR을 로컬 브라우저 창에 띄워 직접 표시하고 주석을 달면, 그 피드백을 한 번에 에이전트로 돌려보내는 Apache-2.0 작업대다.
+- [awesome-short-drama-skills: AI 숏드라마·웹툰 영상용 에이전트 스킬 86종과 블라인드 실측](../entries/2026-11.md#awesome-short-drama-skills-ai-숏드라마웹툰-영상용-에이전트-스킬-86종과-블라인드-실측) (2026-11-16): 소설 각색, 회차별 줄거리, 엔딩 훅·결제 지점, 대본 검토, 콘티, 캐릭터 시트, Seedance·Kling·MiniMax용 영상 프롬프트까지 단계별로 정리한 CC0 스킬 모음이다(86개 + 관련 오픈소스 플랫폼 16개, 대부분 표준 SKILL.md라 Claude Code·Codex 등에 설치).
+- [Docker Sandboxes: 코딩 에이전트는 컨테이너 대신 전용 microVM에서 돌리기](../entries/2026-11.md#docker-sandboxes-코딩-에이전트는-컨테이너-대신-전용-microvm에서-돌리기) (2026-11-15): Docker 공식 블로그가 코딩 에이전트를 일반 컨테이너가 아니라 Docker Sandboxes에서 돌려야 하는 이유를 정리했다.
 - [No AI Slop 선언문: AI 결과물을 넘길 때 지켜야 할 원칙](../entries/2026-11.md#no-ai-slop-선언문-ai-결과물을-넘길-때-지켜야-할-원칙) (2026-11-14): AIE Code Summit 2026 참가자들이 만든 선언문으로, AI를 쓰지 말자는 게 아니라 만드는 데 든 노력보다 받는 사람이 이해하는 데 드는 노력이 더 클 때를 '슬롭'으로 정의한다.
 - [Turnpack: 에이전트 왕복 횟수를 줄이는 로컬 MCP 서버](../entries/2026-11.md#turnpack-에이전트-왕복-횟수를-줄이는-로컬-mcp-서버) (2026-11-14): Turnpack(GitHub OnlyTerp/turnpack, Apache-2.0)은 코딩 에이전트가 검색→읽기→수정→테스트를 한 턴씩 기다리며 도는 걸 줄이려고 만든 로컬 MCP 서버다.
 - [빈 폴더에서 도메인만 주고 에이전트로 내 사이트 외부 점검하기](../entries/2026-11.md#빈-폴더에서-도메인만-주고-에이전트로-내-사이트-외부-점검하기) (2026-11-14): 사이트를 점검할 때 저장소 안에서 코드를 보여 주며 시키는 대신, 코드베이스가 전혀 없는 빈 폴더를 열고 Claude Code·Codex·Gemini에 도메인 이름만 넘겨 바깥에서 감사하게 하는 방법이다.
