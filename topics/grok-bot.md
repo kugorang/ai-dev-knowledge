@@ -8,8 +8,10 @@ Entries about running, configuring and budgeting Grok Bot.
 
 관련 가이드 / Related guides: [Grok Bot 사용 팁](../guides/grok-bot-tips.md)
 
-항목 24개, 최신순 / 24 entries, newest first.
+항목 26개, 최신순 / 26 entries, newest first.
 
+- [Claude Code와 Grok Bot에 시간대별 일을 맡기는 세 가지 구성](../entries/2026-11.md#claude-code와-grok-bot에-시간대별-일을-맡기는-세-가지-구성) (2026-11-17): 에이전트가 프롬프트를 기다리며 노는 시간을 없애기 위해 역할·일정·출력 폴더·형식을 고정하는 구성을 세 가지로 정리한 글이다.
+- [Grok Bot을 확장하는 오픈소스 저장소 10선](../entries/2026-11.md#grok-bot을-확장하는-오픈소스-저장소-10선) (2026-11-16): Grok Bot용 스킬·템플릿·플러그인·도구 저장소 10개를 정리한 글이다.
 - [plannotator 등 GitHub 급상승 에이전트 도구: 계획·diff 리뷰 작업대, Stitch Skills, AG-UI](../entries/2026-11.md#plannotator-등-github-급상승-에이전트-도구-계획diff-리뷰-작업대-stitch-skills-ag-ui) (2026-11-16): plannotator는 에이전트가 만든 계획·요구 문서·HTML 프로토타입·코드 diff·PR을 로컬 브라우저 창에 띄워 직접 표시하고 주석을 달면, 그 피드백을 한 번에 에이전트로 돌려보내는 Apache-2.0 작업대다.
 - [에이전트가 슬롭을 못 쓰게 코드베이스부터 고치기: Grok Bot 팀 AIE 발표](../entries/2026-11.md#에이전트가-슬롭을-못-쓰게-코드베이스부터-고치기-grok-bot-팀-aie-발표) (2026-11-15): Grok Bot 팀 엔지니어(@poteto)의 AIE 발표로, 에이전트를 믿고 맡기려면 프롬프트보다 환경에 투자하라는 내용이다.
 - [Grok Bot 하네스 최적화로 같은 요금제에서 사용량 여유 증가](../entries/2026-11.md#grok-bot-하네스-최적화로-같은-요금제에서-사용량-여유-증가) (2026-11-14): Grok Bot 팀이 이번 주 하네스 최적화를 몇 가지 배포해, 같은 요금제에서 쓸 수 있는 양이 평균 약 7% 늘고 루틴 실행은 최대 약 15%까지 늘어난다고 밝혔다.

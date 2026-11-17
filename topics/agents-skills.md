@@ -6,9 +6,15 @@
 
 Entries about coding agents, subagents, harnesses and skills (SKILL.md).
 
-항목 167개, 최신순 / 167 entries, newest first.
+항목 173개, 최신순 / 173 entries, newest first.
 
+- [Claude Code 데스크톱, iOS 시뮬레이터 iPhone Duo 지원과 Xcode 플러그인](../entries/2026-11.md#claude-code-데스크톱-ios-시뮬레이터-iphone-duo-지원과-xcode-플러그인) (2026-11-17): Claude Code 데스크톱(macOS, Xcode 27.1 이상)에서 iOS 시뮬레이터의 iPhone Duo를 대화창 옆에 띄우고 Claude가 기기를 접고 펴며 레이아웃별로 테스트할 수 있게 됐다(공개 베타).
+- [Claude Code와 Grok Bot에 시간대별 일을 맡기는 세 가지 구성](../entries/2026-11.md#claude-code와-grok-bot에-시간대별-일을-맡기는-세-가지-구성) (2026-11-17): 에이전트가 프롬프트를 기다리며 노는 시간을 없애기 위해 역할·일정·출력 폴더·형식을 고정하는 구성을 세 가지로 정리한 글이다.
+- [Claude Code 팀이 검증 루프를 운영하는 방식](../entries/2026-11.md#claude-code-팀이-검증-루프를-운영하는-방식) (2026-11-17): Claude Code 팀은 코드 대부분을 Claude가 쓰고 리뷰하므로, 에이전트가 증거로 스스로 검증하게 만드는 것을 병렬 위임의 전제로 본다.
+- [한국어 글의 AI 티를 지우는 에이전트 스킬 4종](../entries/2026-11.md#한국어-글의-ai-티를-지우는-에이전트-스킬-4종) (2026-11-17): 에이전트가 쓴 한국어 초안을 다듬는 오픈소스 스킬 네 가지를 모은 글이다.
+- [Claude Animated Shorts: three.js + Remotion으로 1분 애니메이션 쇼츠를 만드는 Claude 스킬](../entries/2026-11.md#claude-animated-shorts-threejs--remotion으로-1분-애니메이션-쇼츠를-만드는-claude-스킬) (2026-11-17): AI 영상 생성기 없이 55~70초짜리 애니메이션 쇼츠를 로컬 PC에서 렌더링하게 해 주는 무료 Claude 스킬이다.
 - [Gemini 4 Hydrogen 무료 API를 Claude·ChatGPT 서브에이전트 스킬로 붙이기](../entries/2026-11.md#gemini-4-hydrogen-무료-api를-claudechatgpt-서브에이전트-스킬로-붙이기) (2026-11-17): Antigravity에서 Gemini 4 Hydrogen을 쓰려면 유료 Pro 이상이 필요하지만, Google AI Studio에서 카드 등록 없이 만든 Gemini API 키로는 무료 티어로 호출할 수 있다며 이를 Claude나 ChatGPT 데스크톱 앱의 서브에이전트로 붙이는 방법을 정리한 글이다.
+- [Grok Bot을 확장하는 오픈소스 저장소 10선](../entries/2026-11.md#grok-bot을-확장하는-오픈소스-저장소-10선) (2026-11-16): Grok Bot용 스킬·템플릿·플러그인·도구 저장소 10개를 정리한 글이다.
 - [Shopify 디자이너의 작업 방식: Figma 스케치에서 Codex·Claude Code로 작동하는 데모까지](../entries/2026-11.md#shopify-디자이너의-작업-방식-figma-스케치에서-codexclaude-code로-작동하는-데모까지) (2026-11-16): Shopify 제품 디자인 스튜디오는 Figma를 의도를 그려 AI에 전달하는 메모장으로 쓰고, 실제 결과물은 Codex·Claude Code로 휴대폰이나 컴퓨터에서 바로 써 볼 수 있는 데모로 만든다.
 - [AI 시대 게임 개발: 에이전트로 프로토타입 만들기, 확장, 디컴파일 복원](../entries/2026-11.md#ai-시대-게임-개발-에이전트로-프로토타입-만들기-확장-디컴파일-복원) (2026-11-16): AI 활용을 새 게임 제작(Produce·Invent), 기존 게임 확장(Extend), 소스가 사라진 게임 복원(Recover) 네 영역으로 나눈 글이다.
 - [plannotator 등 GitHub 급상승 에이전트 도구: 계획·diff 리뷰 작업대, Stitch Skills, AG-UI](../entries/2026-11.md#plannotator-등-github-급상승-에이전트-도구-계획diff-리뷰-작업대-stitch-skills-ag-ui) (2026-11-16): plannotator는 에이전트가 만든 계획·요구 문서·HTML 프로토타입·코드 diff·PR을 로컬 브라우저 창에 띄워 직접 표시하고 주석을 달면, 그 피드백을 한 번에 에이전트로 돌려보내는 Apache-2.0 작업대다.
