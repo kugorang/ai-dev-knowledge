@@ -6,8 +6,9 @@ ChatGPT와 OpenAI 모델·API 관련 항목 모음입니다. Codex 전용 항목
 
 Entries about ChatGPT and OpenAI models and APIs. Codex-only items live on the Codex page.
 
-항목 15개, 최신순 / 15 entries, newest first.
+항목 16개, 최신순 / 16 entries, newest first.
 
+- [Gemini 4 Hydrogen 무료 API를 Claude·ChatGPT 서브에이전트 스킬로 붙이기](../entries/2026-11.md#gemini-4-hydrogen-무료-api를-claudechatgpt-서브에이전트-스킬로-붙이기) (2026-11-17): Antigravity에서 Gemini 4 Hydrogen을 쓰려면 유료 Pro 이상이 필요하지만, Google AI Studio에서 카드 등록 없이 만든 Gemini API 키로는 무료 티어로 호출할 수 있다며 이를 Claude나 ChatGPT 데스크톱 앱의 서브에이전트로 붙이는 방법을 정리한 글이다.
 - [ChatGPT Business 요금제를 외부 코딩 도구에서 쓰기: Sign in with ChatGPT](../entries/2026-11.md#chatgpt-business-요금제를-외부-코딩-도구에서-쓰기-sign-in-with-chatgpt) (2026-11-11): ChatGPT Business 요금제 사용량을 Notion, v0, Amp, Kilo Code, Warp, Nous Research Hermes, OpenClaw, opencode 같은 외부 도구에서도 쓸 수 있게 됐다.
 - [Runway 플러그인: Codex·ChatGPT에서 프로토타입 캐릭터 동작·트레일러 영상 만들기](../entries/2026-11.md#runway-플러그인-codexchatgpt에서-프로토타입-캐릭터-동작트레일러-영상-만들기) (2026-11-11): Codex와 ChatGPT에 Runway 플러그인을 붙이면 대화 안에서 영상 생성까지 이어서 할 수 있다.
 - [ChatGPT dot: 여러 로컬 컴퓨터를 연결해 작업할 기기 고르기](../entries/2026-11.md#chatgpt-dot-여러-로컬-컴퓨터를-연결해-작업할-기기-고르기) (2026-11-10): 하나의 dot에 로컬 컴퓨터 여러 대를 연결하고 작업마다 어느 기기에서 돌릴지 고를 수 있게 됐다.
