@@ -6,8 +6,9 @@ AI로 게임을 만들 때(Unity·Godot·Unreal 포함) 참고할 항목 모음�
 
 Entries about building games with AI, including Unity, Godot and Unreal.
 
-항목 29개, 최신순 / 29 entries, newest first.
+항목 30개, 최신순 / 30 entries, newest first.
 
+- [OpenAI API 사용량 대시보드 개편: 레이트 리밋·오류를 모델·프로젝트·키별로 확인](../entries/2026-11.md#openai-api-사용량-대시보드-개편-레이트-리밋오류를-모델프로젝트키별로-확인) (2026-11-18): OpenAI가 API 사용량 대시보드의 Analytics를 개편했다.
 - [GPT-6.2 Astra·Sol, Codex와 API에 출시](../entries/2026-11.md#gpt-62-astrasol-codex와-api에-출시) (2026-11-18): OpenAI가 어려운 작업용 GPT-6.2 Astra와 일상 작업용 GPT-6.2 Sol을 내놓았고, Plus·Pro·Enterprise·Edu 사용자는 ChatGPT Work와 Codex에서, 개발자는 API에서 바로 쓸 수 있다.
 - [AI 시대 게임 개발: 에이전트로 프로토타입 만들기, 확장, 디컴파일 복원](../entries/2026-11.md#ai-시대-게임-개발-에이전트로-프로토타입-만들기-확장-디컴파일-복원) (2026-11-16): AI 활용을 새 게임 제작(Produce·Invent), 기존 게임 확장(Extend), 소스가 사라진 게임 복원(Recover) 네 영역으로 나눈 글이다.
 - [seo-skills: Claude Code·Codex·Cursor용 SEO 워크플로 스킬 12개](../entries/2026-11.md#seo-skills-claude-codecodexcursor용-seo-워크플로-스킬-12개) (2026-11-11): 여러 사이트를 직접 운영하며 쓰는 SEO 작업 흐름 12개를 SKILL.md로 묶어 공개한 오픈소스 스킬 모음이다.

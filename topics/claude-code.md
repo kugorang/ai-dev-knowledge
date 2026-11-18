@@ -6,8 +6,13 @@ Anthropic의 터미널 코딩 에이전트 Claude Code 관련 팁·업데이트�
 
 Tips, updates and workflows for Claude Code, Anthropic's terminal coding agent.
 
-항목 117개, 최신순 / 117 entries, newest first.
+항목 122개, 최신순 / 122 entries, newest first.
 
+- [OpenCode Browse: 평소 쓰는 브라우저를 Claude Code·Codex·Cursor에 MCP로 연결](../entries/2026-11.md#opencode-browse-평소-쓰는-브라우저를-claude-codecodexcursor에-mcp로-연결) (2026-11-18): OpenCode 팀(Anomaly)이 만든 Browse는 Chromium 확장과 로컬 MCP 서버로, 에이전트가 내 브라우저의 로그인 상태와 확장을 그대로 쓰며 백그라운드 탭에서 페이지 읽기·클릭·입력·스크린샷·탭 녹화·네트워크 캡처를 하게 해 준다.
+- [Claude Code Code Mode(실험): 도구 호출을 JavaScript 한 번으로 묶어 실행](../entries/2026-11.md#claude-code-code-mode실험-도구-호출을-javascript-한-번으로-묶어-실행) (2026-11-18): Code Mode를 켜면 Claude가 Bash·Read·Edit를 하나씩 부르는 대신, 여러 도구 호출을 병렬로 돌리고 앞 결과를 다음 호출에 넘기며 필요한 출력만 돌려받는 JavaScript를 써서 세션에서 실행하고, 긴 명령이 도는 동안에도 대답할 수 있다.
+- [ste80-humanizer: 사실은 그대로 두고 AI 문체만 두 번에 걸쳐 고치는 스킬](../entries/2026-11.md#ste80-humanizer-사실은-그대로-두고-ai-문체만-두-번에-걸쳐-고치는-스킬) (2026-11-18): ste80-humanizer는 AI가 쓴 글을 두 번 손보는 스킬이다.
+- [Paperclip: 여러 코딩 에이전트를 회사 조직처럼 묶어 굴리는 오픈소스](../entries/2026-11.md#paperclip-여러-코딩-에이전트를-회사-조직처럼-묶어-굴리는-오픈소스) (2026-11-18): Paperclip은 목표 하나를 적으면 CEO·CTO·개발자·디자이너·마케터 역할을 각각 다른 AI 에이전트에 맡기고, 조직도·예산·결재 흐름으로 일을 굴리는 오픈소스 오케스트레이터다.
+- [awesome-claude-skills: 코딩 에이전트용 스킬·플러그인 1000여 개 목록과 connect-apps 플러그인](../entries/2026-11.md#awesome-claude-skills-코딩-에이전트용-스킬플러그인-1000여-개-목록과-connect-apps-플러그인) (2026-11-18): Composio가 관리하는 awesome-claude-skills는 문서 처리, 개발 도구, 데이터 분석, 글쓰기, 영상·이미지, 협업, 보안 등 분야별로 SKILL.md 형식 스킬과 플러그인을 1000개 넘게 모은 목록이고, Claude Code 외에 Codex·Cursor·Gemini CLI·Antigravity에서도 쓸 수 있는 것을 골라 두었다.
 - [AGENTS.md + 브리프 파일로 코딩 에이전트에게 Blender 영상 통째로 맡기기](../entries/2026-11.md#agentsmd--브리프-파일로-코딩-에이전트에게-blender-영상-통째로-맡기기) (2026-11-17): 기계식 시계 렌더 영상을 코딩 에이전트로 만든 방법을 파일 두 개(AGENTS.md, 작업 브리프)로 공개했다.
 - [Claude Code 팀 Lydia Hallie의 세션 운영법 5가지 정리](../entries/2026-11.md#claude-code-팀-lydia-hallie의-세션-운영법-5가지-정리) (2026-11-17): Claude Code 팀 Lydia Hallie의 발표를 바탕으로, 여러 세션을 돌릴 때 맡길 일 다섯 가지를 정리한 글이다.
 - [에이전트 프롬프트 인젝션 실제 사례: Muse 비밀번호 탈취와 막는 습관](../entries/2026-11.md#에이전트-프롬프트-인젝션-실제-사례-muse-비밀번호-탈취와-막는-습관) (2026-11-17): 한 보안 연구자가 Meta Muse 에이전트를 속여 저장된 비밀번호를 사용자 모르게 외부 서버로 보내게 만든 과정을 공개했다(현재는 패치됨).

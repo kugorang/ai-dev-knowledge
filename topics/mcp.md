@@ -6,8 +6,10 @@ MCP 서버·클라이언트·보안을 다룬 항목 모음입니다.
 
 Entries about MCP servers, clients and security.
 
-항목 41개, 최신순 / 41 entries, newest first.
+항목 43개, 최신순 / 43 entries, newest first.
 
+- [OpenCode Browse: 평소 쓰는 브라우저를 Claude Code·Codex·Cursor에 MCP로 연결](../entries/2026-11.md#opencode-browse-평소-쓰는-브라우저를-claude-codecodexcursor에-mcp로-연결) (2026-11-18): OpenCode 팀(Anomaly)이 만든 Browse는 Chromium 확장과 로컬 MCP 서버로, 에이전트가 내 브라우저의 로그인 상태와 확장을 그대로 쓰며 백그라운드 탭에서 페이지 읽기·클릭·입력·스크린샷·탭 녹화·네트워크 캡처를 하게 해 준다.
+- [Antigravity 제작기: 종이 스케치에서 오프라인 언어 학습 앱까지](../entries/2026-11.md#antigravity-제작기-종이-스케치에서-오프라인-언어-학습-앱까지) (2026-11-18): Google AI Edge Gallery 팀이 Antigravity로 인터넷 없이 동작하는 언어 학습 앱을 만든 과정을 영상으로 공개했다.
 - [Muse·Grok Bot에서 Gemini 4 Hydrogen을 API로 불러 쓰는 구성](../entries/2026-11.md#musegrok-bot에서-gemini-4-hydrogen을-api로-불러-쓰는-구성) (2026-11-17): 휴대폰에서 바로 부르는 개인 비서는 Muse, 클라우드 PC에서 여러 작업을 병렬로 돌리는 현장 감독은 Grok Bot이 맡고, 글·코드·도식 같은 실제 결과물은 MCP나 Gemini API로 연결한 Gemini 4 Hydrogen이 만드는 역할 분담 사례다.
 - [에이전트 프롬프트 인젝션 실제 사례: Muse 비밀번호 탈취와 막는 습관](../entries/2026-11.md#에이전트-프롬프트-인젝션-실제-사례-muse-비밀번호-탈취와-막는-습관) (2026-11-17): 한 보안 연구자가 Meta Muse 에이전트를 속여 저장된 비밀번호를 사용자 모르게 외부 서버로 보내게 만든 과정을 공개했다(현재는 패치됨).
 - [Grok Bot을 확장하는 오픈소스 저장소 10선](../entries/2026-11.md#grok-bot을-확장하는-오픈소스-저장소-10선) (2026-11-16): Grok Bot용 스킬·템플릿·플러그인·도구 저장소 10개를 정리한 글이다.
