@@ -6,8 +6,10 @@ MCP 서버·클라이언트·보안을 다룬 항목 모음입니다.
 
 Entries about MCP servers, clients and security.
 
-항목 39개, 최신순 / 39 entries, newest first.
+항목 41개, 최신순 / 41 entries, newest first.
 
+- [Muse·Grok Bot에서 Gemini 4 Hydrogen을 API로 불러 쓰는 구성](../entries/2026-11.md#musegrok-bot에서-gemini-4-hydrogen을-api로-불러-쓰는-구성) (2026-11-17): 휴대폰에서 바로 부르는 개인 비서는 Muse, 클라우드 PC에서 여러 작업을 병렬로 돌리는 현장 감독은 Grok Bot이 맡고, 글·코드·도식 같은 실제 결과물은 MCP나 Gemini API로 연결한 Gemini 4 Hydrogen이 만드는 역할 분담 사례다.
+- [에이전트 프롬프트 인젝션 실제 사례: Muse 비밀번호 탈취와 막는 습관](../entries/2026-11.md#에이전트-프롬프트-인젝션-실제-사례-muse-비밀번호-탈취와-막는-습관) (2026-11-17): 한 보안 연구자가 Meta Muse 에이전트를 속여 저장된 비밀번호를 사용자 모르게 외부 서버로 보내게 만든 과정을 공개했다(현재는 패치됨).
 - [Grok Bot을 확장하는 오픈소스 저장소 10선](../entries/2026-11.md#grok-bot을-확장하는-오픈소스-저장소-10선) (2026-11-16): Grok Bot용 스킬·템플릿·플러그인·도구 저장소 10개를 정리한 글이다.
 - [plannotator 등 GitHub 급상승 에이전트 도구: 계획·diff 리뷰 작업대, Stitch Skills, AG-UI](../entries/2026-11.md#plannotator-등-github-급상승-에이전트-도구-계획diff-리뷰-작업대-stitch-skills-ag-ui) (2026-11-16): plannotator는 에이전트가 만든 계획·요구 문서·HTML 프로토타입·코드 diff·PR을 로컬 브라우저 창에 띄워 직접 표시하고 주석을 달면, 그 피드백을 한 번에 에이전트로 돌려보내는 Apache-2.0 작업대다.
 - [서버 로그를 ClickHouse+MCP로 에이전트에 붙여 광고 부정 클릭 잡기](../entries/2026-11.md#서버-로그를-clickhousemcp로-에이전트에-붙여-광고-부정-클릭-잡기) (2026-11-14): 원시 접근 로그를 ClickHouse에 모으고 MCP로 에이전트가 직접 조회하게 해 두었더니, 에이전트가 Google Ads API의 과금 클릭 기록과 로그를 대조해 JS를 한 번도 안 불러온 봇 클릭을 찾아내고, 해당 서브넷을 차단하고 환불 요청서까지 썼다는 운영 사례다.

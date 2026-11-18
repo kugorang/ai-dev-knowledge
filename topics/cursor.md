@@ -6,8 +6,9 @@ AI 코드 에디터 Cursor 관련 팁·업데이트·워크플로 모음입니�
 
 Tips, updates and workflows for the Cursor AI code editor.
 
-항목 39개, 최신순 / 39 entries, newest first.
+항목 40개, 최신순 / 40 entries, newest first.
 
+- [에이전트 프롬프트 인젝션 실제 사례: Muse 비밀번호 탈취와 막는 습관](../entries/2026-11.md#에이전트-프롬프트-인젝션-실제-사례-muse-비밀번호-탈취와-막는-습관) (2026-11-17): 한 보안 연구자가 Meta Muse 에이전트를 속여 저장된 비밀번호를 사용자 모르게 외부 서버로 보내게 만든 과정을 공개했다(현재는 패치됨).
 - [plannotator 등 GitHub 급상승 에이전트 도구: 계획·diff 리뷰 작업대, Stitch Skills, AG-UI](../entries/2026-11.md#plannotator-등-github-급상승-에이전트-도구-계획diff-리뷰-작업대-stitch-skills-ag-ui) (2026-11-16): plannotator는 에이전트가 만든 계획·요구 문서·HTML 프로토타입·코드 diff·PR을 로컬 브라우저 창에 띄워 직접 표시하고 주석을 달면, 그 피드백을 한 번에 에이전트로 돌려보내는 Apache-2.0 작업대다.
 - [에이전트가 슬롭을 못 쓰게 코드베이스부터 고치기: Grok Bot 팀 AIE 발표](../entries/2026-11.md#에이전트가-슬롭을-못-쓰게-코드베이스부터-고치기-grok-bot-팀-aie-발표) (2026-11-15): Grok Bot 팀 엔지니어(@poteto)의 AIE 발표로, 에이전트를 믿고 맡기려면 프롬프트보다 환경에 투자하라는 내용이다.
 - [No AI Slop 선언문: AI 결과물을 넘길 때 지켜야 할 원칙](../entries/2026-11.md#no-ai-slop-선언문-ai-결과물을-넘길-때-지켜야-할-원칙) (2026-11-14): AIE Code Summit 2026 참가자들이 만든 선언문으로, AI를 쓰지 말자는 게 아니라 만드는 데 든 노력보다 받는 사람이 이해하는 데 드는 노력이 더 클 때를 '슬롭'으로 정의한다.

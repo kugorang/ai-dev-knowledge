@@ -6,8 +6,11 @@
 
 Entries about coding agents, subagents, harnesses and skills (SKILL.md).
 
-항목 173개, 최신순 / 173 entries, newest first.
+항목 176개, 최신순 / 176 entries, newest first.
 
+- [Grok Bot 10개로 회사처럼 운영하는 하네스 10단계](../entries/2026-11.md#grok-bot-10개로-회사처럼-운영하는-하네스-10단계) (2026-11-17): Lauren Tan(@poteto)의 Chief of Staff 패턴을 바탕으로 봇 10개에 한 가지 일씩 맡기는 과정을 10단계로 정리한 글로, 단계마다 컴퓨터·로그인·메모리·루틴·멈추는 지점 중 하나를 다룬다.
+- [AGENTS.md + 브리프 파일로 코딩 에이전트에게 Blender 영상 통째로 맡기기](../entries/2026-11.md#agentsmd--브리프-파일로-코딩-에이전트에게-blender-영상-통째로-맡기기) (2026-11-17): 기계식 시계 렌더 영상을 코딩 에이전트로 만든 방법을 파일 두 개(AGENTS.md, 작업 브리프)로 공개했다.
+- [에이전트 프롬프트 인젝션 실제 사례: Muse 비밀번호 탈취와 막는 습관](../entries/2026-11.md#에이전트-프롬프트-인젝션-실제-사례-muse-비밀번호-탈취와-막는-습관) (2026-11-17): 한 보안 연구자가 Meta Muse 에이전트를 속여 저장된 비밀번호를 사용자 모르게 외부 서버로 보내게 만든 과정을 공개했다(현재는 패치됨).
 - [Claude Code 데스크톱, iOS 시뮬레이터 iPhone Duo 지원과 Xcode 플러그인](../entries/2026-11.md#claude-code-데스크톱-ios-시뮬레이터-iphone-duo-지원과-xcode-플러그인) (2026-11-17): Claude Code 데스크톱(macOS, Xcode 27.1 이상)에서 iOS 시뮬레이터의 iPhone Duo를 대화창 옆에 띄우고 Claude가 기기를 접고 펴며 레이아웃별로 테스트할 수 있게 됐다(공개 베타).
 - [Claude Code와 Grok Bot에 시간대별 일을 맡기는 세 가지 구성](../entries/2026-11.md#claude-code와-grok-bot에-시간대별-일을-맡기는-세-가지-구성) (2026-11-17): 에이전트가 프롬프트를 기다리며 노는 시간을 없애기 위해 역할·일정·출력 폴더·형식을 고정하는 구성을 세 가지로 정리한 글이다.
 - [Claude Code 팀이 검증 루프를 운영하는 방식](../entries/2026-11.md#claude-code-팀이-검증-루프를-운영하는-방식) (2026-11-17): Claude Code 팀은 코드 대부분을 Claude가 쓰고 리뷰하므로, 에이전트가 증거로 스스로 검증하게 만드는 것을 병렬 위임의 전제로 본다.

@@ -6,8 +6,9 @@
 
 Entries about images, sprites, pixel art, 3D, VFX and video creation.
 
-항목 35개, 최신순 / 35 entries, newest first.
+항목 36개, 최신순 / 36 entries, newest first.
 
+- [AGENTS.md + 브리프 파일로 코딩 에이전트에게 Blender 영상 통째로 맡기기](../entries/2026-11.md#agentsmd--브리프-파일로-코딩-에이전트에게-blender-영상-통째로-맡기기) (2026-11-17): 기계식 시계 렌더 영상을 코딩 에이전트로 만든 방법을 파일 두 개(AGENTS.md, 작업 브리프)로 공개했다.
 - [Claude Animated Shorts: three.js + Remotion으로 1분 애니메이션 쇼츠를 만드는 Claude 스킬](../entries/2026-11.md#claude-animated-shorts-threejs--remotion으로-1분-애니메이션-쇼츠를-만드는-claude-스킬) (2026-11-17): AI 영상 생성기 없이 55~70초짜리 애니메이션 쇼츠를 로컬 PC에서 렌더링하게 해 주는 무료 Claude 스킬이다.
 - [AI 시대 게임 개발: 에이전트로 프로토타입 만들기, 확장, 디컴파일 복원](../entries/2026-11.md#ai-시대-게임-개발-에이전트로-프로토타입-만들기-확장-디컴파일-복원) (2026-11-16): AI 활용을 새 게임 제작(Produce·Invent), 기존 게임 확장(Extend), 소스가 사라진 게임 복원(Recover) 네 영역으로 나눈 글이다.
 - [awesome-short-drama-skills: AI 숏드라마·웹툰 영상용 에이전트 스킬 86종과 블라인드 실측](../entries/2026-11.md#awesome-short-drama-skills-ai-숏드라마웹툰-영상용-에이전트-스킬-86종과-블라인드-실측) (2026-11-16): 소설 각색, 회차별 줄거리, 엔딩 훅·결제 지점, 대본 검토, 콘티, 캐릭터 시트, Seedance·Kling·MiniMax용 영상 프롬프트까지 단계별로 정리한 CC0 스킬 모음이다(86개 + 관련 오픈소스 플랫폼 16개, 대부분 표준 SKILL.md라 Claude Code·Codex 등에 설치).

@@ -6,8 +6,10 @@ OpenAI Codex(CLI·앱·클라우드) 관련 팁·업데이트·워크플로 모�
 
 Tips, updates and workflows for OpenAI Codex (CLI, app and cloud).
 
-항목 52개, 최신순 / 52 entries, newest first.
+항목 54개, 최신순 / 54 entries, newest first.
 
+- [GPT-6.2 Astra·Sol, Codex와 API에 출시](../entries/2026-11.md#gpt-62-astrasol-codex와-api에-출시) (2026-11-18): OpenAI가 어려운 작업용 GPT-6.2 Astra와 일상 작업용 GPT-6.2 Sol을 내놓았고, Plus·Pro·Enterprise·Edu 사용자는 ChatGPT Work와 Codex에서, 개발자는 API에서 바로 쓸 수 있다.
+- [에이전트 프롬프트 인젝션 실제 사례: Muse 비밀번호 탈취와 막는 습관](../entries/2026-11.md#에이전트-프롬프트-인젝션-실제-사례-muse-비밀번호-탈취와-막는-습관) (2026-11-17): 한 보안 연구자가 Meta Muse 에이전트를 속여 저장된 비밀번호를 사용자 모르게 외부 서버로 보내게 만든 과정을 공개했다(현재는 패치됨).
 - [Shopify 디자이너의 작업 방식: Figma 스케치에서 Codex·Claude Code로 작동하는 데모까지](../entries/2026-11.md#shopify-디자이너의-작업-방식-figma-스케치에서-codexclaude-code로-작동하는-데모까지) (2026-11-16): Shopify 제품 디자인 스튜디오는 Figma를 의도를 그려 AI에 전달하는 메모장으로 쓰고, 실제 결과물은 Codex·Claude Code로 휴대폰이나 컴퓨터에서 바로 써 볼 수 있는 데모로 만든다.
 - [AI 시대 게임 개발: 에이전트로 프로토타입 만들기, 확장, 디컴파일 복원](../entries/2026-11.md#ai-시대-게임-개발-에이전트로-프로토타입-만들기-확장-디컴파일-복원) (2026-11-16): AI 활용을 새 게임 제작(Produce·Invent), 기존 게임 확장(Extend), 소스가 사라진 게임 복원(Recover) 네 영역으로 나눈 글이다.
 - [plannotator 등 GitHub 급상승 에이전트 도구: 계획·diff 리뷰 작업대, Stitch Skills, AG-UI](../entries/2026-11.md#plannotator-등-github-급상승-에이전트-도구-계획diff-리뷰-작업대-stitch-skills-ag-ui) (2026-11-16): plannotator는 에이전트가 만든 계획·요구 문서·HTML 프로토타입·코드 diff·PR을 로컬 브라우저 창에 띄워 직접 표시하고 주석을 달면, 그 피드백을 한 번에 에이전트로 돌려보내는 Apache-2.0 작업대다.

@@ -8,8 +8,10 @@ Entries about running, configuring and budgeting Grok Bot.
 
 관련 가이드 / Related guides: [Grok Bot 사용 팁](../guides/grok-bot-tips.md)
 
-항목 26개, 최신순 / 26 entries, newest first.
+항목 28개, 최신순 / 28 entries, newest first.
 
+- [Muse·Grok Bot에서 Gemini 4 Hydrogen을 API로 불러 쓰는 구성](../entries/2026-11.md#musegrok-bot에서-gemini-4-hydrogen을-api로-불러-쓰는-구성) (2026-11-17): 휴대폰에서 바로 부르는 개인 비서는 Muse, 클라우드 PC에서 여러 작업을 병렬로 돌리는 현장 감독은 Grok Bot이 맡고, 글·코드·도식 같은 실제 결과물은 MCP나 Gemini API로 연결한 Gemini 4 Hydrogen이 만드는 역할 분담 사례다.
+- [Grok Bot 10개로 회사처럼 운영하는 하네스 10단계](../entries/2026-11.md#grok-bot-10개로-회사처럼-운영하는-하네스-10단계) (2026-11-17): Lauren Tan(@poteto)의 Chief of Staff 패턴을 바탕으로 봇 10개에 한 가지 일씩 맡기는 과정을 10단계로 정리한 글로, 단계마다 컴퓨터·로그인·메모리·루틴·멈추는 지점 중 하나를 다룬다.
 - [Claude Code와 Grok Bot에 시간대별 일을 맡기는 세 가지 구성](../entries/2026-11.md#claude-code와-grok-bot에-시간대별-일을-맡기는-세-가지-구성) (2026-11-17): 에이전트가 프롬프트를 기다리며 노는 시간을 없애기 위해 역할·일정·출력 폴더·형식을 고정하는 구성을 세 가지로 정리한 글이다.
 - [Grok Bot을 확장하는 오픈소스 저장소 10선](../entries/2026-11.md#grok-bot을-확장하는-오픈소스-저장소-10선) (2026-11-16): Grok Bot용 스킬·템플릿·플러그인·도구 저장소 10개를 정리한 글이다.
 - [plannotator 등 GitHub 급상승 에이전트 도구: 계획·diff 리뷰 작업대, Stitch Skills, AG-UI](../entries/2026-11.md#plannotator-등-github-급상승-에이전트-도구-계획diff-리뷰-작업대-stitch-skills-ag-ui) (2026-11-16): plannotator는 에이전트가 만든 계획·요구 문서·HTML 프로토타입·코드 diff·PR을 로컬 브라우저 창에 띄워 직접 표시하고 주석을 달면, 그 피드백을 한 번에 에이전트로 돌려보내는 Apache-2.0 작업대다.
