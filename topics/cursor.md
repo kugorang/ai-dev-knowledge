@@ -6,8 +6,9 @@ AI 코드 에디터 Cursor 관련 팁·업데이트·워크플로 모음입니�
 
 Tips, updates and workflows for the Cursor AI code editor.
 
-항목 44개, 최신순 / 44 entries, newest first.
+항목 45개, 최신순 / 45 entries, newest first.
 
+- [에이전트 개발자들이 공개한 설정 저장소 7선: 공식 스킬부터 gstack·ccusage까지](../entries/2026-11.md#에이전트-개발자들이-공개한-설정-저장소-7선-공식-스킬부터-gstackccusage까지) (2026-11-19): 에이전트로 실제 개발하는 사람들의 설정 저장소 7개를 묶은 목록이다.
 - [OpenCode Browse: 평소 쓰는 브라우저를 Claude Code·Codex·Cursor에 MCP로 연결](../entries/2026-11.md#opencode-browse-평소-쓰는-브라우저를-claude-codecodexcursor에-mcp로-연결) (2026-11-18): OpenCode 팀(Anomaly)이 만든 Browse는 Chromium 확장과 로컬 MCP 서버로, 에이전트가 내 브라우저의 로그인 상태와 확장을 그대로 쓰며 백그라운드 탭에서 페이지 읽기·클릭·입력·스크린샷·탭 녹화·네트워크 캡처를 하게 해 준다.
 - [ste80-humanizer: 사실은 그대로 두고 AI 문체만 두 번에 걸쳐 고치는 스킬](../entries/2026-11.md#ste80-humanizer-사실은-그대로-두고-ai-문체만-두-번에-걸쳐-고치는-스킬) (2026-11-18): ste80-humanizer는 AI가 쓴 글을 두 번 손보는 스킬이다.
 - [Paperclip: 여러 코딩 에이전트를 회사 조직처럼 묶어 굴리는 오픈소스](../entries/2026-11.md#paperclip-여러-코딩-에이전트를-회사-조직처럼-묶어-굴리는-오픈소스) (2026-11-18): Paperclip은 목표 하나를 적으면 CEO·CTO·개발자·디자이너·마케터 역할을 각각 다른 AI 에이전트에 맡기고, 조직도·예산·결재 흐름으로 일을 굴리는 오픈소스 오케스트레이터다.

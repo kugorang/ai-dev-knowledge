@@ -6,8 +6,12 @@
 
 Entries about coding agents, subagents, harnesses and skills (SKILL.md).
 
-항목 182개, 최신순 / 182 entries, newest first.
+항목 186개, 최신순 / 186 entries, newest first.
 
+- [Google AI Studio Android 앱 빌드에 Firebase AI Logic·App Check 자동 설정](../entries/2026-11.md#google-ai-studio-android-앱-빌드에-firebase-ai-logicapp-check-자동-설정) (2026-11-19): Firebase가 Google AI Studio와의 연동을 넓혀, AI Studio에서 Android 앱에 AI 기능을 넣어 달라고 프롬프트하면 에이전트가 Firebase AI Logic을 구성하고 Firebase App Check까지 적용한다.
+- [Codex 샌드박스: 명령 실행 범위를 파일시스템·네트워크 한도로 묶기](../entries/2026-11.md#codex-샌드박스-명령-실행-범위를-파일시스템네트워크-한도로-묶기) (2026-11-19): OpenAI가 모델이 강해질수록 에이전트가 접근할 수 있는 범위를 제한하는 게 더 중요해진다며 Codex 샌드박스를 소개했다.
+- [에이전트 개발자들이 공개한 설정 저장소 7선: 공식 스킬부터 gstack·ccusage까지](../entries/2026-11.md#에이전트-개발자들이-공개한-설정-저장소-7선-공식-스킬부터-gstackccusage까지) (2026-11-19): 에이전트로 실제 개발하는 사람들의 설정 저장소 7개를 묶은 목록이다.
+- [Grok Bot 팀 60분 Q&A: 에이전트를 챗봇이 아니라 팀원으로 쓰는 법](../entries/2026-11.md#grok-bot-팀-60분-qa-에이전트를-챗봇이-아니라-팀원으로-쓰는-법) (2026-11-19): Grok Bot 팀의 Matt Palmer와 Lauren Tan이 60분짜리 Q&A 영상에서 Grok Bot을 대화형 챗봇이 아니라 일을 맡기는 팀원처럼 쓰는 방법을 다뤘다.
 - [OpenCode Browse: 평소 쓰는 브라우저를 Claude Code·Codex·Cursor에 MCP로 연결](../entries/2026-11.md#opencode-browse-평소-쓰는-브라우저를-claude-codecodexcursor에-mcp로-연결) (2026-11-18): OpenCode 팀(Anomaly)이 만든 Browse는 Chromium 확장과 로컬 MCP 서버로, 에이전트가 내 브라우저의 로그인 상태와 확장을 그대로 쓰며 백그라운드 탭에서 페이지 읽기·클릭·입력·스크린샷·탭 녹화·네트워크 캡처를 하게 해 준다.
 - [FrontierHarness Eval v1.1: 모델을 바꾸면 하네스도 다시 고를 것](../entries/2026-11.md#frontierharness-eval-v11-모델을-바꾸면-하네스도-다시-고를-것) (2026-11-18): Runta가 Baseten과 함께 공개 모델 5개(GLM-5.3, GLM-5.3 Flash, DeepSeek V4.1 Flash, Muse Spark Open, Kimi-K3)에 하네스 22개 구성을 62개 터미널 작업으로 돌려 본 결과, 가성비가 가장 좋은 하네스가 모델마다 달랐다(GLM-5.3은 Codex CLI, Muse는 Oh My Pi 등).
 - [Claude Code Code Mode(실험): 도구 호출을 JavaScript 한 번으로 묶어 실행](../entries/2026-11.md#claude-code-code-mode실험-도구-호출을-javascript-한-번으로-묶어-실행) (2026-11-18): Code Mode를 켜면 Claude가 Bash·Read·Edit를 하나씩 부르는 대신, 여러 도구 호출을 병렬로 돌리고 앞 결과를 다음 호출에 넘기며 필요한 출력만 돌려받는 JavaScript를 써서 세션에서 실행하고, 긴 명령이 도는 동안에도 대답할 수 있다.

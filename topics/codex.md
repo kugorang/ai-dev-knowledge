@@ -6,8 +6,10 @@ OpenAI Codex(CLI·앱·클라우드) 관련 팁·업데이트·워크플로 모�
 
 Tips, updates and workflows for OpenAI Codex (CLI, app and cloud).
 
-항목 59개, 최신순 / 59 entries, newest first.
+항목 61개, 최신순 / 61 entries, newest first.
 
+- [Codex 샌드박스: 명령 실행 범위를 파일시스템·네트워크 한도로 묶기](../entries/2026-11.md#codex-샌드박스-명령-실행-범위를-파일시스템네트워크-한도로-묶기) (2026-11-19): OpenAI가 모델이 강해질수록 에이전트가 접근할 수 있는 범위를 제한하는 게 더 중요해진다며 Codex 샌드박스를 소개했다.
+- [에이전트 개발자들이 공개한 설정 저장소 7선: 공식 스킬부터 gstack·ccusage까지](../entries/2026-11.md#에이전트-개발자들이-공개한-설정-저장소-7선-공식-스킬부터-gstackccusage까지) (2026-11-19): 에이전트로 실제 개발하는 사람들의 설정 저장소 7개를 묶은 목록이다.
 - [OpenCode Browse: 평소 쓰는 브라우저를 Claude Code·Codex·Cursor에 MCP로 연결](../entries/2026-11.md#opencode-browse-평소-쓰는-브라우저를-claude-codecodexcursor에-mcp로-연결) (2026-11-18): OpenCode 팀(Anomaly)이 만든 Browse는 Chromium 확장과 로컬 MCP 서버로, 에이전트가 내 브라우저의 로그인 상태와 확장을 그대로 쓰며 백그라운드 탭에서 페이지 읽기·클릭·입력·스크린샷·탭 녹화·네트워크 캡처를 하게 해 준다.
 - [FrontierHarness Eval v1.1: 모델을 바꾸면 하네스도 다시 고를 것](../entries/2026-11.md#frontierharness-eval-v11-모델을-바꾸면-하네스도-다시-고를-것) (2026-11-18): Runta가 Baseten과 함께 공개 모델 5개(GLM-5.3, GLM-5.3 Flash, DeepSeek V4.1 Flash, Muse Spark Open, Kimi-K3)에 하네스 22개 구성을 62개 터미널 작업으로 돌려 본 결과, 가성비가 가장 좋은 하네스가 모델마다 달랐다(GLM-5.3은 Codex CLI, Muse는 Oh My Pi 등).
 - [ste80-humanizer: 사실은 그대로 두고 AI 문체만 두 번에 걸쳐 고치는 스킬](../entries/2026-11.md#ste80-humanizer-사실은-그대로-두고-ai-문체만-두-번에-걸쳐-고치는-스킬) (2026-11-18): ste80-humanizer는 AI가 쓴 글을 두 번 손보는 스킬이다.

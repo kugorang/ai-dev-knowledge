@@ -6,8 +6,9 @@ Anthropic의 터미널 코딩 에이전트 Claude Code 관련 팁·업데이트�
 
 Tips, updates and workflows for Claude Code, Anthropic's terminal coding agent.
 
-항목 122개, 최신순 / 122 entries, newest first.
+항목 123개, 최신순 / 123 entries, newest first.
 
+- [에이전트 개발자들이 공개한 설정 저장소 7선: 공식 스킬부터 gstack·ccusage까지](../entries/2026-11.md#에이전트-개발자들이-공개한-설정-저장소-7선-공식-스킬부터-gstackccusage까지) (2026-11-19): 에이전트로 실제 개발하는 사람들의 설정 저장소 7개를 묶은 목록이다.
 - [OpenCode Browse: 평소 쓰는 브라우저를 Claude Code·Codex·Cursor에 MCP로 연결](../entries/2026-11.md#opencode-browse-평소-쓰는-브라우저를-claude-codecodexcursor에-mcp로-연결) (2026-11-18): OpenCode 팀(Anomaly)이 만든 Browse는 Chromium 확장과 로컬 MCP 서버로, 에이전트가 내 브라우저의 로그인 상태와 확장을 그대로 쓰며 백그라운드 탭에서 페이지 읽기·클릭·입력·스크린샷·탭 녹화·네트워크 캡처를 하게 해 준다.
 - [Claude Code Code Mode(실험): 도구 호출을 JavaScript 한 번으로 묶어 실행](../entries/2026-11.md#claude-code-code-mode실험-도구-호출을-javascript-한-번으로-묶어-실행) (2026-11-18): Code Mode를 켜면 Claude가 Bash·Read·Edit를 하나씩 부르는 대신, 여러 도구 호출을 병렬로 돌리고 앞 결과를 다음 호출에 넘기며 필요한 출력만 돌려받는 JavaScript를 써서 세션에서 실행하고, 긴 명령이 도는 동안에도 대답할 수 있다.
 - [ste80-humanizer: 사실은 그대로 두고 AI 문체만 두 번에 걸쳐 고치는 스킬](../entries/2026-11.md#ste80-humanizer-사실은-그대로-두고-ai-문체만-두-번에-걸쳐-고치는-스킬) (2026-11-18): ste80-humanizer는 AI가 쓴 글을 두 번 손보는 스킬이다.
