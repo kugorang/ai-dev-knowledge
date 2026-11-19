@@ -8,8 +8,11 @@ Entries about running, configuring and budgeting Grok Bot.
 
 관련 가이드 / Related guides: [Grok Bot 사용 팁](../guides/grok-bot-tips.md)
 
-항목 29개, 최신순 / 29 entries, newest first.
+항목 32개, 최신순 / 32 entries, newest first.
 
+- [grok-bot.directory 오픈: Grok Bot용 봇·앱 커뮤니티 디렉터리](../entries/2026-11.md#grok-botdirectory-오픈-grok-bot용-봇앱-커뮤니티-디렉터리) (2026-11-19): 사람들이 만든 Grok Bot 봇과 앱을 둘러보고 설치하거나 내가 만든 것을 올릴 수 있는 커뮤니티 디렉터리 grok-bot.directory가 열렸다.
+- [Grok Bot 1.2.3 안정판: 도구별 실행 방식 선택, 채팅에서 계정 재연결, 브라우저보다 커넥터 우선](../entries/2026-11.md#grok-bot-123-안정판-도구별-실행-방식-선택-채팅에서-계정-재연결-브라우저보다-커넥터-우선) (2026-11-19): Grok Bot 1.2.3이 안정판으로 나왔다.
+- [Grok Bot으로 뭐든 자동화하는 법: 목표부터 정하고, 과정은 말로 쏟아낸 뒤 확인받기](../entries/2026-11.md#grok-bot으로-뭐든-자동화하는-법-목표부터-정하고-과정은-말로-쏟아낸-뒤-확인받기) (2026-11-19): Grok Bot 팀의 Lauren Tan이 쓴 자동화 가이드로, 새 봇을 만들면 먼저 '양식 작성'이나 '메일 발송' 같은 단계가 아니라 그 일이 결국 무엇을 위한 것인지(목표)를 맡기고, 평소 하는 단계·주의할 점·쓰는 앱·결과 확인 방법·정보와 피드백을 얻는 곳을 음성 받아쓰기로 한꺼번에 설명하라고 권한다.
 - [Grok Bot 팀 60분 Q&A: 에이전트를 챗봇이 아니라 팀원으로 쓰는 법](../entries/2026-11.md#grok-bot-팀-60분-qa-에이전트를-챗봇이-아니라-팀원으로-쓰는-법) (2026-11-19): Grok Bot 팀의 Matt Palmer와 Lauren Tan이 60분짜리 Q&A 영상에서 Grok Bot을 대화형 챗봇이 아니라 일을 맡기는 팀원처럼 쓰는 방법을 다뤘다.
 - [Muse·Grok Bot에서 Gemini 4 Hydrogen을 API로 불러 쓰는 구성](../entries/2026-11.md#musegrok-bot에서-gemini-4-hydrogen을-api로-불러-쓰는-구성) (2026-11-17): 휴대폰에서 바로 부르는 개인 비서는 Muse, 클라우드 PC에서 여러 작업을 병렬로 돌리는 현장 감독은 Grok Bot이 맡고, 글·코드·도식 같은 실제 결과물은 MCP나 Gemini API로 연결한 Gemini 4 Hydrogen이 만드는 역할 분담 사례다.
 - [Grok Bot 10개로 회사처럼 운영하는 하네스 10단계](../entries/2026-11.md#grok-bot-10개로-회사처럼-운영하는-하네스-10단계) (2026-11-17): Lauren Tan(@poteto)의 Chief of Staff 패턴을 바탕으로 봇 10개에 한 가지 일씩 맡기는 과정을 10단계로 정리한 글로, 단계마다 컴퓨터·로그인·메모리·루틴·멈추는 지점 중 하나를 다룬다.

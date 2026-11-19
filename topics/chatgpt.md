@@ -6,8 +6,9 @@ ChatGPT와 OpenAI 모델·API 관련 항목 모음입니다. Codex 전용 항목
 
 Entries about ChatGPT and OpenAI models and APIs. Codex-only items live on the Codex page.
 
-항목 18개, 최신순 / 18 entries, newest first.
+항목 19개, 최신순 / 19 entries, newest first.
 
+- [OpenAI API, 급하지 않은 작업은 최대 40% 할인: 백그라운드 모드 2시간/8시간 목표](../entries/2026-11.md#openai-api-급하지-않은-작업은-최대-40-할인-백그라운드-모드-2시간8시간-목표) (2026-11-19): OpenAI가 바로 응답이 필요 없는 단일·멀티턴 작업에 대해 GPT-6.2 Astra와 GPT-6.2 Sol을 Standard보다 토큰당 최대 40% 싸게 쓰는 옵션을 내놨다.
 - [OpenAI API 사용량 대시보드 개편: 레이트 리밋·오류를 모델·프로젝트·키별로 확인](../entries/2026-11.md#openai-api-사용량-대시보드-개편-레이트-리밋오류를-모델프로젝트키별로-확인) (2026-11-18): OpenAI가 API 사용량 대시보드의 Analytics를 개편했다.
 - [GPT-6.2 Astra·Sol, Codex와 API에 출시](../entries/2026-11.md#gpt-62-astrasol-codex와-api에-출시) (2026-11-18): OpenAI가 어려운 작업용 GPT-6.2 Astra와 일상 작업용 GPT-6.2 Sol을 내놓았고, Plus·Pro·Enterprise·Edu 사용자는 ChatGPT Work와 Codex에서, 개발자는 API에서 바로 쓸 수 있다.
 - [Gemini 4 Hydrogen 무료 API를 Claude·ChatGPT 서브에이전트 스킬로 붙이기](../entries/2026-11.md#gemini-4-hydrogen-무료-api를-claudechatgpt-서브에이전트-스킬로-붙이기) (2026-11-17): Antigravity에서 Gemini 4 Hydrogen을 쓰려면 유료 Pro 이상이 필요하지만, Google AI Studio에서 카드 등록 없이 만든 Gemini API 키로는 무료 티어로 호출할 수 있다며 이를 Claude나 ChatGPT 데스크톱 앱의 서브에이전트로 붙이는 방법을 정리한 글이다.

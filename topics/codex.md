@@ -6,8 +6,9 @@ OpenAI Codex(CLI·앱·클라우드) 관련 팁·업데이트·워크플로 모�
 
 Tips, updates and workflows for OpenAI Codex (CLI, app and cloud).
 
-항목 61개, 최신순 / 61 entries, newest first.
+항목 62개, 최신순 / 62 entries, newest first.
 
+- [Firecrawl Local 오픈소스 공개: 에이전트가 API 키 없이 로컬에서 웹 스크래핑](../entries/2026-11.md#firecrawl-local-오픈소스-공개-에이전트가-api-키-없이-로컬에서-웹-스크래핑) (2026-11-19): Firecrawl이 저장소를 다시 만들어 에이전트가 내 컴퓨터에서 직접 웹을 긁어올 수 있는 Firecrawl Local을 100% 오픈소스로 공개했다.
 - [Codex 샌드박스: 명령 실행 범위를 파일시스템·네트워크 한도로 묶기](../entries/2026-11.md#codex-샌드박스-명령-실행-범위를-파일시스템네트워크-한도로-묶기) (2026-11-19): OpenAI가 모델이 강해질수록 에이전트가 접근할 수 있는 범위를 제한하는 게 더 중요해진다며 Codex 샌드박스를 소개했다.
 - [에이전트 개발자들이 공개한 설정 저장소 7선: 공식 스킬부터 gstack·ccusage까지](../entries/2026-11.md#에이전트-개발자들이-공개한-설정-저장소-7선-공식-스킬부터-gstackccusage까지) (2026-11-19): 에이전트로 실제 개발하는 사람들의 설정 저장소 7개를 묶은 목록이다.
 - [OpenCode Browse: 평소 쓰는 브라우저를 Claude Code·Codex·Cursor에 MCP로 연결](../entries/2026-11.md#opencode-browse-평소-쓰는-브라우저를-claude-codecodexcursor에-mcp로-연결) (2026-11-18): OpenCode 팀(Anomaly)이 만든 Browse는 Chromium 확장과 로컬 MCP 서버로, 에이전트가 내 브라우저의 로그인 상태와 확장을 그대로 쓰며 백그라운드 탭에서 페이지 읽기·클릭·입력·스크린샷·탭 녹화·네트워크 캡처를 하게 해 준다.

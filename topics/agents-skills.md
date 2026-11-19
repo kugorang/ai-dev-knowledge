@@ -6,8 +6,11 @@
 
 Entries about coding agents, subagents, harnesses and skills (SKILL.md).
 
-항목 186개, 최신순 / 186 entries, newest first.
+항목 189개, 최신순 / 189 entries, newest first.
 
+- [OpenAI API, 급하지 않은 작업은 최대 40% 할인: 백그라운드 모드 2시간/8시간 목표](../entries/2026-11.md#openai-api-급하지-않은-작업은-최대-40-할인-백그라운드-모드-2시간8시간-목표) (2026-11-19): OpenAI가 바로 응답이 필요 없는 단일·멀티턴 작업에 대해 GPT-6.2 Astra와 GPT-6.2 Sol을 Standard보다 토큰당 최대 40% 싸게 쓰는 옵션을 내놨다.
+- [Firecrawl Local 오픈소스 공개: 에이전트가 API 키 없이 로컬에서 웹 스크래핑](../entries/2026-11.md#firecrawl-local-오픈소스-공개-에이전트가-api-키-없이-로컬에서-웹-스크래핑) (2026-11-19): Firecrawl이 저장소를 다시 만들어 에이전트가 내 컴퓨터에서 직접 웹을 긁어올 수 있는 Firecrawl Local을 100% 오픈소스로 공개했다.
+- [Grok Bot으로 뭐든 자동화하는 법: 목표부터 정하고, 과정은 말로 쏟아낸 뒤 확인받기](../entries/2026-11.md#grok-bot으로-뭐든-자동화하는-법-목표부터-정하고-과정은-말로-쏟아낸-뒤-확인받기) (2026-11-19): Grok Bot 팀의 Lauren Tan이 쓴 자동화 가이드로, 새 봇을 만들면 먼저 '양식 작성'이나 '메일 발송' 같은 단계가 아니라 그 일이 결국 무엇을 위한 것인지(목표)를 맡기고, 평소 하는 단계·주의할 점·쓰는 앱·결과 확인 방법·정보와 피드백을 얻는 곳을 음성 받아쓰기로 한꺼번에 설명하라고 권한다.
 - [Google AI Studio Android 앱 빌드에 Firebase AI Logic·App Check 자동 설정](../entries/2026-11.md#google-ai-studio-android-앱-빌드에-firebase-ai-logicapp-check-자동-설정) (2026-11-19): Firebase가 Google AI Studio와의 연동을 넓혀, AI Studio에서 Android 앱에 AI 기능을 넣어 달라고 프롬프트하면 에이전트가 Firebase AI Logic을 구성하고 Firebase App Check까지 적용한다.
 - [Codex 샌드박스: 명령 실행 범위를 파일시스템·네트워크 한도로 묶기](../entries/2026-11.md#codex-샌드박스-명령-실행-범위를-파일시스템네트워크-한도로-묶기) (2026-11-19): OpenAI가 모델이 강해질수록 에이전트가 접근할 수 있는 범위를 제한하는 게 더 중요해진다며 Codex 샌드박스를 소개했다.
 - [에이전트 개발자들이 공개한 설정 저장소 7선: 공식 스킬부터 gstack·ccusage까지](../entries/2026-11.md#에이전트-개발자들이-공개한-설정-저장소-7선-공식-스킬부터-gstackccusage까지) (2026-11-19): 에이전트로 실제 개발하는 사람들의 설정 저장소 7개를 묶은 목록이다.
