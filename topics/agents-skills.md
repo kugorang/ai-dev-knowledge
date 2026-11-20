@@ -6,8 +6,12 @@
 
 Entries about coding agents, subagents, harnesses and skills (SKILL.md).
 
-항목 189개, 최신순 / 189 entries, newest first.
+항목 193개, 최신순 / 193 entries, newest first.
 
+- [Skillsync: 만든 스킬을 Claude·ChatGPT·Claude Code·Codex에 커넥터 하나로 배포](../entries/2026-11.md#skillsync-만든-스킬을-claudechatgptclaude-codecodex에-커넥터-하나로-배포) (2026-11-20): 글이나 작업 방식을 Claude의 skill-creator로 SKILL.md로 만든 뒤 Skillsync 프로필에 올려 두면, 독자는 버튼 하나로 자기 라이브러리에 추가하고 MCP 커넥터 하나로 Claude, ChatGPT, Claude Code, Codex에서 쓸 수 있다는 셋업 글이다.
+- [OpenAI Performance Factory: Codex 에이전트로 성능 회귀 추적·수정·검증](../entries/2026-11.md#openai-performance-factory-codex-에이전트로-성능-회귀-추적수정검증) (2026-11-20): OpenAI가 ChatGPT 성능을 지키려고 Codex 기반 'Performance Factory'를 만들었다고 소개했다.
+- [Antigravity 데스크톱 앱, 네이티브 SSH 지원](../entries/2026-11.md#antigravity-데스크톱-앱-네이티브-ssh-지원) (2026-11-20): Antigravity 데스크톱 앱에서 SSH로 원격 서버에 바로 접속할 수 있게 됐다.
+- [Gemini API Tool Retrieval: 수백 개 도구를 컨텍스트 낭비 없이](../entries/2026-11.md#gemini-api-tool-retrieval-수백-개-도구를-컨텍스트-낭비-없이) (2026-11-20): Gemini Interactions API에 Tool Retrieval이 프리뷰로 들어왔다.
 - [OpenAI API, 급하지 않은 작업은 최대 40% 할인: 백그라운드 모드 2시간/8시간 목표](../entries/2026-11.md#openai-api-급하지-않은-작업은-최대-40-할인-백그라운드-모드-2시간8시간-목표) (2026-11-19): OpenAI가 바로 응답이 필요 없는 단일·멀티턴 작업에 대해 GPT-6.2 Astra와 GPT-6.2 Sol을 Standard보다 토큰당 최대 40% 싸게 쓰는 옵션을 내놨다.
 - [Firecrawl Local 오픈소스 공개: 에이전트가 API 키 없이 로컬에서 웹 스크래핑](../entries/2026-11.md#firecrawl-local-오픈소스-공개-에이전트가-api-키-없이-로컬에서-웹-스크래핑) (2026-11-19): Firecrawl이 저장소를 다시 만들어 에이전트가 내 컴퓨터에서 직접 웹을 긁어올 수 있는 Firecrawl Local을 100% 오픈소스로 공개했다.
 - [Grok Bot으로 뭐든 자동화하는 법: 목표부터 정하고, 과정은 말로 쏟아낸 뒤 확인받기](../entries/2026-11.md#grok-bot으로-뭐든-자동화하는-법-목표부터-정하고-과정은-말로-쏟아낸-뒤-확인받기) (2026-11-19): Grok Bot 팀의 Lauren Tan이 쓴 자동화 가이드로, 새 봇을 만들면 먼저 '양식 작성'이나 '메일 발송' 같은 단계가 아니라 그 일이 결국 무엇을 위한 것인지(목표)를 맡기고, 평소 하는 단계·주의할 점·쓰는 앱·결과 확인 방법·정보와 피드백을 얻는 곳을 음성 받아쓰기로 한꺼번에 설명하라고 권한다.

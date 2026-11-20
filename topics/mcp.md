@@ -6,8 +6,9 @@ MCP 서버·클라이언트·보안을 다룬 항목 모음입니다.
 
 Entries about MCP servers, clients and security.
 
-항목 44개, 최신순 / 44 entries, newest first.
+항목 45개, 최신순 / 45 entries, newest first.
 
+- [Skillsync: 만든 스킬을 Claude·ChatGPT·Claude Code·Codex에 커넥터 하나로 배포](../entries/2026-11.md#skillsync-만든-스킬을-claudechatgptclaude-codecodex에-커넥터-하나로-배포) (2026-11-20): 글이나 작업 방식을 Claude의 skill-creator로 SKILL.md로 만든 뒤 Skillsync 프로필에 올려 두면, 독자는 버튼 하나로 자기 라이브러리에 추가하고 MCP 커넥터 하나로 Claude, ChatGPT, Claude Code, Codex에서 쓸 수 있다는 셋업 글이다.
 - [Firecrawl Local 오픈소스 공개: 에이전트가 API 키 없이 로컬에서 웹 스크래핑](../entries/2026-11.md#firecrawl-local-오픈소스-공개-에이전트가-api-키-없이-로컬에서-웹-스크래핑) (2026-11-19): Firecrawl이 저장소를 다시 만들어 에이전트가 내 컴퓨터에서 직접 웹을 긁어올 수 있는 Firecrawl Local을 100% 오픈소스로 공개했다.
 - [OpenCode Browse: 평소 쓰는 브라우저를 Claude Code·Codex·Cursor에 MCP로 연결](../entries/2026-11.md#opencode-browse-평소-쓰는-브라우저를-claude-codecodexcursor에-mcp로-연결) (2026-11-18): OpenCode 팀(Anomaly)이 만든 Browse는 Chromium 확장과 로컬 MCP 서버로, 에이전트가 내 브라우저의 로그인 상태와 확장을 그대로 쓰며 백그라운드 탭에서 페이지 읽기·클릭·입력·스크린샷·탭 녹화·네트워크 캡처를 하게 해 준다.
 - [Antigravity 제작기: 종이 스케치에서 오프라인 언어 학습 앱까지](../entries/2026-11.md#antigravity-제작기-종이-스케치에서-오프라인-언어-학습-앱까지) (2026-11-18): Google AI Edge Gallery 팀이 Antigravity로 인터넷 없이 동작하는 언어 학습 앱을 만든 과정을 영상으로 공개했다.

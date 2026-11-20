@@ -6,8 +6,10 @@ AI로 게임을 만들 때(Unity·Godot·Unreal 포함) 참고할 항목 모음�
 
 Entries about building games with AI, including Unity, Godot and Unreal.
 
-항목 30개, 최신순 / 30 entries, newest first.
+항목 32개, 최신순 / 32 entries, newest first.
 
+- [GPT-Live-1.1 API 공개: 대기 모드로 유휴 비용 절감](../entries/2026-11.md#gpt-live-11-api-공개-대기-모드로-유휴-비용-절감) (2026-11-20): 음성 대화 모델 GPT-Live-1.1을 API에서 쓸 수 있게 됐다.
+- [Antigravity 데스크톱 앱, 네이티브 SSH 지원](../entries/2026-11.md#antigravity-데스크톱-앱-네이티브-ssh-지원) (2026-11-20): Antigravity 데스크톱 앱에서 SSH로 원격 서버에 바로 접속할 수 있게 됐다.
 - [OpenAI API 사용량 대시보드 개편: 레이트 리밋·오류를 모델·프로젝트·키별로 확인](../entries/2026-11.md#openai-api-사용량-대시보드-개편-레이트-리밋오류를-모델프로젝트키별로-확인) (2026-11-18): OpenAI가 API 사용량 대시보드의 Analytics를 개편했다.
 - [GPT-6.2 Astra·Sol, Codex와 API에 출시](../entries/2026-11.md#gpt-62-astrasol-codex와-api에-출시) (2026-11-18): OpenAI가 어려운 작업용 GPT-6.2 Astra와 일상 작업용 GPT-6.2 Sol을 내놓았고, Plus·Pro·Enterprise·Edu 사용자는 ChatGPT Work와 Codex에서, 개발자는 API에서 바로 쓸 수 있다.
 - [AI 시대 게임 개발: 에이전트로 프로토타입 만들기, 확장, 디컴파일 복원](../entries/2026-11.md#ai-시대-게임-개발-에이전트로-프로토타입-만들기-확장-디컴파일-복원) (2026-11-16): AI 활용을 새 게임 제작(Produce·Invent), 기존 게임 확장(Extend), 소스가 사라진 게임 복원(Recover) 네 영역으로 나눈 글이다.
