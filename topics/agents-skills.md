@@ -6,8 +6,12 @@
 
 Entries about coding agents, subagents, harnesses and skills (SKILL.md).
 
-항목 193개, 최신순 / 193 entries, newest first.
+항목 197개, 최신순 / 197 entries, newest first.
 
+- [Google AI Studio에서 풀스택 Android 앱 만들기](../entries/2026-11.md#google-ai-studio에서-풀스택-android-앱-만들기) (2026-11-20): Google AI Studio의 Build 에이전트가 프롬프트 하나로 Kotlin Android 앱을 만들면서 Cloud Firestore(보안 규칙 포함)와 Google 로그인까지 자동으로 설정해 준다.
+- [LLM으로 리버스 엔지니어링: Ghidra MCP + Markdown 기록 + 가설 CSV](../entries/2026-11.md#llm으로-리버스-엔지니어링-ghidra-mcp--markdown-기록--가설-csv) (2026-11-20): 20년 동안 하드웨어·소프트웨어를 직접 분석해 온 개발자가 에이전트에게 분석을 맡기는 방식을 공개했다.
+- [UI 디자인용 에이전트 스킬·리소스 모음](../entries/2026-11.md#ui-디자인용-에이전트-스킬리소스-모음) (2026-11-20): 코딩 에이전트로 화면을 만들 때 쓸 만한 리소스를 묶은 목록이다.
+- [에이전트 하네스의 핵심: while 루프, 적은 도구, 서브에이전트 구조](../entries/2026-11.md#에이전트-하네스의-핵심-while-루프-적은-도구-서브에이전트-구조) (2026-11-20): 1년 반 동안 에이전트 인프라를 만들어 온 개발자가 하네스 구조를 정리한 글이다.
 - [Skillsync: 만든 스킬을 Claude·ChatGPT·Claude Code·Codex에 커넥터 하나로 배포](../entries/2026-11.md#skillsync-만든-스킬을-claudechatgptclaude-codecodex에-커넥터-하나로-배포) (2026-11-20): 글이나 작업 방식을 Claude의 skill-creator로 SKILL.md로 만든 뒤 Skillsync 프로필에 올려 두면, 독자는 버튼 하나로 자기 라이브러리에 추가하고 MCP 커넥터 하나로 Claude, ChatGPT, Claude Code, Codex에서 쓸 수 있다는 셋업 글이다.
 - [OpenAI Performance Factory: Codex 에이전트로 성능 회귀 추적·수정·검증](../entries/2026-11.md#openai-performance-factory-codex-에이전트로-성능-회귀-추적수정검증) (2026-11-20): OpenAI가 ChatGPT 성능을 지키려고 Codex 기반 'Performance Factory'를 만들었다고 소개했다.
 - [Antigravity 데스크톱 앱, 네이티브 SSH 지원](../entries/2026-11.md#antigravity-데스크톱-앱-네이티브-ssh-지원) (2026-11-20): Antigravity 데스크톱 앱에서 SSH로 원격 서버에 바로 접속할 수 있게 됐다.

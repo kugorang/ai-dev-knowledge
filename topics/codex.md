@@ -6,8 +6,9 @@ OpenAI Codex(CLI·앱·클라우드) 관련 팁·업데이트·워크플로 모�
 
 Tips, updates and workflows for OpenAI Codex (CLI, app and cloud).
 
-항목 64개, 최신순 / 64 entries, newest first.
+항목 65개, 최신순 / 65 entries, newest first.
 
+- [UI 디자인용 에이전트 스킬·리소스 모음](../entries/2026-11.md#ui-디자인용-에이전트-스킬리소스-모음) (2026-11-20): 코딩 에이전트로 화면을 만들 때 쓸 만한 리소스를 묶은 목록이다.
 - [Skillsync: 만든 스킬을 Claude·ChatGPT·Claude Code·Codex에 커넥터 하나로 배포](../entries/2026-11.md#skillsync-만든-스킬을-claudechatgptclaude-codecodex에-커넥터-하나로-배포) (2026-11-20): 글이나 작업 방식을 Claude의 skill-creator로 SKILL.md로 만든 뒤 Skillsync 프로필에 올려 두면, 독자는 버튼 하나로 자기 라이브러리에 추가하고 MCP 커넥터 하나로 Claude, ChatGPT, Claude Code, Codex에서 쓸 수 있다는 셋업 글이다.
 - [OpenAI Performance Factory: Codex 에이전트로 성능 회귀 추적·수정·검증](../entries/2026-11.md#openai-performance-factory-codex-에이전트로-성능-회귀-추적수정검증) (2026-11-20): OpenAI가 ChatGPT 성능을 지키려고 Codex 기반 'Performance Factory'를 만들었다고 소개했다.
 - [Firecrawl Local 오픈소스 공개: 에이전트가 API 키 없이 로컬에서 웹 스크래핑](../entries/2026-11.md#firecrawl-local-오픈소스-공개-에이전트가-api-키-없이-로컬에서-웹-스크래핑) (2026-11-19): Firecrawl이 저장소를 다시 만들어 에이전트가 내 컴퓨터에서 직접 웹을 긁어올 수 있는 Firecrawl Local을 100% 오픈소스로 공개했다.

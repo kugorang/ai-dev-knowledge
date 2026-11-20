@@ -6,8 +6,9 @@ ChatGPT와 OpenAI 모델·API 관련 항목 모음입니다. Codex 전용 항목
 
 Entries about ChatGPT and OpenAI models and APIs. Codex-only items live on the Codex page.
 
-항목 20개, 최신순 / 20 entries, newest first.
+항목 21개, 최신순 / 21 entries, newest first.
 
+- [GPT-6.2 Responses API: 앞부분은 그대로 두고 뒤에 추가하기](../entries/2026-11.md#gpt-62-responses-api-앞부분은-그대로-두고-뒤에-추가하기) (2026-11-20): GPT-6.2부터 Responses API의 추론 항목이 그 앞의 대화 기록에 묶여서, 앞쪽 기록을 고치면 그 뒤 추론이 버려지고 토큰·비용·지연이 늘 수 있다.
 - [GPT-Live-1.1 API 공개: 대기 모드로 유휴 비용 절감](../entries/2026-11.md#gpt-live-11-api-공개-대기-모드로-유휴-비용-절감) (2026-11-20): 음성 대화 모델 GPT-Live-1.1을 API에서 쓸 수 있게 됐다.
 - [OpenAI API, 급하지 않은 작업은 최대 40% 할인: 백그라운드 모드 2시간/8시간 목표](../entries/2026-11.md#openai-api-급하지-않은-작업은-최대-40-할인-백그라운드-모드-2시간8시간-목표) (2026-11-19): OpenAI가 바로 응답이 필요 없는 단일·멀티턴 작업에 대해 GPT-6.2 Astra와 GPT-6.2 Sol을 Standard보다 토큰당 최대 40% 싸게 쓰는 옵션을 내놨다.
 - [OpenAI API 사용량 대시보드 개편: 레이트 리밋·오류를 모델·프로젝트·키별로 확인](../entries/2026-11.md#openai-api-사용량-대시보드-개편-레이트-리밋오류를-모델프로젝트키별로-확인) (2026-11-18): OpenAI가 API 사용량 대시보드의 Analytics를 개편했다.
