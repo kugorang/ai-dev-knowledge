@@ -6,8 +6,9 @@ OpenAI Codex(CLI·앱·클라우드) 관련 팁·업데이트·워크플로 모�
 
 Tips, updates and workflows for OpenAI Codex (CLI, app and cloud).
 
-항목 65개, 최신순 / 65 entries, newest first.
+항목 66개, 최신순 / 66 entries, newest first.
 
+- [Orca Bots: 오픈소스 에이전트 IDE 안에서 Claude Code·Codex 워커 봇 돌리기](../entries/2026-11.md#orca-bots-오픈소스-에이전트-ide-안에서-claude-codecodex-워커-봇-돌리기) (2026-11-20): 오픈소스(MIT) 에이전트 IDE Orca에 봇 기능이 추가돼, 내 Claude Code나 Codex를 워커로 붙인 봇을 만들고 일을 위임할 수 있다.
 - [UI 디자인용 에이전트 스킬·리소스 모음](../entries/2026-11.md#ui-디자인용-에이전트-스킬리소스-모음) (2026-11-20): 코딩 에이전트로 화면을 만들 때 쓸 만한 리소스를 묶은 목록이다.
 - [Skillsync: 만든 스킬을 Claude·ChatGPT·Claude Code·Codex에 커넥터 하나로 배포](../entries/2026-11.md#skillsync-만든-스킬을-claudechatgptclaude-codecodex에-커넥터-하나로-배포) (2026-11-20): 글이나 작업 방식을 Claude의 skill-creator로 SKILL.md로 만든 뒤 Skillsync 프로필에 올려 두면, 독자는 버튼 하나로 자기 라이브러리에 추가하고 MCP 커넥터 하나로 Claude, ChatGPT, Claude Code, Codex에서 쓸 수 있다는 셋업 글이다.
 - [OpenAI Performance Factory: Codex 에이전트로 성능 회귀 추적·수정·검증](../entries/2026-11.md#openai-performance-factory-codex-에이전트로-성능-회귀-추적수정검증) (2026-11-20): OpenAI가 ChatGPT 성능을 지키려고 Codex 기반 'Performance Factory'를 만들었다고 소개했다.

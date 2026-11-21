@@ -6,8 +6,13 @@
 
 Entries about coding agents, subagents, harnesses and skills (SKILL.md).
 
-항목 197개, 최신순 / 197 entries, newest first.
+항목 202개, 최신순 / 202 entries, newest first.
 
+- [AI가 짠 코드는 아키텍트 눈으로 봐야 한다: 바이브 코딩 로깅 사례](../entries/2026-11.md#ai가-짠-코드는-아키텍트-눈으로-봐야-한다-바이브-코딩-로깅-사례) (2026-11-21): 동료가 바이브 코딩으로 넣은 설치 로깅이 이메일→사용자 ID→오류 로그 순으로 시도하는 한 줄짜리 try/catch였는데, 각 줄이 내부적으로 Google API를 여러 번 호출해 환영 화면이 15초나 걸린 사례를 다룬 글이다.
+- [pstack v0.15.46: 스킬 축약과 Gemini 4 Neon 리뷰어 추가](../entries/2026-11.md#pstack-v01546-스킬-축약과-gemini-4-neon-리뷰어-추가) (2026-11-21): pstack 플러그인 v0.15.46에서 전반적으로 군더더기를 덜어내 스킬 본문이 훨씬 짧아졌고, 패널 리뷰어에 Gemini 4 Neon이 추가됐다.
+- [Real Python의 Claude Code 치트시트(PDF)](../entries/2026-11.md#real-python의-claude-code-치트시트pdf) (2026-11-20): Real Python이 Claude Code 사용법을 두 쪽짜리 무료 PDF로 정리했다.
+- [Orca Bots: 오픈소스 에이전트 IDE 안에서 Claude Code·Codex 워커 봇 돌리기](../entries/2026-11.md#orca-bots-오픈소스-에이전트-ide-안에서-claude-codecodex-워커-봇-돌리기) (2026-11-20): 오픈소스(MIT) 에이전트 IDE Orca에 봇 기능이 추가돼, 내 Claude Code나 Codex를 워커로 붙인 봇을 만들고 일을 위임할 수 있다.
+- [pptx-rs: 코딩 에이전트용 PowerPoint 생성·편집 스킬](../entries/2026-11.md#pptx-rs-코딩-에이전트용-powerpoint-생성편집-스킬) (2026-11-20): Rust로 만든 오픈소스 .pptx 컴파일러·임포터·검증기로, 코딩 에이전트가 실제 PowerPoint 덱을 약 20ms 만에 만들고 고칠 수 있게 해 준다.
 - [Google AI Studio에서 풀스택 Android 앱 만들기](../entries/2026-11.md#google-ai-studio에서-풀스택-android-앱-만들기) (2026-11-20): Google AI Studio의 Build 에이전트가 프롬프트 하나로 Kotlin Android 앱을 만들면서 Cloud Firestore(보안 규칙 포함)와 Google 로그인까지 자동으로 설정해 준다.
 - [LLM으로 리버스 엔지니어링: Ghidra MCP + Markdown 기록 + 가설 CSV](../entries/2026-11.md#llm으로-리버스-엔지니어링-ghidra-mcp--markdown-기록--가설-csv) (2026-11-20): 20년 동안 하드웨어·소프트웨어를 직접 분석해 온 개발자가 에이전트에게 분석을 맡기는 방식을 공개했다.
 - [UI 디자인용 에이전트 스킬·리소스 모음](../entries/2026-11.md#ui-디자인용-에이전트-스킬리소스-모음) (2026-11-20): 코딩 에이전트로 화면을 만들 때 쓸 만한 리소스를 묶은 목록이다.

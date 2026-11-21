@@ -6,8 +6,10 @@ AI 코드 에디터 Cursor 관련 팁·업데이트·워크플로 모음입니�
 
 Tips, updates and workflows for the Cursor AI code editor.
 
-항목 48개, 최신순 / 48 entries, newest first.
+항목 50개, 최신순 / 50 entries, newest first.
 
+- [pstack v0.15.46: 스킬 축약과 Gemini 4 Neon 리뷰어 추가](../entries/2026-11.md#pstack-v01546-스킬-축약과-gemini-4-neon-리뷰어-추가) (2026-11-21): pstack 플러그인 v0.15.46에서 전반적으로 군더더기를 덜어내 스킬 본문이 훨씬 짧아졌고, 패널 리뷰어에 Gemini 4 Neon이 추가됐다.
+- [pptx-rs: 코딩 에이전트용 PowerPoint 생성·편집 스킬](../entries/2026-11.md#pptx-rs-코딩-에이전트용-powerpoint-생성편집-스킬) (2026-11-20): Rust로 만든 오픈소스 .pptx 컴파일러·임포터·검증기로, 코딩 에이전트가 실제 PowerPoint 덱을 약 20ms 만에 만들고 고칠 수 있게 해 준다.
 - [UI 디자인용 에이전트 스킬·리소스 모음](../entries/2026-11.md#ui-디자인용-에이전트-스킬리소스-모음) (2026-11-20): 코딩 에이전트로 화면을 만들 때 쓸 만한 리소스를 묶은 목록이다.
 - [Gemini 4 Neon 출시: Antigravity·AI Studio·Cursor에서 바로 사용](../entries/2026-11.md#gemini-4-neon-출시-antigravityai-studiocursor에서-바로-사용) (2026-11-19): Google이 Carbon과 Hydrogen 사이에 위치한 새 모델 Gemini 4 Neon을 내놓았고, 복잡한 소프트웨어 엔지니어링 작업을 빠르게 끝까지 처리하는 데 초점을 맞췄다.
 - [Firecrawl Local 오픈소스 공개: 에이전트가 API 키 없이 로컬에서 웹 스크래핑](../entries/2026-11.md#firecrawl-local-오픈소스-공개-에이전트가-api-키-없이-로컬에서-웹-스크래핑) (2026-11-19): Firecrawl이 저장소를 다시 만들어 에이전트가 내 컴퓨터에서 직접 웹을 긁어올 수 있는 Firecrawl Local을 100% 오픈소스로 공개했다.

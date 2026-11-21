@@ -6,8 +6,9 @@ MCP 서버·클라이언트·보안을 다룬 항목 모음입니다.
 
 Entries about MCP servers, clients and security.
 
-항목 46개, 최신순 / 46 entries, newest first.
+항목 47개, 최신순 / 47 entries, newest first.
 
+- [Real Python의 Claude Code 치트시트(PDF)](../entries/2026-11.md#real-python의-claude-code-치트시트pdf) (2026-11-20): Real Python이 Claude Code 사용법을 두 쪽짜리 무료 PDF로 정리했다.
 - [LLM으로 리버스 엔지니어링: Ghidra MCP + Markdown 기록 + 가설 CSV](../entries/2026-11.md#llm으로-리버스-엔지니어링-ghidra-mcp--markdown-기록--가설-csv) (2026-11-20): 20년 동안 하드웨어·소프트웨어를 직접 분석해 온 개발자가 에이전트에게 분석을 맡기는 방식을 공개했다.
 - [Skillsync: 만든 스킬을 Claude·ChatGPT·Claude Code·Codex에 커넥터 하나로 배포](../entries/2026-11.md#skillsync-만든-스킬을-claudechatgptclaude-codecodex에-커넥터-하나로-배포) (2026-11-20): 글이나 작업 방식을 Claude의 skill-creator로 SKILL.md로 만든 뒤 Skillsync 프로필에 올려 두면, 독자는 버튼 하나로 자기 라이브러리에 추가하고 MCP 커넥터 하나로 Claude, ChatGPT, Claude Code, Codex에서 쓸 수 있다는 셋업 글이다.
 - [Firecrawl Local 오픈소스 공개: 에이전트가 API 키 없이 로컬에서 웹 스크래핑](../entries/2026-11.md#firecrawl-local-오픈소스-공개-에이전트가-api-키-없이-로컬에서-웹-스크래핑) (2026-11-19): Firecrawl이 저장소를 다시 만들어 에이전트가 내 컴퓨터에서 직접 웹을 긁어올 수 있는 Firecrawl Local을 100% 오픈소스로 공개했다.

@@ -6,8 +6,11 @@ Anthropic의 터미널 코딩 에이전트 Claude Code 관련 팁·업데이트�
 
 Tips, updates and workflows for Claude Code, Anthropic's terminal coding agent.
 
-항목 126개, 최신순 / 126 entries, newest first.
+항목 129개, 최신순 / 129 entries, newest first.
 
+- [Real Python의 Claude Code 치트시트(PDF)](../entries/2026-11.md#real-python의-claude-code-치트시트pdf) (2026-11-20): Real Python이 Claude Code 사용법을 두 쪽짜리 무료 PDF로 정리했다.
+- [Orca Bots: 오픈소스 에이전트 IDE 안에서 Claude Code·Codex 워커 봇 돌리기](../entries/2026-11.md#orca-bots-오픈소스-에이전트-ide-안에서-claude-codecodex-워커-봇-돌리기) (2026-11-20): 오픈소스(MIT) 에이전트 IDE Orca에 봇 기능이 추가돼, 내 Claude Code나 Codex를 워커로 붙인 봇을 만들고 일을 위임할 수 있다.
+- [pptx-rs: 코딩 에이전트용 PowerPoint 생성·편집 스킬](../entries/2026-11.md#pptx-rs-코딩-에이전트용-powerpoint-생성편집-스킬) (2026-11-20): Rust로 만든 오픈소스 .pptx 컴파일러·임포터·검증기로, 코딩 에이전트가 실제 PowerPoint 덱을 약 20ms 만에 만들고 고칠 수 있게 해 준다.
 - [UI 디자인용 에이전트 스킬·리소스 모음](../entries/2026-11.md#ui-디자인용-에이전트-스킬리소스-모음) (2026-11-20): 코딩 에이전트로 화면을 만들 때 쓸 만한 리소스를 묶은 목록이다.
 - [Skillsync: 만든 스킬을 Claude·ChatGPT·Claude Code·Codex에 커넥터 하나로 배포](../entries/2026-11.md#skillsync-만든-스킬을-claudechatgptclaude-codecodex에-커넥터-하나로-배포) (2026-11-20): 글이나 작업 방식을 Claude의 skill-creator로 SKILL.md로 만든 뒤 Skillsync 프로필에 올려 두면, 독자는 버튼 하나로 자기 라이브러리에 추가하고 MCP 커넥터 하나로 Claude, ChatGPT, Claude Code, Codex에서 쓸 수 있다는 셋업 글이다.
 - [Firecrawl Local 오픈소스 공개: 에이전트가 API 키 없이 로컬에서 웹 스크래핑](../entries/2026-11.md#firecrawl-local-오픈소스-공개-에이전트가-api-키-없이-로컬에서-웹-스크래핑) (2026-11-19): Firecrawl이 저장소를 다시 만들어 에이전트가 내 컴퓨터에서 직접 웹을 긁어올 수 있는 Firecrawl Local을 100% 오픈소스로 공개했다.

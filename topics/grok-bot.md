@@ -8,8 +8,9 @@ Entries about running, configuring and budgeting Grok Bot.
 
 관련 가이드 / Related guides: [Grok Bot 사용 팁](../guides/grok-bot-tips.md)
 
-항목 34개, 최신순 / 34 entries, newest first.
+항목 35개, 최신순 / 35 entries, newest first.
 
+- [pstack v0.15.46: 스킬 축약과 Gemini 4 Neon 리뷰어 추가](../entries/2026-11.md#pstack-v01546-스킬-축약과-gemini-4-neon-리뷰어-추가) (2026-11-21): pstack 플러그인 v0.15.46에서 전반적으로 군더더기를 덜어내 스킬 본문이 훨씬 짧아졌고, 패널 리뷰어에 Gemini 4 Neon이 추가됐다.
 - [Grok Bot에 Obsidian 볼트 연결 지원](../entries/2026-11.md#grok-bot에-obsidian-볼트-연결-지원) (2026-11-20): Grok Bot이 Obsidian 볼트에 연결해 노트를 만들고 검색·관리할 수 있게 됐다.
 - [Grok Bot 사용량 절약: 메신저 폴링 대신 리스너로 필요할 때만 깨우기](../entries/2026-11.md#grok-bot-사용량-절약-메신저-폴링-대신-리스너로-필요할-때만-깨우기) (2026-11-19): Slack·Discord에 붙인 봇이 새 메시지를 계속 확인하게 두면 사용량이 쓸데없이 많이 나간다는 경험담이다.
 - [grok-bot.directory 오픈: Grok Bot용 봇·앱 커뮤니티 디렉터리](../entries/2026-11.md#grok-botdirectory-오픈-grok-bot용-봇앱-커뮤니티-디렉터리) (2026-11-19): 사람들이 만든 Grok Bot 봇과 앱을 둘러보고 설치하거나 내가 만든 것을 올릴 수 있는 커뮤니티 디렉터리 grok-bot.directory가 열렸다.
