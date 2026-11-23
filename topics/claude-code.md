@@ -6,8 +6,10 @@ Anthropic의 터미널 코딩 에이전트 Claude Code 관련 팁·업데이트�
 
 Tips, updates and workflows for Claude Code, Anthropic's terminal coding agent.
 
-항목 129개, 최신순 / 129 entries, newest first.
+항목 131개, 최신순 / 131 entries, newest first.
 
+- [SECURITY_CONTEXT.md 스킬: 코딩 에이전트용 보안 규칙 파일 자동 생성](../entries/2026-11.md#security_contextmd-스킬-코딩-에이전트용-보안-규칙-파일-자동-생성) (2026-11-23): 저장소를 분석해 앱의 신뢰 경계, 안전하게 써도 되는 내부 헬퍼, 코딩 에이전트가 절대 깨면 안 되는 보안 규칙을 짧은 SECURITY_CONTEXT.md로 정리해 주는 오픈소스 스킬이다.
+- [Claude Code dependency-cooldown 설정: 공개 7일 안 된 패키지 설치 막기](../entries/2026-11.md#claude-code-dependency-cooldown-설정-공개-7일-안-된-패키지-설치-막기) (2026-11-22): claude-code-templates의 dependency-cooldown 설정을 넣으면 npm·pnpm·uv로 공개된 지 7일이 안 된 패키지 버전을 설치하지 못하게 막는다.
 - [Real Python의 Claude Code 치트시트(PDF)](../entries/2026-11.md#real-python의-claude-code-치트시트pdf) (2026-11-20): Real Python이 Claude Code 사용법을 두 쪽짜리 무료 PDF로 정리했다.
 - [Orca Bots: 오픈소스 에이전트 IDE 안에서 Claude Code·Codex 워커 봇 돌리기](../entries/2026-11.md#orca-bots-오픈소스-에이전트-ide-안에서-claude-codecodex-워커-봇-돌리기) (2026-11-20): 오픈소스(MIT) 에이전트 IDE Orca에 봇 기능이 추가돼, 내 Claude Code나 Codex를 워커로 붙인 봇을 만들고 일을 위임할 수 있다.
 - [pptx-rs: 코딩 에이전트용 PowerPoint 생성·편집 스킬](../entries/2026-11.md#pptx-rs-코딩-에이전트용-powerpoint-생성편집-스킬) (2026-11-20): Rust로 만든 오픈소스 .pptx 컴파일러·임포터·검증기로, 코딩 에이전트가 실제 PowerPoint 덱을 약 20ms 만에 만들고 고칠 수 있게 해 준다.

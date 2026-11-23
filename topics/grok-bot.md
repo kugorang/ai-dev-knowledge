@@ -8,8 +8,11 @@ Entries about running, configuring and budgeting Grok Bot.
 
 관련 가이드 / Related guides: [Grok Bot 사용 팁](../guides/grok-bot-tips.md)
 
-항목 35개, 최신순 / 35 entries, newest first.
+항목 38개, 최신순 / 38 entries, newest first.
 
+- ['봇 하나에 일 하나' 원칙으로 Grok Bot 설계하는 체크리스트](../entries/2026-11.md#봇-하나에-일-하나-원칙으로-grok-bot-설계하는-체크리스트) (2026-11-22): 작성자가 pstack 작성자의 봇 설계 원칙이라며 Grok Bot에 붙여 넣을 프롬프트로 정리했다.
+- [/poteto-mode로 반복되는 실수를 아예 못 하게 만드는 정리 프롬프트](../entries/2026-11.md#poteto-mode로-반복되는-실수를-아예-못-하게-만드는-정리-프롬프트) (2026-11-22): pstack의 /poteto-mode를 저장소에 걸고, 먼저 git 로그·과거 버그 수정·리뷰 코멘트를 읽어 에이전트와 사람이 되풀이하는 실수를 찾은 뒤, 주의 문구를 늘리는 대신 각 실수가 구조적으로 일어날 수 없게 고치라고 시키는 프롬프트다.
+- [새 모델이 나오면 스킬 감사: 모델 기본 능력과 겹치는 스킬 찾기](../entries/2026-11.md#새-모델이-나오면-스킬-감사-모델-기본-능력과-겹치는-스킬-찾기) (2026-11-22): 에이전트에 쌓아 둔 스킬 중 일부는 최신 프런티어 모델이 이미 기본으로 잘하는 일이라 손볼 필요가 생긴다.
 - [pstack v0.15.46: 스킬 축약과 Gemini 4 Neon 리뷰어 추가](../entries/2026-11.md#pstack-v01546-스킬-축약과-gemini-4-neon-리뷰어-추가) (2026-11-21): pstack 플러그인 v0.15.46에서 전반적으로 군더더기를 덜어내 스킬 본문이 훨씬 짧아졌고, 패널 리뷰어에 Gemini 4 Neon이 추가됐다.
 - [Grok Bot에 Obsidian 볼트 연결 지원](../entries/2026-11.md#grok-bot에-obsidian-볼트-연결-지원) (2026-11-20): Grok Bot이 Obsidian 볼트에 연결해 노트를 만들고 검색·관리할 수 있게 됐다.
 - [Grok Bot 사용량 절약: 메신저 폴링 대신 리스너로 필요할 때만 깨우기](../entries/2026-11.md#grok-bot-사용량-절약-메신저-폴링-대신-리스너로-필요할-때만-깨우기) (2026-11-19): Slack·Discord에 붙인 봇이 새 메시지를 계속 확인하게 두면 사용량이 쓸데없이 많이 나간다는 경험담이다.
