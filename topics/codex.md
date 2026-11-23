@@ -6,9 +6,10 @@ OpenAI Codex(CLI·앱·클라우드) 관련 팁·업데이트·워크플로 모�
 
 Tips, updates and workflows for OpenAI Codex (CLI, app and cloud).
 
-항목 67개, 최신순 / 67 entries, newest first.
+항목 68개, 최신순 / 68 entries, newest first.
 
 - [SECURITY_CONTEXT.md 스킬: 코딩 에이전트용 보안 규칙 파일 자동 생성](../entries/2026-11.md#security_contextmd-스킬-코딩-에이전트용-보안-규칙-파일-자동-생성) (2026-11-23): 저장소를 분석해 앱의 신뢰 경계, 안전하게 써도 되는 내부 헬퍼, 코딩 에이전트가 절대 깨면 안 되는 보안 규칙을 짧은 SECURITY_CONTEXT.md로 정리해 주는 오픈소스 스킬이다.
+- [Codex 하네스와 주변 공식 오픈소스 저장소 7개](../entries/2026-11.md#codex-하네스와-주변-공식-오픈소스-저장소-7개) (2026-11-22): OpenAI가 Codex를 돌리는 하네스와 그 주변 도구를 오픈소스로 공개해 두었으니 직접 가져다 쓰라는 정리다.
 - [Orca Bots: 오픈소스 에이전트 IDE 안에서 Claude Code·Codex 워커 봇 돌리기](../entries/2026-11.md#orca-bots-오픈소스-에이전트-ide-안에서-claude-codecodex-워커-봇-돌리기) (2026-11-20): 오픈소스(MIT) 에이전트 IDE Orca에 봇 기능이 추가돼, 내 Claude Code나 Codex를 워커로 붙인 봇을 만들고 일을 위임할 수 있다.
 - [UI 디자인용 에이전트 스킬·리소스 모음](../entries/2026-11.md#ui-디자인용-에이전트-스킬리소스-모음) (2026-11-20): 코딩 에이전트로 화면을 만들 때 쓸 만한 리소스를 묶은 목록이다.
 - [Skillsync: 만든 스킬을 Claude·ChatGPT·Claude Code·Codex에 커넥터 하나로 배포](../entries/2026-11.md#skillsync-만든-스킬을-claudechatgptclaude-codecodex에-커넥터-하나로-배포) (2026-11-20): 글이나 작업 방식을 Claude의 skill-creator로 SKILL.md로 만든 뒤 Skillsync 프로필에 올려 두면, 독자는 버튼 하나로 자기 라이브러리에 추가하고 MCP 커넥터 하나로 Claude, ChatGPT, Claude Code, Codex에서 쓸 수 있다는 셋업 글이다.
