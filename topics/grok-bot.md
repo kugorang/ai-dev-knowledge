@@ -8,8 +8,9 @@ Entries about running, configuring and budgeting Grok Bot.
 
 관련 가이드 / Related guides: [Grok Bot 사용 팁](../guides/grok-bot-tips.md)
 
-항목 40개, 최신순 / 40 entries, newest first.
+항목 41개, 최신순 / 41 entries, newest first.
 
+- [pstack /reframe: 만들려는 것의 전문 용어부터 배워 프롬프트 다시 쓰기](../entries/2026-11.md#pstack-reframe-만들려는-것의-전문-용어부터-배워-프롬프트-다시-쓰기) (2026-11-24): pstack 플러그인에 원하는 결과는 아는데 말로 설명하기 어려울 때 쓰는 /reframe 스킬이 추가됐다.
 - [Grok Bot에 붙여 쓸 만한 스킬·플러그인 저장소 10개](../entries/2026-11.md#grok-bot에-붙여-쓸-만한-스킬플러그인-저장소-10개) (2026-11-23): Grok Bot에 연결해 쓰는 저장소 10개를 모은 목록으로, 절반은 Cloudflare·Netlify·Railway 등 서비스 팀이 직접 낸 공식 스킬이다.
 - [머지된 PR에서 반복 수정을 찾아 린트·테스트로 막는 '슬롭 감사' 프롬프트](../entries/2026-11.md#머지된-pr에서-반복-수정을-찾아-린트테스트로-막는-슬롭-감사-프롬프트) (2026-11-23): pstack 작성자의 발표 "All Code Is Slop (Except Mine)"를 바탕으로 작성자가 Grok Bot에 붙여 넣을 감사 프롬프트로 정리했다.
 - ['봇 하나에 일 하나' 원칙으로 Grok Bot 설계하는 체크리스트](../entries/2026-11.md#봇-하나에-일-하나-원칙으로-grok-bot-설계하는-체크리스트) (2026-11-22): 작성자가 pstack 작성자의 봇 설계 원칙이라며 Grok Bot에 붙여 넣을 프롬프트로 정리했다.

@@ -6,8 +6,9 @@ AI로 게임을 만들 때(Unity·Godot·Unreal 포함) 참고할 항목 모음�
 
 Entries about building games with AI, including Unity, Godot and Unreal.
 
-항목 32개, 최신순 / 32 entries, newest first.
+항목 33개, 최신순 / 33 entries, newest first.
 
+- [Claude 플러그인 통합: 커넥터와 스킬을 한 페이지에서 설치·관리](../entries/2026-11.md#claude-플러그인-통합-커넥터와-스킬을-한-페이지에서-설치관리) (2026-11-24): Claude에서 도구를 연결하는 커넥터(MCP)와 작업 방식을 가르치는 스킬이 '플러그인'으로 합쳐져, 사이드바의 Customize가 Plugins로 바뀌고 1만 개 넘는 플러그인을 스킬·커넥터 필터와 Verified·Community 표시로 골라 설치할 수 있게 됐다.
 - [GPT-Live-1.1 API 공개: 대기 모드로 유휴 비용 절감](../entries/2026-11.md#gpt-live-11-api-공개-대기-모드로-유휴-비용-절감) (2026-11-20): 음성 대화 모델 GPT-Live-1.1을 API에서 쓸 수 있게 됐다.
 - [Antigravity 데스크톱 앱, 네이티브 SSH 지원](../entries/2026-11.md#antigravity-데스크톱-앱-네이티브-ssh-지원) (2026-11-20): Antigravity 데스크톱 앱에서 SSH로 원격 서버에 바로 접속할 수 있게 됐다.
 - [OpenAI API 사용량 대시보드 개편: 레이트 리밋·오류를 모델·프로젝트·키별로 확인](../entries/2026-11.md#openai-api-사용량-대시보드-개편-레이트-리밋오류를-모델프로젝트키별로-확인) (2026-11-18): OpenAI가 API 사용량 대시보드의 Analytics를 개편했다.

@@ -6,8 +6,11 @@
 
 Entries about coding agents, subagents, harnesses and skills (SKILL.md).
 
-항목 213개, 최신순 / 213 entries, newest first.
+항목 216개, 최신순 / 216 entries, newest first.
 
+- [Claude 플러그인 통합: 커넥터와 스킬을 한 페이지에서 설치·관리](../entries/2026-11.md#claude-플러그인-통합-커넥터와-스킬을-한-페이지에서-설치관리) (2026-11-24): Claude에서 도구를 연결하는 커넥터(MCP)와 작업 방식을 가르치는 스킬이 '플러그인'으로 합쳐져, 사이드바의 Customize가 Plugins로 바뀌고 1만 개 넘는 플러그인을 스킬·커넥터 필터와 Verified·Community 표시로 골라 설치할 수 있게 됐다.
+- [OmniGet: 코딩 에이전트가 내 PC와 로그인 세션을 쓰게 하는 로컬 MCP 서버](../entries/2026-11.md#omniget-코딩-에이전트가-내-pc와-로그인-세션을-쓰게-하는-로컬-mcp-서버) (2026-11-24): OmniGet은 Claude Code·Codex·Cursor·Gemini CLI에 붙는 오픈소스(GPL-3.0) 로컬 MCP 서버로, 에이전트가 이미 로그인된 내 계정으로 채팅·피드를 읽고, 내장 브라우저로 페이지를 토큰 한도 안에서 읽고, 영상·음악·직접 결제한 강의를 내려받고, 폴더를 프롬프트용 파일 하나로 묶거나 포트·HTTP 요청을 다루게 해 준다.
+- [pstack /reframe: 만들려는 것의 전문 용어부터 배워 프롬프트 다시 쓰기](../entries/2026-11.md#pstack-reframe-만들려는-것의-전문-용어부터-배워-프롬프트-다시-쓰기) (2026-11-24): pstack 플러그인에 원하는 결과는 아는데 말로 설명하기 어려울 때 쓰는 /reframe 스킬이 추가됐다.
 - [Gemini API 파일 슬라이싱: 필요한 페이지·셀·구간만 서버에서 읽기](../entries/2026-11.md#gemini-api-파일-슬라이싱-필요한-페이지셀구간만-서버에서-읽기) (2026-11-24): Gemini API에 PDF, Office·OpenDocument 문서, 오디오, 동영상을 그대로 올린 뒤 필요한 페이지, 스프레드시트 범위, 미디어 구간, 레이어만 골라 서버에서 읽게 하는 파일 슬라이싱 기능이 추가됐고, 실제로 읽은 부분만 토큰이 과금된다.
 - [gemini-api CLI: 코딩 에이전트가 셸에서 Gemini 멀티모달 기능을 호출](../entries/2026-11.md#gemini-api-cli-코딩-에이전트가-셸에서-gemini-멀티모달-기능을-호출) (2026-11-23): Google Gemini 공식 오픈소스 CLI(`gemini-api`)를 설치하고 API 키를 설정해 두면, 셸을 쓸 수 있는 Codex·Claude Code·Antigravity 같은 에이전트가 앱을 만들다가 이미지·음성·음악·영상 생성, 동영상 분석, OCR, 관리형 에이전트 실행을 명령 한 줄로 부를 수 있다.
 - [Grok Bot에 붙여 쓸 만한 스킬·플러그인 저장소 10개](../entries/2026-11.md#grok-bot에-붙여-쓸-만한-스킬플러그인-저장소-10개) (2026-11-23): Grok Bot에 연결해 쓰는 저장소 10개를 모은 목록으로, 절반은 Cloudflare·Netlify·Railway 등 서비스 팀이 직접 낸 공식 스킬이다.
