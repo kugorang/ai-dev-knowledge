@@ -6,8 +6,11 @@
 
 Entries about coding agents, subagents, harnesses and skills (SKILL.md).
 
-항목 210개, 최신순 / 210 entries, newest first.
+항목 213개, 최신순 / 213 entries, newest first.
 
+- [Gemini API 파일 슬라이싱: 필요한 페이지·셀·구간만 서버에서 읽기](../entries/2026-11.md#gemini-api-파일-슬라이싱-필요한-페이지셀구간만-서버에서-읽기) (2026-11-24): Gemini API에 PDF, Office·OpenDocument 문서, 오디오, 동영상을 그대로 올린 뒤 필요한 페이지, 스프레드시트 범위, 미디어 구간, 레이어만 골라 서버에서 읽게 하는 파일 슬라이싱 기능이 추가됐고, 실제로 읽은 부분만 토큰이 과금된다.
+- [gemini-api CLI: 코딩 에이전트가 셸에서 Gemini 멀티모달 기능을 호출](../entries/2026-11.md#gemini-api-cli-코딩-에이전트가-셸에서-gemini-멀티모달-기능을-호출) (2026-11-23): Google Gemini 공식 오픈소스 CLI(`gemini-api`)를 설치하고 API 키를 설정해 두면, 셸을 쓸 수 있는 Codex·Claude Code·Antigravity 같은 에이전트가 앱을 만들다가 이미지·음성·음악·영상 생성, 동영상 분석, OCR, 관리형 에이전트 실행을 명령 한 줄로 부를 수 있다.
+- [Grok Bot에 붙여 쓸 만한 스킬·플러그인 저장소 10개](../entries/2026-11.md#grok-bot에-붙여-쓸-만한-스킬플러그인-저장소-10개) (2026-11-23): Grok Bot에 연결해 쓰는 저장소 10개를 모은 목록으로, 절반은 Cloudflare·Netlify·Railway 등 서비스 팀이 직접 낸 공식 스킬이다.
 - [보안 "감사" 대신 "하드닝" 프롬프트: 공격면 삭제부터 우회 시도까지](../entries/2026-11.md#보안-감사-대신-하드닝-프롬프트-공격면-삭제부터-우회-시도까지) (2026-11-23): 코딩 에이전트에 보안 점검을 시키면 손대지 않을 체크리스트만 나오기 쉬우니, 보고서 대신 실제로 고치게 하는 하드닝 프롬프트를 쓰자는 제안이다.
 - [SECURITY_CONTEXT.md 스킬: 코딩 에이전트용 보안 규칙 파일 자동 생성](../entries/2026-11.md#security_contextmd-스킬-코딩-에이전트용-보안-규칙-파일-자동-생성) (2026-11-23): 저장소를 분석해 앱의 신뢰 경계, 안전하게 써도 되는 내부 헬퍼, 코딩 에이전트가 절대 깨면 안 되는 보안 규칙을 짧은 SECURITY_CONTEXT.md로 정리해 주는 오픈소스 스킬이다.
 - [Codex 하네스와 주변 공식 오픈소스 저장소 7개](../entries/2026-11.md#codex-하네스와-주변-공식-오픈소스-저장소-7개) (2026-11-22): OpenAI가 Codex를 돌리는 하네스와 그 주변 도구를 오픈소스로 공개해 두었으니 직접 가져다 쓰라는 정리다.

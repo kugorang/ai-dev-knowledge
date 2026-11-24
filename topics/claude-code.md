@@ -6,8 +6,10 @@ Anthropic의 터미널 코딩 에이전트 Claude Code 관련 팁·업데이트�
 
 Tips, updates and workflows for Claude Code, Anthropic's terminal coding agent.
 
-항목 131개, 최신순 / 131 entries, newest first.
+항목 133개, 최신순 / 133 entries, newest first.
 
+- [Claude Ship 베타: PR 리뷰·수정·정책 기반 승인까지 맡기는 /ship](../entries/2026-11.md#claude-ship-베타-pr-리뷰수정정책-기반-승인까지-맡기는-ship) (2026-11-24): Claude Code 팀이 PR 이후 단계를 자동화하는 Claude Ship을 공개했다.
+- [gemini-api CLI: 코딩 에이전트가 셸에서 Gemini 멀티모달 기능을 호출](../entries/2026-11.md#gemini-api-cli-코딩-에이전트가-셸에서-gemini-멀티모달-기능을-호출) (2026-11-23): Google Gemini 공식 오픈소스 CLI(`gemini-api`)를 설치하고 API 키를 설정해 두면, 셸을 쓸 수 있는 Codex·Claude Code·Antigravity 같은 에이전트가 앱을 만들다가 이미지·음성·음악·영상 생성, 동영상 분석, OCR, 관리형 에이전트 실행을 명령 한 줄로 부를 수 있다.
 - [SECURITY_CONTEXT.md 스킬: 코딩 에이전트용 보안 규칙 파일 자동 생성](../entries/2026-11.md#security_contextmd-스킬-코딩-에이전트용-보안-규칙-파일-자동-생성) (2026-11-23): 저장소를 분석해 앱의 신뢰 경계, 안전하게 써도 되는 내부 헬퍼, 코딩 에이전트가 절대 깨면 안 되는 보안 규칙을 짧은 SECURITY_CONTEXT.md로 정리해 주는 오픈소스 스킬이다.
 - [Claude Code dependency-cooldown 설정: 공개 7일 안 된 패키지 설치 막기](../entries/2026-11.md#claude-code-dependency-cooldown-설정-공개-7일-안-된-패키지-설치-막기) (2026-11-22): claude-code-templates의 dependency-cooldown 설정을 넣으면 npm·pnpm·uv로 공개된 지 7일이 안 된 패키지 버전을 설치하지 못하게 막는다.
 - [Real Python의 Claude Code 치트시트(PDF)](../entries/2026-11.md#real-python의-claude-code-치트시트pdf) (2026-11-20): Real Python이 Claude Code 사용법을 두 쪽짜리 무료 PDF로 정리했다.

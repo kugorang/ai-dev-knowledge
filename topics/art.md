@@ -6,8 +6,9 @@
 
 Entries about images, sprites, pixel art, 3D, VFX and video creation.
 
-항목 36개, 최신순 / 36 entries, newest first.
+항목 37개, 최신순 / 37 entries, newest first.
 
+- [gemini-api CLI: 코딩 에이전트가 셸에서 Gemini 멀티모달 기능을 호출](../entries/2026-11.md#gemini-api-cli-코딩-에이전트가-셸에서-gemini-멀티모달-기능을-호출) (2026-11-23): Google Gemini 공식 오픈소스 CLI(`gemini-api`)를 설치하고 API 키를 설정해 두면, 셸을 쓸 수 있는 Codex·Claude Code·Antigravity 같은 에이전트가 앱을 만들다가 이미지·음성·음악·영상 생성, 동영상 분석, OCR, 관리형 에이전트 실행을 명령 한 줄로 부를 수 있다.
 - [AGENTS.md + 브리프 파일로 코딩 에이전트에게 Blender 영상 통째로 맡기기](../entries/2026-11.md#agentsmd--브리프-파일로-코딩-에이전트에게-blender-영상-통째로-맡기기) (2026-11-17): 기계식 시계 렌더 영상을 코딩 에이전트로 만든 방법을 파일 두 개(AGENTS.md, 작업 브리프)로 공개했다.
 - [Claude Animated Shorts: three.js + Remotion으로 1분 애니메이션 쇼츠를 만드는 Claude 스킬](../entries/2026-11.md#claude-animated-shorts-threejs--remotion으로-1분-애니메이션-쇼츠를-만드는-claude-스킬) (2026-11-17): AI 영상 생성기 없이 55~70초짜리 애니메이션 쇼츠를 로컬 PC에서 렌더링하게 해 주는 무료 Claude 스킬이다.
 - [AI 시대 게임 개발: 에이전트로 프로토타입 만들기, 확장, 디컴파일 복원](../entries/2026-11.md#ai-시대-게임-개발-에이전트로-프로토타입-만들기-확장-디컴파일-복원) (2026-11-16): AI 활용을 새 게임 제작(Produce·Invent), 기존 게임 확장(Extend), 소스가 사라진 게임 복원(Recover) 네 영역으로 나눈 글이다.

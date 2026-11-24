@@ -6,8 +6,9 @@ OpenAI Codex(CLI·앱·클라우드) 관련 팁·업데이트·워크플로 모�
 
 Tips, updates and workflows for OpenAI Codex (CLI, app and cloud).
 
-항목 68개, 최신순 / 68 entries, newest first.
+항목 69개, 최신순 / 69 entries, newest first.
 
+- [gemini-api CLI: 코딩 에이전트가 셸에서 Gemini 멀티모달 기능을 호출](../entries/2026-11.md#gemini-api-cli-코딩-에이전트가-셸에서-gemini-멀티모달-기능을-호출) (2026-11-23): Google Gemini 공식 오픈소스 CLI(`gemini-api`)를 설치하고 API 키를 설정해 두면, 셸을 쓸 수 있는 Codex·Claude Code·Antigravity 같은 에이전트가 앱을 만들다가 이미지·음성·음악·영상 생성, 동영상 분석, OCR, 관리형 에이전트 실행을 명령 한 줄로 부를 수 있다.
 - [SECURITY_CONTEXT.md 스킬: 코딩 에이전트용 보안 규칙 파일 자동 생성](../entries/2026-11.md#security_contextmd-스킬-코딩-에이전트용-보안-규칙-파일-자동-생성) (2026-11-23): 저장소를 분석해 앱의 신뢰 경계, 안전하게 써도 되는 내부 헬퍼, 코딩 에이전트가 절대 깨면 안 되는 보안 규칙을 짧은 SECURITY_CONTEXT.md로 정리해 주는 오픈소스 스킬이다.
 - [Codex 하네스와 주변 공식 오픈소스 저장소 7개](../entries/2026-11.md#codex-하네스와-주변-공식-오픈소스-저장소-7개) (2026-11-22): OpenAI가 Codex를 돌리는 하네스와 그 주변 도구를 오픈소스로 공개해 두었으니 직접 가져다 쓰라는 정리다.
 - [Orca Bots: 오픈소스 에이전트 IDE 안에서 Claude Code·Codex 워커 봇 돌리기](../entries/2026-11.md#orca-bots-오픈소스-에이전트-ide-안에서-claude-codecodex-워커-봇-돌리기) (2026-11-20): 오픈소스(MIT) 에이전트 IDE Orca에 봇 기능이 추가돼, 내 Claude Code나 Codex를 워커로 붙인 봇을 만들고 일을 위임할 수 있다.
