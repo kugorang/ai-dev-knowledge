@@ -6,8 +6,10 @@ OpenAI Codex(CLI·앱·클라우드) 관련 팁·업데이트·워크플로 모�
 
 Tips, updates and workflows for OpenAI Codex (CLI, app and cloud).
 
-항목 72개, 최신순 / 72 entries, newest first.
+항목 74개, 최신순 / 74 entries, newest first.
 
+- [T3 Code 0.1.12: 여러 저장소를 한 프로젝트·한 워크트리로, 에이전트 MCP 로그인](../entries/2026-11.md#t3-code-0112-여러-저장소를-한-프로젝트한-워크트리로-에이전트-mcp-로그인) (2026-11-25): Claude Code·Codex 같은 에이전트를 한 화면에서 돌리는 T3 Code 0.1.12에서 프로젝트가 여러 저장소(저장소 폴더, .code-workspace 파일, 서브모듈)를 묶을 수 있게 됐다.
+- [Editroom: Claude·ChatGPT가 MCP로 직접 편집하는 23MB 오픈소스 영상 편집기](../entries/2026-11.md#editroom-claudechatgpt가-mcp로-직접-편집하는-23mb-오픈소스-영상-편집기) (2026-11-25): Robbie Tilton이 공개한 Editroom은 MIT 라이선스의 무료 macOS 영상 편집기(macOS 14 이상, Apple 프레임워크 기반이라 Windows판은 없음)로, 앱 크기가 23MB다.
 - [Unity CLI: 코딩 에이전트가 Asset Store 에셋 검색·임포트와 AI 에셋 생성까지](../entries/2026-11.md#unity-cli-코딩-에이전트가-asset-store-에셋-검색임포트와-ai-에셋-생성까지) (2026-11-25): Unity CLI(오픈 베타)가 Claude Code·Codex·Antigravity 같은 코딩 에이전트를 Unity Asset Store와 60개 이상의 AI 에셋 생성 모델에 연결해, 에이전트가 필요한 에셋을 찾아 받아 씬에 넣거나 없으면 스프라이트·3D 모델·효과음을 생성할 수 있게 됐다.
 - [AI 소프트웨어 팩토리를 실제 코드에 붙이기 전 점검표](../entries/2026-11.md#ai-소프트웨어-팩토리를-실제-코드에-붙이기-전-점검표) (2026-11-25): 티켓을 받아 에이전트가 PR까지 여는 자동화 파이프라인을 고객이 쓰는 코드에 연결하기 전에 갖춰야 할 것들을 정리한 목록이다.
 - [OmniGet: 코딩 에이전트가 내 PC와 로그인 세션을 쓰게 하는 로컬 MCP 서버](../entries/2026-11.md#omniget-코딩-에이전트가-내-pc와-로그인-세션을-쓰게-하는-로컬-mcp-서버) (2026-11-24): OmniGet은 Claude Code·Codex·Cursor·Gemini CLI에 붙는 오픈소스(GPL-3.0) 로컬 MCP 서버로, 에이전트가 이미 로그인된 내 계정으로 채팅·피드를 읽고, 내장 브라우저로 페이지를 토큰 한도 안에서 읽고, 영상·음악·직접 결제한 강의를 내려받고, 폴더를 프롬프트용 파일 하나로 묶거나 포트·HTTP 요청을 다루게 해 준다.

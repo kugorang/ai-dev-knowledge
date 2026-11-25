@@ -6,8 +6,10 @@ AI로 게임을 만들 때(Unity·Godot·Unreal 포함) 참고할 항목 모음�
 
 Entries about building games with AI, including Unity, Godot and Unreal.
 
-항목 34개, 최신순 / 34 entries, newest first.
+항목 36개, 최신순 / 36 entries, newest first.
 
+- [T3 Code 0.1.12: 여러 저장소를 한 프로젝트·한 워크트리로, 에이전트 MCP 로그인](../entries/2026-11.md#t3-code-0112-여러-저장소를-한-프로젝트한-워크트리로-에이전트-mcp-로그인) (2026-11-25): Claude Code·Codex 같은 에이전트를 한 화면에서 돌리는 T3 Code 0.1.12에서 프로젝트가 여러 저장소(저장소 폴더, .code-workspace 파일, 서브모듈)를 묶을 수 있게 됐다.
+- [Editroom: Claude·ChatGPT가 MCP로 직접 편집하는 23MB 오픈소스 영상 편집기](../entries/2026-11.md#editroom-claudechatgpt가-mcp로-직접-편집하는-23mb-오픈소스-영상-편집기) (2026-11-25): Robbie Tilton이 공개한 Editroom은 MIT 라이선스의 무료 macOS 영상 편집기(macOS 14 이상, Apple 프레임워크 기반이라 Windows판은 없음)로, 앱 크기가 23MB다.
 - [Unity CLI: 코딩 에이전트가 Asset Store 에셋 검색·임포트와 AI 에셋 생성까지](../entries/2026-11.md#unity-cli-코딩-에이전트가-asset-store-에셋-검색임포트와-ai-에셋-생성까지) (2026-11-25): Unity CLI(오픈 베타)가 Claude Code·Codex·Antigravity 같은 코딩 에이전트를 Unity Asset Store와 60개 이상의 AI 에셋 생성 모델에 연결해, 에이전트가 필요한 에셋을 찾아 받아 씬에 넣거나 없으면 스프라이트·3D 모델·효과음을 생성할 수 있게 됐다.
 - [Claude 플러그인 통합: 커넥터와 스킬을 한 페이지에서 설치·관리](../entries/2026-11.md#claude-플러그인-통합-커넥터와-스킬을-한-페이지에서-설치관리) (2026-11-24): Claude에서 도구를 연결하는 커넥터(MCP)와 작업 방식을 가르치는 스킬이 '플러그인'으로 합쳐져, 사이드바의 Customize가 Plugins로 바뀌고 1만 개 넘는 플러그인을 스킬·커넥터 필터와 Verified·Community 표시로 골라 설치할 수 있게 됐다.
 - [GPT-Live-1.1 API 공개: 대기 모드로 유휴 비용 절감](../entries/2026-11.md#gpt-live-11-api-공개-대기-모드로-유휴-비용-절감) (2026-11-20): 음성 대화 모델 GPT-Live-1.1을 API에서 쓸 수 있게 됐다.

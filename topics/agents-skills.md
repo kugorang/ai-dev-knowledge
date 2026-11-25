@@ -6,8 +6,12 @@
 
 Entries about coding agents, subagents, harnesses and skills (SKILL.md).
 
-항목 220개, 최신순 / 220 entries, newest first.
+항목 224개, 최신순 / 224 entries, newest first.
 
+- [Antigravity v2.35.0: Auto 모드 승인 감소, 대기 메시지 표시, 대화 기록 무제한](../entries/2026-11.md#antigravity-v2350-auto-모드-승인-감소-대기-메시지-표시-대화-기록-무제한) (2026-11-25): Antigravity v2.35.0에서 Auto 모드가 대화 밖의 민감하지 않은 파일 읽기에는 더 이상 권한을 묻지 않게 됐고, Varun Mohan(@_mohansolo)은 이로써 Auto 모드의 불필요한 승인이 50% 줄었으며 Neon 모델 기준 작업당 할당량 소모가 12% 줄고 17% 빨라졌다고 밝혔다.
+- [Antigravity의 Modern Web Guidance 스킬로 기존 HTML 폼에 WebMCP 도구 달기](../entries/2026-11.md#antigravity의-modern-web-guidance-스킬로-기존-html-폼에-webmcp-도구-달기) (2026-11-25): Google Antigravity 공식 계정이 Modern Web Guidance 스킬을 써서 프런트엔드를 다시 짜지 않고 기존 HTML 폼에 선언형 WebMCP 도구를 붙이는 방법을 소개했다.
+- [T3 Code 0.1.12: 여러 저장소를 한 프로젝트·한 워크트리로, 에이전트 MCP 로그인](../entries/2026-11.md#t3-code-0112-여러-저장소를-한-프로젝트한-워크트리로-에이전트-mcp-로그인) (2026-11-25): Claude Code·Codex 같은 에이전트를 한 화면에서 돌리는 T3 Code 0.1.12에서 프로젝트가 여러 저장소(저장소 폴더, .code-workspace 파일, 서브모듈)를 묶을 수 있게 됐다.
+- [Editroom: Claude·ChatGPT가 MCP로 직접 편집하는 23MB 오픈소스 영상 편집기](../entries/2026-11.md#editroom-claudechatgpt가-mcp로-직접-편집하는-23mb-오픈소스-영상-편집기) (2026-11-25): Robbie Tilton이 공개한 Editroom은 MIT 라이선스의 무료 macOS 영상 편집기(macOS 14 이상, Apple 프레임워크 기반이라 Windows판은 없음)로, 앱 크기가 23MB다.
 - [Unity CLI: 코딩 에이전트가 Asset Store 에셋 검색·임포트와 AI 에셋 생성까지](../entries/2026-11.md#unity-cli-코딩-에이전트가-asset-store-에셋-검색임포트와-ai-에셋-생성까지) (2026-11-25): Unity CLI(오픈 베타)가 Claude Code·Codex·Antigravity 같은 코딩 에이전트를 Unity Asset Store와 60개 이상의 AI 에셋 생성 모델에 연결해, 에이전트가 필요한 에셋을 찾아 받아 씬에 넣거나 없으면 스프라이트·3D 모델·효과음을 생성할 수 있게 됐다.
 - [AI 소프트웨어 팩토리를 실제 코드에 붙이기 전 점검표](../entries/2026-11.md#ai-소프트웨어-팩토리를-실제-코드에-붙이기-전-점검표) (2026-11-25): 티켓을 받아 에이전트가 PR까지 여는 자동화 파이프라인을 고객이 쓰는 코드에 연결하기 전에 갖춰야 할 것들을 정리한 목록이다.
 - [Google Antigravity, MCP Apps 지원](../entries/2026-11.md#google-antigravity-mcp-apps-지원) (2026-11-25): Google Antigravity가 MCP Apps를 지원하게 되어, MCP 서버가 제공하는 인터랙티브 차트, 샌드박스, 릴리스 보드, 맞춤 파일 뷰어 같은 앱 UI를 작업 공간 안에 바로 띄울 수 있다.

@@ -6,8 +6,10 @@ Anthropic의 터미널 코딩 에이전트 Claude Code 관련 팁·업데이트�
 
 Tips, updates and workflows for Claude Code, Anthropic's terminal coding agent.
 
-항목 138개, 최신순 / 138 entries, newest first.
+항목 140개, 최신순 / 140 entries, newest first.
 
+- [T3 Code 0.1.12: 여러 저장소를 한 프로젝트·한 워크트리로, 에이전트 MCP 로그인](../entries/2026-11.md#t3-code-0112-여러-저장소를-한-프로젝트한-워크트리로-에이전트-mcp-로그인) (2026-11-25): Claude Code·Codex 같은 에이전트를 한 화면에서 돌리는 T3 Code 0.1.12에서 프로젝트가 여러 저장소(저장소 폴더, .code-workspace 파일, 서브모듈)를 묶을 수 있게 됐다.
+- [Claude Ship 실전 가이드: /code-review로 먼저 점검하고 /ship 전에 git status](../entries/2026-11.md#claude-ship-실전-가이드-code-review로-먼저-점검하고-ship-전에-git-status) (2026-11-25): Claude Code 팀 Addy Osmani가 PR 이후 후속 작업(CI 실패, 리뷰 코멘트, 머지 충돌)을 Claude Ship에 넘기는 방법을 정리한 가이드다.
 - [Unity CLI: 코딩 에이전트가 Asset Store 에셋 검색·임포트와 AI 에셋 생성까지](../entries/2026-11.md#unity-cli-코딩-에이전트가-asset-store-에셋-검색임포트와-ai-에셋-생성까지) (2026-11-25): Unity CLI(오픈 베타)가 Claude Code·Codex·Antigravity 같은 코딩 에이전트를 Unity Asset Store와 60개 이상의 AI 에셋 생성 모델에 연결해, 에이전트가 필요한 에셋을 찾아 받아 씬에 넣거나 없으면 스프라이트·3D 모델·효과음을 생성할 수 있게 됐다.
 - [AI 소프트웨어 팩토리를 실제 코드에 붙이기 전 점검표](../entries/2026-11.md#ai-소프트웨어-팩토리를-실제-코드에-붙이기-전-점검표) (2026-11-25): 티켓을 받아 에이전트가 PR까지 여는 자동화 파이프라인을 고객이 쓰는 코드에 연결하기 전에 갖춰야 할 것들을 정리한 목록이다.
 - [코딩 에이전트 작업 환경 점검표: 동시 세션·상시 머신·폰 원격 조종](../entries/2026-11.md#코딩-에이전트-작업-환경-점검표-동시-세션상시-머신폰-원격-조종) (2026-11-25): AI 코딩 에이전트를 본격적으로 쓰려면 반나절을 따로 잡아 작업 환경을 다시 짜 보라는 점검표다.
