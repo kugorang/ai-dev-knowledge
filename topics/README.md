@@ -6,19 +6,19 @@
 
 Indexes of `entries/` grouped by tool and by theme. One entry can appear on several pages.
 
-전체 항목 / Total entries: 299
+전체 항목 / Total entries: 307
 
 ## 도구별 (By tool)
 
-- [Claude Code](claude-code.md): 135
-- [Codex](codex.md): 70
+- [Claude Code](claude-code.md): 138
+- [Codex](codex.md): 72
 - [Cursor](cursor.md): 54
 - [ChatGPT / OpenAI](chatgpt.md): 21
-- [Grok Bot](grok-bot.md): 41
+- [Grok Bot](grok-bot.md): 43
 
 ## 주제별 (By theme)
 
-- [MCP (Model Context Protocol)](mcp.md): 50
-- [에이전트·스킬 (Agents & Skills)](agents-skills.md): 216
-- [게임·Unity (Game Dev & Unity)](game-unity.md): 33
-- [아트·영상 (Art, 3D & Video)](art.md): 37
+- [MCP (Model Context Protocol)](mcp.md): 51
+- [에이전트·스킬 (Agents & Skills)](agents-skills.md): 220
+- [게임·Unity (Game Dev & Unity)](game-unity.md): 34
+- [아트·영상 (Art, 3D & Video)](art.md): 38

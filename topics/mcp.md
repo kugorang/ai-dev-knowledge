@@ -6,8 +6,9 @@ MCP 서버·클라이언트·보안을 다룬 항목 모음입니다.
 
 Entries about MCP servers, clients and security.
 
-항목 50개, 최신순 / 50 entries, newest first.
+항목 51개, 최신순 / 51 entries, newest first.
 
+- [Google Antigravity, MCP Apps 지원](../entries/2026-11.md#google-antigravity-mcp-apps-지원) (2026-11-25): Google Antigravity가 MCP Apps를 지원하게 되어, MCP 서버가 제공하는 인터랙티브 차트, 샌드박스, 릴리스 보드, 맞춤 파일 뷰어 같은 앱 UI를 작업 공간 안에 바로 띄울 수 있다.
 - [Claude 플러그인 통합: 커넥터와 스킬을 한 페이지에서 설치·관리](../entries/2026-11.md#claude-플러그인-통합-커넥터와-스킬을-한-페이지에서-설치관리) (2026-11-24): Claude에서 도구를 연결하는 커넥터(MCP)와 작업 방식을 가르치는 스킬이 '플러그인'으로 합쳐져, 사이드바의 Customize가 Plugins로 바뀌고 1만 개 넘는 플러그인을 스킬·커넥터 필터와 Verified·Community 표시로 골라 설치할 수 있게 됐다.
 - [OmniGet: 코딩 에이전트가 내 PC와 로그인 세션을 쓰게 하는 로컬 MCP 서버](../entries/2026-11.md#omniget-코딩-에이전트가-내-pc와-로그인-세션을-쓰게-하는-로컬-mcp-서버) (2026-11-24): OmniGet은 Claude Code·Codex·Cursor·Gemini CLI에 붙는 오픈소스(GPL-3.0) 로컬 MCP 서버로, 에이전트가 이미 로그인된 내 계정으로 채팅·피드를 읽고, 내장 브라우저로 페이지를 토큰 한도 안에서 읽고, 영상·음악·직접 결제한 강의를 내려받고, 폴더를 프롬프트용 파일 하나로 묶거나 포트·HTTP 요청을 다루게 해 준다.
 - [Claude Code dependency-cooldown 설정: 공개 7일 안 된 패키지 설치 막기](../entries/2026-11.md#claude-code-dependency-cooldown-설정-공개-7일-안-된-패키지-설치-막기) (2026-11-22): claude-code-templates의 dependency-cooldown 설정을 넣으면 npm·pnpm·uv로 공개된 지 7일이 안 된 패키지 버전을 설치하지 못하게 막는다.

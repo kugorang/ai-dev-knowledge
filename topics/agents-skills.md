@@ -6,8 +6,12 @@
 
 Entries about coding agents, subagents, harnesses and skills (SKILL.md).
 
-항목 216개, 최신순 / 216 entries, newest first.
+항목 220개, 최신순 / 220 entries, newest first.
 
+- [Unity CLI: 코딩 에이전트가 Asset Store 에셋 검색·임포트와 AI 에셋 생성까지](../entries/2026-11.md#unity-cli-코딩-에이전트가-asset-store-에셋-검색임포트와-ai-에셋-생성까지) (2026-11-25): Unity CLI(오픈 베타)가 Claude Code·Codex·Antigravity 같은 코딩 에이전트를 Unity Asset Store와 60개 이상의 AI 에셋 생성 모델에 연결해, 에이전트가 필요한 에셋을 찾아 받아 씬에 넣거나 없으면 스프라이트·3D 모델·효과음을 생성할 수 있게 됐다.
+- [AI 소프트웨어 팩토리를 실제 코드에 붙이기 전 점검표](../entries/2026-11.md#ai-소프트웨어-팩토리를-실제-코드에-붙이기-전-점검표) (2026-11-25): 티켓을 받아 에이전트가 PR까지 여는 자동화 파이프라인을 고객이 쓰는 코드에 연결하기 전에 갖춰야 할 것들을 정리한 목록이다.
+- [Google Antigravity, MCP Apps 지원](../entries/2026-11.md#google-antigravity-mcp-apps-지원) (2026-11-25): Google Antigravity가 MCP Apps를 지원하게 되어, MCP 서버가 제공하는 인터랙티브 차트, 샌드박스, 릴리스 보드, 맞춤 파일 뷰어 같은 앱 UI를 작업 공간 안에 바로 띄울 수 있다.
+- [코딩 에이전트 작업 환경 점검표: 동시 세션·상시 머신·폰 원격 조종](../entries/2026-11.md#코딩-에이전트-작업-환경-점검표-동시-세션상시-머신폰-원격-조종) (2026-11-25): AI 코딩 에이전트를 본격적으로 쓰려면 반나절을 따로 잡아 작업 환경을 다시 짜 보라는 점검표다.
 - [Claude 플러그인 통합: 커넥터와 스킬을 한 페이지에서 설치·관리](../entries/2026-11.md#claude-플러그인-통합-커넥터와-스킬을-한-페이지에서-설치관리) (2026-11-24): Claude에서 도구를 연결하는 커넥터(MCP)와 작업 방식을 가르치는 스킬이 '플러그인'으로 합쳐져, 사이드바의 Customize가 Plugins로 바뀌고 1만 개 넘는 플러그인을 스킬·커넥터 필터와 Verified·Community 표시로 골라 설치할 수 있게 됐다.
 - [OmniGet: 코딩 에이전트가 내 PC와 로그인 세션을 쓰게 하는 로컬 MCP 서버](../entries/2026-11.md#omniget-코딩-에이전트가-내-pc와-로그인-세션을-쓰게-하는-로컬-mcp-서버) (2026-11-24): OmniGet은 Claude Code·Codex·Cursor·Gemini CLI에 붙는 오픈소스(GPL-3.0) 로컬 MCP 서버로, 에이전트가 이미 로그인된 내 계정으로 채팅·피드를 읽고, 내장 브라우저로 페이지를 토큰 한도 안에서 읽고, 영상·음악·직접 결제한 강의를 내려받고, 폴더를 프롬프트용 파일 하나로 묶거나 포트·HTTP 요청을 다루게 해 준다.
 - [pstack /reframe: 만들려는 것의 전문 용어부터 배워 프롬프트 다시 쓰기](../entries/2026-11.md#pstack-reframe-만들려는-것의-전문-용어부터-배워-프롬프트-다시-쓰기) (2026-11-24): pstack 플러그인에 원하는 결과는 아는데 말로 설명하기 어려울 때 쓰는 /reframe 스킬이 추가됐다.
