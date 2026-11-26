@@ -6,8 +6,12 @@ Anthropic의 터미널 코딩 에이전트 Claude Code 관련 팁·업데이트�
 
 Tips, updates and workflows for Claude Code, Anthropic's terminal coding agent.
 
-항목 142개, 최신순 / 142 entries, newest first.
+항목 146개, 최신순 / 146 entries, newest first.
 
+- [문서 없는 9달러 MP3 플레이어에 Rockbox 이식: Codex에서 Claude Code로 갈아타고 자동 테스트 셸로 밤새 개발](../entries/2026-11.md#문서-없는-9달러-mp3-플레이어에-rockbox-이식-codex에서-claude-code로-갈아타고-자동-테스트-셸로-밤새-개발) (2026-11-26): 사양이 공개되지 않은 SRAM 512KiB짜리 MP3 플레이어에 LLM으로 Rockbox를 이식한 기록이다.
+- [Karpathy, Claude Code로 실제 미국 데이터를 쓴 문명 스타일 게임 지도를 7시간 만에 제작](../entries/2026-11.md#karpathy-claude-code로-실제-미국-데이터를-쓴-문명-스타일-게임-지도를-7시간-만에-제작) (2026-11-26): Karpathy가 Claude Code 데스크톱 앱에서 Opus 5.5(medium)와 ultracode를 켜고, 인구조사·경제·에너지·지질 등 공공 데이터 31종을 내려받아 25km 육각 격자 하나에 맞춘 문명(Civilization) 스타일 지도를 만들게 했다.
+- [Obsidian 공식 커넥터: Claude Code·Codex·Antigravity·Cursor·Grok Bot·Muse에 같은 노트 볼트 연결](../entries/2026-11.md#obsidian-공식-커넥터-claude-codecodexantigravitycursorgrok-botmuse에-같은-노트-볼트-연결) (2026-11-26): Obsidian이 여러 에이전트에서 같은 볼트를 지식 베이스로 쓰도록 오픈소스 스킬 묶음(obsidianmd/obsidian-skills)을 공식 커넥터로 내놨다.
+- [app-store-compliance: 앱스토어·구글 플레이 심사 거절 원인을 제출 전에 막는 에이전트 스킬·훅](../entries/2026-11.md#app-store-compliance-앱스토어구글-플레이-심사-거절-원인을-제출-전에-막는-에이전트-스킬훅) (2026-11-26): 바이브코딩으로 만든 iOS·안드로이드 앱을 제출하기 전에 Apple App Store와 Google Play의 대표적인 거절 패턴을 점검해 주는 오픈소스 스킬이다.
 - [Anthropic, Claude로 Messages API를 Python에서 Rust로 이전: 기존 시스템을 오라클로 쓰는 검증 루프](../entries/2026-11.md#anthropic-claude로-messages-api를-python에서-rust로-이전-기존-시스템을-오라클로-쓰는-검증-루프) (2026-11-26): Anthropic이 Claude가 약 일주일 만에 Rust 초안을 썼지만 진짜 병목은 생성이 아니라 검증이었다며, 운영 중인 Python API를 정답 기준(오라클)으로 삼아 Rust 버전을 실제 트래픽과 비교한 방법을 공개했다.
 - [T3 Code 0.1.12: 여러 저장소를 한 프로젝트·한 워크트리로, 에이전트 MCP 로그인](../entries/2026-11.md#t3-code-0112-여러-저장소를-한-프로젝트한-워크트리로-에이전트-mcp-로그인) (2026-11-25): Claude Code·Codex 같은 에이전트를 한 화면에서 돌리는 T3 Code 0.1.12에서 프로젝트가 여러 저장소(저장소 폴더, .code-workspace 파일, 서브모듈)를 묶을 수 있게 됐다.
 - [Claude Ship 실전 가이드: /code-review로 먼저 점검하고 /ship 전에 git status](../entries/2026-11.md#claude-ship-실전-가이드-code-review로-먼저-점검하고-ship-전에-git-status) (2026-11-25): Claude Code 팀 Addy Osmani가 PR 이후 후속 작업(CI 실패, 리뷰 코멘트, 머지 충돌)을 Claude Ship에 넘기는 방법을 정리한 가이드다.

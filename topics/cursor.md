@@ -6,8 +6,10 @@ AI 코드 에디터 Cursor 관련 팁·업데이트·워크플로 모음입니�
 
 Tips, updates and workflows for the Cursor AI code editor.
 
-항목 54개, 최신순 / 54 entries, newest first.
+항목 56개, 최신순 / 56 entries, newest first.
 
+- [Obsidian 공식 커넥터: Claude Code·Codex·Antigravity·Cursor·Grok Bot·Muse에 같은 노트 볼트 연결](../entries/2026-11.md#obsidian-공식-커넥터-claude-codecodexantigravitycursorgrok-botmuse에-같은-노트-볼트-연결) (2026-11-26): Obsidian이 여러 에이전트에서 같은 볼트를 지식 베이스로 쓰도록 오픈소스 스킬 묶음(obsidianmd/obsidian-skills)을 공식 커넥터로 내놨다.
+- [app-store-compliance: 앱스토어·구글 플레이 심사 거절 원인을 제출 전에 막는 에이전트 스킬·훅](../entries/2026-11.md#app-store-compliance-앱스토어구글-플레이-심사-거절-원인을-제출-전에-막는-에이전트-스킬훅) (2026-11-26): 바이브코딩으로 만든 iOS·안드로이드 앱을 제출하기 전에 Apple App Store와 Google Play의 대표적인 거절 패턴을 점검해 주는 오픈소스 스킬이다.
 - [OmniGet: 코딩 에이전트가 내 PC와 로그인 세션을 쓰게 하는 로컬 MCP 서버](../entries/2026-11.md#omniget-코딩-에이전트가-내-pc와-로그인-세션을-쓰게-하는-로컬-mcp-서버) (2026-11-24): OmniGet은 Claude Code·Codex·Cursor·Gemini CLI에 붙는 오픈소스(GPL-3.0) 로컬 MCP 서버로, 에이전트가 이미 로그인된 내 계정으로 채팅·피드를 읽고, 내장 브라우저로 페이지를 토큰 한도 안에서 읽고, 영상·음악·직접 결제한 강의를 내려받고, 폴더를 프롬프트용 파일 하나로 묶거나 포트·HTTP 요청을 다루게 해 준다.
 - [pstack /reframe: 만들려는 것의 전문 용어부터 배워 프롬프트 다시 쓰기](../entries/2026-11.md#pstack-reframe-만들려는-것의-전문-용어부터-배워-프롬프트-다시-쓰기) (2026-11-24): pstack 플러그인에 원하는 결과는 아는데 말로 설명하기 어려울 때 쓰는 /reframe 스킬이 추가됐다.
 - [/poteto-mode로 반복되는 실수를 아예 못 하게 만드는 정리 프롬프트](../entries/2026-11.md#poteto-mode로-반복되는-실수를-아예-못-하게-만드는-정리-프롬프트) (2026-11-22): pstack의 /poteto-mode를 저장소에 걸고, 먼저 git 로그·과거 버그 수정·리뷰 코멘트를 읽어 에이전트와 사람이 되풀이하는 실수를 찾은 뒤, 주의 문구를 늘리는 대신 각 실수가 구조적으로 일어날 수 없게 고치라고 시키는 프롬프트다.

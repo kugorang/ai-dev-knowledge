@@ -6,8 +6,12 @@ OpenAI Codex(CLI·앱·클라우드) 관련 팁·업데이트·워크플로 모�
 
 Tips, updates and workflows for OpenAI Codex (CLI, app and cloud).
 
-항목 75개, 최신순 / 75 entries, newest first.
+항목 79개, 최신순 / 79 entries, newest first.
 
+- [OpenAI, GPT-6.2 사용량 과소 계산 수정: 같은 작업에도 플랜 한도가 더 빨리 찬다](../entries/2026-11.md#openai-gpt-62-사용량-과소-계산-수정-같은-작업에도-플랜-한도가-더-빨리-찬다) (2026-11-26): Codex 팀의 Thibault Sottiaux(@thsottiaux)가 GPT-6.2 출시 때 Astra와 Sol 사용량이 실수로 할인 계산되고 있었고 이를 바로잡았다고 밝혔다.
+- [문서 없는 9달러 MP3 플레이어에 Rockbox 이식: Codex에서 Claude Code로 갈아타고 자동 테스트 셸로 밤새 개발](../entries/2026-11.md#문서-없는-9달러-mp3-플레이어에-rockbox-이식-codex에서-claude-code로-갈아타고-자동-테스트-셸로-밤새-개발) (2026-11-26): 사양이 공개되지 않은 SRAM 512KiB짜리 MP3 플레이어에 LLM으로 Rockbox를 이식한 기록이다.
+- [Obsidian 공식 커넥터: Claude Code·Codex·Antigravity·Cursor·Grok Bot·Muse에 같은 노트 볼트 연결](../entries/2026-11.md#obsidian-공식-커넥터-claude-codecodexantigravitycursorgrok-botmuse에-같은-노트-볼트-연결) (2026-11-26): Obsidian이 여러 에이전트에서 같은 볼트를 지식 베이스로 쓰도록 오픈소스 스킬 묶음(obsidianmd/obsidian-skills)을 공식 커넥터로 내놨다.
+- [app-store-compliance: 앱스토어·구글 플레이 심사 거절 원인을 제출 전에 막는 에이전트 스킬·훅](../entries/2026-11.md#app-store-compliance-앱스토어구글-플레이-심사-거절-원인을-제출-전에-막는-에이전트-스킬훅) (2026-11-26): 바이브코딩으로 만든 iOS·안드로이드 앱을 제출하기 전에 Apple App Store와 Google Play의 대표적인 거절 패턴을 점검해 주는 오픈소스 스킬이다.
 - [T3 Code 0.1.12: 여러 저장소를 한 프로젝트·한 워크트리로, 에이전트 MCP 로그인](../entries/2026-11.md#t3-code-0112-여러-저장소를-한-프로젝트한-워크트리로-에이전트-mcp-로그인) (2026-11-25): Claude Code·Codex 같은 에이전트를 한 화면에서 돌리는 T3 Code 0.1.12에서 프로젝트가 여러 저장소(저장소 폴더, .code-workspace 파일, 서브모듈)를 묶을 수 있게 됐다.
 - [Editroom: Claude·ChatGPT가 MCP로 직접 편집하는 23MB 오픈소스 영상 편집기](../entries/2026-11.md#editroom-claudechatgpt가-mcp로-직접-편집하는-23mb-오픈소스-영상-편집기) (2026-11-25): Robbie Tilton이 공개한 Editroom은 MIT 라이선스의 무료 macOS 영상 편집기(macOS 14 이상, Apple 프레임워크 기반이라 Windows판은 없음)로, 앱 크기가 23MB다.
 - [Unity CLI: 코딩 에이전트가 Asset Store 에셋 검색·임포트와 AI 에셋 생성까지](../entries/2026-11.md#unity-cli-코딩-에이전트가-asset-store-에셋-검색임포트와-ai-에셋-생성까지) (2026-11-25): Unity CLI(오픈 베타)가 Claude Code·Codex·Antigravity 같은 코딩 에이전트를 Unity Asset Store와 60개 이상의 AI 에셋 생성 모델에 연결해, 에이전트가 필요한 에셋을 찾아 받아 씬에 넣거나 없으면 스프라이트·3D 모델·효과음을 생성할 수 있게 됐다.

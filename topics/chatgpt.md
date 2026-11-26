@@ -6,8 +6,9 @@ ChatGPT와 OpenAI 모델·API 관련 항목 모음입니다. Codex 전용 항목
 
 Entries about ChatGPT and OpenAI models and APIs. Codex-only items live on the Codex page.
 
-항목 22개, 최신순 / 22 entries, newest first.
+항목 23개, 최신순 / 23 entries, newest first.
 
+- [OpenAI, GPT-6.2 사용량 과소 계산 수정: 같은 작업에도 플랜 한도가 더 빨리 찬다](../entries/2026-11.md#openai-gpt-62-사용량-과소-계산-수정-같은-작업에도-플랜-한도가-더-빨리-찬다) (2026-11-26): Codex 팀의 Thibault Sottiaux(@thsottiaux)가 GPT-6.2 출시 때 Astra와 Sol 사용량이 실수로 할인 계산되고 있었고 이를 바로잡았다고 밝혔다.
 - [Editroom: Claude·ChatGPT가 MCP로 직접 편집하는 23MB 오픈소스 영상 편집기](../entries/2026-11.md#editroom-claudechatgpt가-mcp로-직접-편집하는-23mb-오픈소스-영상-편집기) (2026-11-25): Robbie Tilton이 공개한 Editroom은 MIT 라이선스의 무료 macOS 영상 편집기(macOS 14 이상, Apple 프레임워크 기반이라 Windows판은 없음)로, 앱 크기가 23MB다.
 - [GPT-6.2 Responses API: 앞부분은 그대로 두고 뒤에 추가하기](../entries/2026-11.md#gpt-62-responses-api-앞부분은-그대로-두고-뒤에-추가하기) (2026-11-20): GPT-6.2부터 Responses API의 추론 항목이 그 앞의 대화 기록에 묶여서, 앞쪽 기록을 고치면 그 뒤 추론이 버려지고 토큰·비용·지연이 늘 수 있다.
 - [GPT-Live-1.1 API 공개: 대기 모드로 유휴 비용 절감](../entries/2026-11.md#gpt-live-11-api-공개-대기-모드로-유휴-비용-절감) (2026-11-20): 음성 대화 모델 GPT-Live-1.1을 API에서 쓸 수 있게 됐다.

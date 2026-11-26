@@ -6,8 +6,13 @@
 
 Entries about coding agents, subagents, harnesses and skills (SKILL.md).
 
-항목 229개, 최신순 / 229 entries, newest first.
+항목 234개, 최신순 / 234 entries, newest first.
 
+- [문서 없는 9달러 MP3 플레이어에 Rockbox 이식: Codex에서 Claude Code로 갈아타고 자동 테스트 셸로 밤새 개발](../entries/2026-11.md#문서-없는-9달러-mp3-플레이어에-rockbox-이식-codex에서-claude-code로-갈아타고-자동-테스트-셸로-밤새-개발) (2026-11-26): 사양이 공개되지 않은 SRAM 512KiB짜리 MP3 플레이어에 LLM으로 Rockbox를 이식한 기록이다.
+- [Karpathy, Claude Code로 실제 미국 데이터를 쓴 문명 스타일 게임 지도를 7시간 만에 제작](../entries/2026-11.md#karpathy-claude-code로-실제-미국-데이터를-쓴-문명-스타일-게임-지도를-7시간-만에-제작) (2026-11-26): Karpathy가 Claude Code 데스크톱 앱에서 Opus 5.5(medium)와 ultracode를 켜고, 인구조사·경제·에너지·지질 등 공공 데이터 31종을 내려받아 25km 육각 격자 하나에 맞춘 문명(Civilization) 스타일 지도를 만들게 했다.
+- [Obsidian 공식 커넥터: Claude Code·Codex·Antigravity·Cursor·Grok Bot·Muse에 같은 노트 볼트 연결](../entries/2026-11.md#obsidian-공식-커넥터-claude-codecodexantigravitycursorgrok-botmuse에-같은-노트-볼트-연결) (2026-11-26): Obsidian이 여러 에이전트에서 같은 볼트를 지식 베이스로 쓰도록 오픈소스 스킬 묶음(obsidianmd/obsidian-skills)을 공식 커넥터로 내놨다.
+- [Google이 꼽은 11월 Antigravity 인기 슬래시 명령: /plan·/grill-me부터 /goal·/swarm까지](../entries/2026-11.md#google이-꼽은-11월-antigravity-인기-슬래시-명령-plangrill-me부터-goalswarm까지) (2026-11-26): Google for Developers가 이번 달 가장 많이 쓰인 Antigravity 슬래시 명령 10개를 단계별로 묶어 소개했다.
+- [app-store-compliance: 앱스토어·구글 플레이 심사 거절 원인을 제출 전에 막는 에이전트 스킬·훅](../entries/2026-11.md#app-store-compliance-앱스토어구글-플레이-심사-거절-원인을-제출-전에-막는-에이전트-스킬훅) (2026-11-26): 바이브코딩으로 만든 iOS·안드로이드 앱을 제출하기 전에 Apple App Store와 Google Play의 대표적인 거절 패턴을 점검해 주는 오픈소스 스킬이다.
 - [Antigravity의 Neon 캐시 적중률 추가 개선: 같은 할당량으로 작업 28% 더](../entries/2026-11.md#antigravity의-neon-캐시-적중률-추가-개선-같은-할당량으로-작업-28-더) (2026-11-26): Antigravity의 Varun Mohan(@_mohansolo)이 Gemini 4 Neon의 캐시 적중률을 4.5%포인트 더 올려, 같은 할당량 안에서 처리할 수 있는 작업이 약 28% 늘었다고 밝혔다.
 - [Antigravity 플러그인 마켓플레이스: 스킬·MCP·서브에이전트·규칙·훅을 한 패키지로](../entries/2026-11.md#antigravity-플러그인-마켓플레이스-스킬mcp서브에이전트규칙훅을-한-패키지로) (2026-11-26): Google Antigravity에 플러그인 마켓플레이스가 생겨, Agent Plugins Specification을 따르는 플러그인을 마켓플레이스·GitHub 저장소·로컬 폴더에서 설치할 수 있다.
 - [Anthropic, Claude로 Messages API를 Python에서 Rust로 이전: 기존 시스템을 오라클로 쓰는 검증 루프](../entries/2026-11.md#anthropic-claude로-messages-api를-python에서-rust로-이전-기존-시스템을-오라클로-쓰는-검증-루프) (2026-11-26): Anthropic이 Claude가 약 일주일 만에 Rust 초안을 썼지만 진짜 병목은 생성이 아니라 검증이었다며, 운영 중인 Python API를 정답 기준(오라클)으로 삼아 Rust 버전을 실제 트래픽과 비교한 방법을 공개했다.

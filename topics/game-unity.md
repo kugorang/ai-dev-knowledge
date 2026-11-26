@@ -6,8 +6,9 @@ AI로 게임을 만들 때(Unity·Godot·Unreal 포함) 참고할 항목 모음�
 
 Entries about building games with AI, including Unity, Godot and Unreal.
 
-항목 36개, 최신순 / 36 entries, newest first.
+항목 37개, 최신순 / 37 entries, newest first.
 
+- [Karpathy, Claude Code로 실제 미국 데이터를 쓴 문명 스타일 게임 지도를 7시간 만에 제작](../entries/2026-11.md#karpathy-claude-code로-실제-미국-데이터를-쓴-문명-스타일-게임-지도를-7시간-만에-제작) (2026-11-26): Karpathy가 Claude Code 데스크톱 앱에서 Opus 5.5(medium)와 ultracode를 켜고, 인구조사·경제·에너지·지질 등 공공 데이터 31종을 내려받아 25km 육각 격자 하나에 맞춘 문명(Civilization) 스타일 지도를 만들게 했다.
 - [T3 Code 0.1.12: 여러 저장소를 한 프로젝트·한 워크트리로, 에이전트 MCP 로그인](../entries/2026-11.md#t3-code-0112-여러-저장소를-한-프로젝트한-워크트리로-에이전트-mcp-로그인) (2026-11-25): Claude Code·Codex 같은 에이전트를 한 화면에서 돌리는 T3 Code 0.1.12에서 프로젝트가 여러 저장소(저장소 폴더, .code-workspace 파일, 서브모듈)를 묶을 수 있게 됐다.
 - [Editroom: Claude·ChatGPT가 MCP로 직접 편집하는 23MB 오픈소스 영상 편집기](../entries/2026-11.md#editroom-claudechatgpt가-mcp로-직접-편집하는-23mb-오픈소스-영상-편집기) (2026-11-25): Robbie Tilton이 공개한 Editroom은 MIT 라이선스의 무료 macOS 영상 편집기(macOS 14 이상, Apple 프레임워크 기반이라 Windows판은 없음)로, 앱 크기가 23MB다.
 - [Unity CLI: 코딩 에이전트가 Asset Store 에셋 검색·임포트와 AI 에셋 생성까지](../entries/2026-11.md#unity-cli-코딩-에이전트가-asset-store-에셋-검색임포트와-ai-에셋-생성까지) (2026-11-25): Unity CLI(오픈 베타)가 Claude Code·Codex·Antigravity 같은 코딩 에이전트를 Unity Asset Store와 60개 이상의 AI 에셋 생성 모델에 연결해, 에이전트가 필요한 에셋을 찾아 받아 씬에 넣거나 없으면 스프라이트·3D 모델·효과음을 생성할 수 있게 됐다.

@@ -8,8 +8,10 @@ Entries about running, configuring and budgeting Grok Bot.
 
 관련 가이드 / Related guides: [Grok Bot 사용 팁](../guides/grok-bot-tips.md)
 
-항목 45개, 최신순 / 45 entries, newest first.
+항목 47개, 최신순 / 47 entries, newest first.
 
+- [Obsidian 공식 커넥터: Claude Code·Codex·Antigravity·Cursor·Grok Bot·Muse에 같은 노트 볼트 연결](../entries/2026-11.md#obsidian-공식-커넥터-claude-codecodexantigravitycursorgrok-botmuse에-같은-노트-볼트-연결) (2026-11-26): Obsidian이 여러 에이전트에서 같은 볼트를 지식 베이스로 쓰도록 오픈소스 스킬 묶음(obsidianmd/obsidian-skills)을 공식 커넥터로 내놨다.
+- [Grok Bot을 바깥 루프로, Gemini 4 Neon은 계획만, 빠른 작업자는 단계 실행: 3단 분업 설정](../entries/2026-11.md#grok-bot을-바깥-루프로-gemini-4-neon은-계획만-빠른-작업자는-단계-실행-3단-분업-설정) (2026-11-26): 메인 Grok Bot에 '비서실장' 역할 프롬프트를 넣어 작은 일은 직접 처리하고 여러 단계가 필요한 일만 Gemini 4 Neon에 넘기는 구성이다.
 - [Grok Bot 1.3.0: Slack 봇 간 핸드오프, 조직 도메인 제한, 이메일 초안 Bcc](../entries/2026-11.md#grok-bot-130-slack-봇-간-핸드오프-조직-도메인-제한-이메일-초안-bcc) (2026-11-26): Grok Bot 1.3.0(changelog 기준 11월 24일)이 배포되기 시작했다.
 - [Grok Bot 루틴으로 만드는 작은 '에이전트 소프트웨어 팩토리': 트레이스 일일 점검 → 피드백 → PR](../entries/2026-11.md#grok-bot-루틴으로-만드는-작은-에이전트-소프트웨어-팩토리-트레이스-일일-점검--피드백--pr) (2026-11-26): Langfuse 팀이 정리한 패턴으로, 완전 자동 기능 개발 대신 예약 실행되는 코딩 에이전트가 매일 프로덕션 트레이스(프롬프트·도구 호출·출력)를 훑어 문제와 애매한 사례를 가져오게 하는 구성이다.
 - [폴링 대신 이벤트 라우터: 라우터 1개 + 전문 봇 4개로 빈 실행 없애기](../entries/2026-11.md#폴링-대신-이벤트-라우터-라우터-1개--전문-봇-4개로-빈-실행-없애기) (2026-11-25): 5분마다 도는 루틴은 같은 결과를 내는 1시간 간격 루틴보다 비용이 약 12배 든다는 계산(작성자 기준 월 $449 대 $37)에서 출발해, 타이머 폴링을 없애고 웹훅·Slack 배포 채널·GitHub·이메일 이벤트를 라우터 봇 하나로 모으는 구성을 제안한다.
