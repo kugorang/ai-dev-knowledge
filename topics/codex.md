@@ -6,13 +6,14 @@ OpenAI Codex(CLI·앱·클라우드) 관련 팁·업데이트·워크플로 모�
 
 Tips, updates and workflows for OpenAI Codex (CLI, app and cloud).
 
-항목 74개, 최신순 / 74 entries, newest first.
+항목 75개, 최신순 / 75 entries, newest first.
 
 - [T3 Code 0.1.12: 여러 저장소를 한 프로젝트·한 워크트리로, 에이전트 MCP 로그인](../entries/2026-11.md#t3-code-0112-여러-저장소를-한-프로젝트한-워크트리로-에이전트-mcp-로그인) (2026-11-25): Claude Code·Codex 같은 에이전트를 한 화면에서 돌리는 T3 Code 0.1.12에서 프로젝트가 여러 저장소(저장소 폴더, .code-workspace 파일, 서브모듈)를 묶을 수 있게 됐다.
 - [Editroom: Claude·ChatGPT가 MCP로 직접 편집하는 23MB 오픈소스 영상 편집기](../entries/2026-11.md#editroom-claudechatgpt가-mcp로-직접-편집하는-23mb-오픈소스-영상-편집기) (2026-11-25): Robbie Tilton이 공개한 Editroom은 MIT 라이선스의 무료 macOS 영상 편집기(macOS 14 이상, Apple 프레임워크 기반이라 Windows판은 없음)로, 앱 크기가 23MB다.
 - [Unity CLI: 코딩 에이전트가 Asset Store 에셋 검색·임포트와 AI 에셋 생성까지](../entries/2026-11.md#unity-cli-코딩-에이전트가-asset-store-에셋-검색임포트와-ai-에셋-생성까지) (2026-11-25): Unity CLI(오픈 베타)가 Claude Code·Codex·Antigravity 같은 코딩 에이전트를 Unity Asset Store와 60개 이상의 AI 에셋 생성 모델에 연결해, 에이전트가 필요한 에셋을 찾아 받아 씬에 넣거나 없으면 스프라이트·3D 모델·효과음을 생성할 수 있게 됐다.
 - [AI 소프트웨어 팩토리를 실제 코드에 붙이기 전 점검표](../entries/2026-11.md#ai-소프트웨어-팩토리를-실제-코드에-붙이기-전-점검표) (2026-11-25): 티켓을 받아 에이전트가 PR까지 여는 자동화 파이프라인을 고객이 쓰는 코드에 연결하기 전에 갖춰야 할 것들을 정리한 목록이다.
 - [OmniGet: 코딩 에이전트가 내 PC와 로그인 세션을 쓰게 하는 로컬 MCP 서버](../entries/2026-11.md#omniget-코딩-에이전트가-내-pc와-로그인-세션을-쓰게-하는-로컬-mcp-서버) (2026-11-24): OmniGet은 Claude Code·Codex·Cursor·Gemini CLI에 붙는 오픈소스(GPL-3.0) 로컬 MCP 서버로, 에이전트가 이미 로그인된 내 계정으로 채팅·피드를 읽고, 내장 브라우저로 페이지를 토큰 한도 안에서 읽고, 영상·음악·직접 결제한 강의를 내려받고, 폴더를 프롬프트용 파일 하나로 묶거나 포트·HTTP 요청을 다루게 해 준다.
+- [코딩 에이전트로 주 100개 PR을 배포하기까지: 병목을 하나씩 옮겨 가며 푼 순서](../entries/2026-11.md#코딩-에이전트로-주-100개-pr을-배포하기까지-병목을-하나씩-옮겨-가며-푼-순서) (2026-11-23): Imprint의 Will Larson이 한 주에 PR 100개 이상(최고 7일 170개, 대부분 사내 클라우드 하네스에서 작성)을 프로덕션에 배포하게 된 과정을 정리했다.
 - [gemini-api CLI: 코딩 에이전트가 셸에서 Gemini 멀티모달 기능을 호출](../entries/2026-11.md#gemini-api-cli-코딩-에이전트가-셸에서-gemini-멀티모달-기능을-호출) (2026-11-23): Google Gemini 공식 오픈소스 CLI(`gemini-api`)를 설치하고 API 키를 설정해 두면, 셸을 쓸 수 있는 Codex·Claude Code·Antigravity 같은 에이전트가 앱을 만들다가 이미지·음성·음악·영상 생성, 동영상 분석, OCR, 관리형 에이전트 실행을 명령 한 줄로 부를 수 있다.
 - [SECURITY_CONTEXT.md 스킬: 코딩 에이전트용 보안 규칙 파일 자동 생성](../entries/2026-11.md#security_contextmd-스킬-코딩-에이전트용-보안-규칙-파일-자동-생성) (2026-11-23): 저장소를 분석해 앱의 신뢰 경계, 안전하게 써도 되는 내부 헬퍼, 코딩 에이전트가 절대 깨면 안 되는 보안 규칙을 짧은 SECURITY_CONTEXT.md로 정리해 주는 오픈소스 스킬이다.
 - [Codex 하네스와 주변 공식 오픈소스 저장소 7개](../entries/2026-11.md#codex-하네스와-주변-공식-오픈소스-저장소-7개) (2026-11-22): OpenAI가 Codex를 돌리는 하네스와 그 주변 도구를 오픈소스로 공개해 두었으니 직접 가져다 쓰라는 정리다.

@@ -6,8 +6,12 @@
 
 Entries about coding agents, subagents, harnesses and skills (SKILL.md).
 
-항목 224개, 최신순 / 224 entries, newest first.
+항목 229개, 최신순 / 229 entries, newest first.
 
+- [Antigravity의 Neon 캐시 적중률 추가 개선: 같은 할당량으로 작업 28% 더](../entries/2026-11.md#antigravity의-neon-캐시-적중률-추가-개선-같은-할당량으로-작업-28-더) (2026-11-26): Antigravity의 Varun Mohan(@_mohansolo)이 Gemini 4 Neon의 캐시 적중률을 4.5%포인트 더 올려, 같은 할당량 안에서 처리할 수 있는 작업이 약 28% 늘었다고 밝혔다.
+- [Antigravity 플러그인 마켓플레이스: 스킬·MCP·서브에이전트·규칙·훅을 한 패키지로](../entries/2026-11.md#antigravity-플러그인-마켓플레이스-스킬mcp서브에이전트규칙훅을-한-패키지로) (2026-11-26): Google Antigravity에 플러그인 마켓플레이스가 생겨, Agent Plugins Specification을 따르는 플러그인을 마켓플레이스·GitHub 저장소·로컬 폴더에서 설치할 수 있다.
+- [Anthropic, Claude로 Messages API를 Python에서 Rust로 이전: 기존 시스템을 오라클로 쓰는 검증 루프](../entries/2026-11.md#anthropic-claude로-messages-api를-python에서-rust로-이전-기존-시스템을-오라클로-쓰는-검증-루프) (2026-11-26): Anthropic이 Claude가 약 일주일 만에 Rust 초안을 썼지만 진짜 병목은 생성이 아니라 검증이었다며, 운영 중인 Python API를 정답 기준(오라클)으로 삼아 Rust 버전을 실제 트래픽과 비교한 방법을 공개했다.
+- [Grok Bot 루틴으로 만드는 작은 '에이전트 소프트웨어 팩토리': 트레이스 일일 점검 → 피드백 → PR](../entries/2026-11.md#grok-bot-루틴으로-만드는-작은-에이전트-소프트웨어-팩토리-트레이스-일일-점검--피드백--pr) (2026-11-26): Langfuse 팀이 정리한 패턴으로, 완전 자동 기능 개발 대신 예약 실행되는 코딩 에이전트가 매일 프로덕션 트레이스(프롬프트·도구 호출·출력)를 훑어 문제와 애매한 사례를 가져오게 하는 구성이다.
 - [Antigravity v2.35.0: Auto 모드 승인 감소, 대기 메시지 표시, 대화 기록 무제한](../entries/2026-11.md#antigravity-v2350-auto-모드-승인-감소-대기-메시지-표시-대화-기록-무제한) (2026-11-25): Antigravity v2.35.0에서 Auto 모드가 대화 밖의 민감하지 않은 파일 읽기에는 더 이상 권한을 묻지 않게 됐고, Varun Mohan(@_mohansolo)은 이로써 Auto 모드의 불필요한 승인이 50% 줄었으며 Neon 모델 기준 작업당 할당량 소모가 12% 줄고 17% 빨라졌다고 밝혔다.
 - [Antigravity의 Modern Web Guidance 스킬로 기존 HTML 폼에 WebMCP 도구 달기](../entries/2026-11.md#antigravity의-modern-web-guidance-스킬로-기존-html-폼에-webmcp-도구-달기) (2026-11-25): Google Antigravity 공식 계정이 Modern Web Guidance 스킬을 써서 프런트엔드를 다시 짜지 않고 기존 HTML 폼에 선언형 WebMCP 도구를 붙이는 방법을 소개했다.
 - [T3 Code 0.1.12: 여러 저장소를 한 프로젝트·한 워크트리로, 에이전트 MCP 로그인](../entries/2026-11.md#t3-code-0112-여러-저장소를-한-프로젝트한-워크트리로-에이전트-mcp-로그인) (2026-11-25): Claude Code·Codex 같은 에이전트를 한 화면에서 돌리는 T3 Code 0.1.12에서 프로젝트가 여러 저장소(저장소 폴더, .code-workspace 파일, 서브모듈)를 묶을 수 있게 됐다.
@@ -20,6 +24,7 @@ Entries about coding agents, subagents, harnesses and skills (SKILL.md).
 - [OmniGet: 코딩 에이전트가 내 PC와 로그인 세션을 쓰게 하는 로컬 MCP 서버](../entries/2026-11.md#omniget-코딩-에이전트가-내-pc와-로그인-세션을-쓰게-하는-로컬-mcp-서버) (2026-11-24): OmniGet은 Claude Code·Codex·Cursor·Gemini CLI에 붙는 오픈소스(GPL-3.0) 로컬 MCP 서버로, 에이전트가 이미 로그인된 내 계정으로 채팅·피드를 읽고, 내장 브라우저로 페이지를 토큰 한도 안에서 읽고, 영상·음악·직접 결제한 강의를 내려받고, 폴더를 프롬프트용 파일 하나로 묶거나 포트·HTTP 요청을 다루게 해 준다.
 - [pstack /reframe: 만들려는 것의 전문 용어부터 배워 프롬프트 다시 쓰기](../entries/2026-11.md#pstack-reframe-만들려는-것의-전문-용어부터-배워-프롬프트-다시-쓰기) (2026-11-24): pstack 플러그인에 원하는 결과는 아는데 말로 설명하기 어려울 때 쓰는 /reframe 스킬이 추가됐다.
 - [Gemini API 파일 슬라이싱: 필요한 페이지·셀·구간만 서버에서 읽기](../entries/2026-11.md#gemini-api-파일-슬라이싱-필요한-페이지셀구간만-서버에서-읽기) (2026-11-24): Gemini API에 PDF, Office·OpenDocument 문서, 오디오, 동영상을 그대로 올린 뒤 필요한 페이지, 스프레드시트 범위, 미디어 구간, 레이어만 골라 서버에서 읽게 하는 파일 슬라이싱 기능이 추가됐고, 실제로 읽은 부분만 토큰이 과금된다.
+- [코딩 에이전트로 주 100개 PR을 배포하기까지: 병목을 하나씩 옮겨 가며 푼 순서](../entries/2026-11.md#코딩-에이전트로-주-100개-pr을-배포하기까지-병목을-하나씩-옮겨-가며-푼-순서) (2026-11-23): Imprint의 Will Larson이 한 주에 PR 100개 이상(최고 7일 170개, 대부분 사내 클라우드 하네스에서 작성)을 프로덕션에 배포하게 된 과정을 정리했다.
 - [gemini-api CLI: 코딩 에이전트가 셸에서 Gemini 멀티모달 기능을 호출](../entries/2026-11.md#gemini-api-cli-코딩-에이전트가-셸에서-gemini-멀티모달-기능을-호출) (2026-11-23): Google Gemini 공식 오픈소스 CLI(`gemini-api`)를 설치하고 API 키를 설정해 두면, 셸을 쓸 수 있는 Codex·Claude Code·Antigravity 같은 에이전트가 앱을 만들다가 이미지·음성·음악·영상 생성, 동영상 분석, OCR, 관리형 에이전트 실행을 명령 한 줄로 부를 수 있다.
 - [Grok Bot에 붙여 쓸 만한 스킬·플러그인 저장소 10개](../entries/2026-11.md#grok-bot에-붙여-쓸-만한-스킬플러그인-저장소-10개) (2026-11-23): Grok Bot에 연결해 쓰는 저장소 10개를 모은 목록으로, 절반은 Cloudflare·Netlify·Railway 등 서비스 팀이 직접 낸 공식 스킬이다.
 - [보안 "감사" 대신 "하드닝" 프롬프트: 공격면 삭제부터 우회 시도까지](../entries/2026-11.md#보안-감사-대신-하드닝-프롬프트-공격면-삭제부터-우회-시도까지) (2026-11-23): 코딩 에이전트에 보안 점검을 시키면 손대지 않을 체크리스트만 나오기 쉬우니, 보고서 대신 실제로 고치게 하는 하드닝 프롬프트를 쓰자는 제안이다.

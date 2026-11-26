@@ -6,14 +6,16 @@ MCP 서버·클라이언트·보안을 다룬 항목 모음입니다.
 
 Entries about MCP servers, clients and security.
 
-항목 54개, 최신순 / 54 entries, newest first.
+항목 56개, 최신순 / 56 entries, newest first.
 
+- [Antigravity 플러그인 마켓플레이스: 스킬·MCP·서브에이전트·규칙·훅을 한 패키지로](../entries/2026-11.md#antigravity-플러그인-마켓플레이스-스킬mcp서브에이전트규칙훅을-한-패키지로) (2026-11-26): Google Antigravity에 플러그인 마켓플레이스가 생겨, Agent Plugins Specification을 따르는 플러그인을 마켓플레이스·GitHub 저장소·로컬 폴더에서 설치할 수 있다.
 - [Antigravity의 Modern Web Guidance 스킬로 기존 HTML 폼에 WebMCP 도구 달기](../entries/2026-11.md#antigravity의-modern-web-guidance-스킬로-기존-html-폼에-webmcp-도구-달기) (2026-11-25): Google Antigravity 공식 계정이 Modern Web Guidance 스킬을 써서 프런트엔드를 다시 짜지 않고 기존 HTML 폼에 선언형 WebMCP 도구를 붙이는 방법을 소개했다.
 - [T3 Code 0.1.12: 여러 저장소를 한 프로젝트·한 워크트리로, 에이전트 MCP 로그인](../entries/2026-11.md#t3-code-0112-여러-저장소를-한-프로젝트한-워크트리로-에이전트-mcp-로그인) (2026-11-25): Claude Code·Codex 같은 에이전트를 한 화면에서 돌리는 T3 Code 0.1.12에서 프로젝트가 여러 저장소(저장소 폴더, .code-workspace 파일, 서브모듈)를 묶을 수 있게 됐다.
 - [Editroom: Claude·ChatGPT가 MCP로 직접 편집하는 23MB 오픈소스 영상 편집기](../entries/2026-11.md#editroom-claudechatgpt가-mcp로-직접-편집하는-23mb-오픈소스-영상-편집기) (2026-11-25): Robbie Tilton이 공개한 Editroom은 MIT 라이선스의 무료 macOS 영상 편집기(macOS 14 이상, Apple 프레임워크 기반이라 Windows판은 없음)로, 앱 크기가 23MB다.
 - [Google Antigravity, MCP Apps 지원](../entries/2026-11.md#google-antigravity-mcp-apps-지원) (2026-11-25): Google Antigravity가 MCP Apps를 지원하게 되어, MCP 서버가 제공하는 인터랙티브 차트, 샌드박스, 릴리스 보드, 맞춤 파일 뷰어 같은 앱 UI를 작업 공간 안에 바로 띄울 수 있다.
 - [Claude 플러그인 통합: 커넥터와 스킬을 한 페이지에서 설치·관리](../entries/2026-11.md#claude-플러그인-통합-커넥터와-스킬을-한-페이지에서-설치관리) (2026-11-24): Claude에서 도구를 연결하는 커넥터(MCP)와 작업 방식을 가르치는 스킬이 '플러그인'으로 합쳐져, 사이드바의 Customize가 Plugins로 바뀌고 1만 개 넘는 플러그인을 스킬·커넥터 필터와 Verified·Community 표시로 골라 설치할 수 있게 됐다.
 - [OmniGet: 코딩 에이전트가 내 PC와 로그인 세션을 쓰게 하는 로컬 MCP 서버](../entries/2026-11.md#omniget-코딩-에이전트가-내-pc와-로그인-세션을-쓰게-하는-로컬-mcp-서버) (2026-11-24): OmniGet은 Claude Code·Codex·Cursor·Gemini CLI에 붙는 오픈소스(GPL-3.0) 로컬 MCP 서버로, 에이전트가 이미 로그인된 내 계정으로 채팅·피드를 읽고, 내장 브라우저로 페이지를 토큰 한도 안에서 읽고, 영상·음악·직접 결제한 강의를 내려받고, 폴더를 프롬프트용 파일 하나로 묶거나 포트·HTTP 요청을 다루게 해 준다.
+- [코딩 에이전트로 주 100개 PR을 배포하기까지: 병목을 하나씩 옮겨 가며 푼 순서](../entries/2026-11.md#코딩-에이전트로-주-100개-pr을-배포하기까지-병목을-하나씩-옮겨-가며-푼-순서) (2026-11-23): Imprint의 Will Larson이 한 주에 PR 100개 이상(최고 7일 170개, 대부분 사내 클라우드 하네스에서 작성)을 프로덕션에 배포하게 된 과정을 정리했다.
 - [Claude Code dependency-cooldown 설정: 공개 7일 안 된 패키지 설치 막기](../entries/2026-11.md#claude-code-dependency-cooldown-설정-공개-7일-안-된-패키지-설치-막기) (2026-11-22): claude-code-templates의 dependency-cooldown 설정을 넣으면 npm·pnpm·uv로 공개된 지 7일이 안 된 패키지 버전을 설치하지 못하게 막는다.
 - [Real Python의 Claude Code 치트시트(PDF)](../entries/2026-11.md#real-python의-claude-code-치트시트pdf) (2026-11-20): Real Python이 Claude Code 사용법을 두 쪽짜리 무료 PDF로 정리했다.
 - [LLM으로 리버스 엔지니어링: Ghidra MCP + Markdown 기록 + 가설 CSV](../entries/2026-11.md#llm으로-리버스-엔지니어링-ghidra-mcp--markdown-기록--가설-csv) (2026-11-20): 20년 동안 하드웨어·소프트웨어를 직접 분석해 온 개발자가 에이전트에게 분석을 맡기는 방식을 공개했다.

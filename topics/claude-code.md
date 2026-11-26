@@ -6,8 +6,9 @@ Anthropic의 터미널 코딩 에이전트 Claude Code 관련 팁·업데이트�
 
 Tips, updates and workflows for Claude Code, Anthropic's terminal coding agent.
 
-항목 140개, 최신순 / 140 entries, newest first.
+항목 142개, 최신순 / 142 entries, newest first.
 
+- [Anthropic, Claude로 Messages API를 Python에서 Rust로 이전: 기존 시스템을 오라클로 쓰는 검증 루프](../entries/2026-11.md#anthropic-claude로-messages-api를-python에서-rust로-이전-기존-시스템을-오라클로-쓰는-검증-루프) (2026-11-26): Anthropic이 Claude가 약 일주일 만에 Rust 초안을 썼지만 진짜 병목은 생성이 아니라 검증이었다며, 운영 중인 Python API를 정답 기준(오라클)으로 삼아 Rust 버전을 실제 트래픽과 비교한 방법을 공개했다.
 - [T3 Code 0.1.12: 여러 저장소를 한 프로젝트·한 워크트리로, 에이전트 MCP 로그인](../entries/2026-11.md#t3-code-0112-여러-저장소를-한-프로젝트한-워크트리로-에이전트-mcp-로그인) (2026-11-25): Claude Code·Codex 같은 에이전트를 한 화면에서 돌리는 T3 Code 0.1.12에서 프로젝트가 여러 저장소(저장소 폴더, .code-workspace 파일, 서브모듈)를 묶을 수 있게 됐다.
 - [Claude Ship 실전 가이드: /code-review로 먼저 점검하고 /ship 전에 git status](../entries/2026-11.md#claude-ship-실전-가이드-code-review로-먼저-점검하고-ship-전에-git-status) (2026-11-25): Claude Code 팀 Addy Osmani가 PR 이후 후속 작업(CI 실패, 리뷰 코멘트, 머지 충돌)을 Claude Ship에 넘기는 방법을 정리한 가이드다.
 - [Unity CLI: 코딩 에이전트가 Asset Store 에셋 검색·임포트와 AI 에셋 생성까지](../entries/2026-11.md#unity-cli-코딩-에이전트가-asset-store-에셋-검색임포트와-ai-에셋-생성까지) (2026-11-25): Unity CLI(오픈 베타)가 Claude Code·Codex·Antigravity 같은 코딩 에이전트를 Unity Asset Store와 60개 이상의 AI 에셋 생성 모델에 연결해, 에이전트가 필요한 에셋을 찾아 받아 씬에 넣거나 없으면 스프라이트·3D 모델·효과음을 생성할 수 있게 됐다.
@@ -16,6 +17,7 @@ Tips, updates and workflows for Claude Code, Anthropic's terminal coding agent.
 - [Claude 플러그인 통합: 커넥터와 스킬을 한 페이지에서 설치·관리](../entries/2026-11.md#claude-플러그인-통합-커넥터와-스킬을-한-페이지에서-설치관리) (2026-11-24): Claude에서 도구를 연결하는 커넥터(MCP)와 작업 방식을 가르치는 스킬이 '플러그인'으로 합쳐져, 사이드바의 Customize가 Plugins로 바뀌고 1만 개 넘는 플러그인을 스킬·커넥터 필터와 Verified·Community 표시로 골라 설치할 수 있게 됐다.
 - [OmniGet: 코딩 에이전트가 내 PC와 로그인 세션을 쓰게 하는 로컬 MCP 서버](../entries/2026-11.md#omniget-코딩-에이전트가-내-pc와-로그인-세션을-쓰게-하는-로컬-mcp-서버) (2026-11-24): OmniGet은 Claude Code·Codex·Cursor·Gemini CLI에 붙는 오픈소스(GPL-3.0) 로컬 MCP 서버로, 에이전트가 이미 로그인된 내 계정으로 채팅·피드를 읽고, 내장 브라우저로 페이지를 토큰 한도 안에서 읽고, 영상·음악·직접 결제한 강의를 내려받고, 폴더를 프롬프트용 파일 하나로 묶거나 포트·HTTP 요청을 다루게 해 준다.
 - [Claude Ship 베타: PR 리뷰·수정·정책 기반 승인까지 맡기는 /ship](../entries/2026-11.md#claude-ship-베타-pr-리뷰수정정책-기반-승인까지-맡기는-ship) (2026-11-24): Claude Code 팀이 PR 이후 단계를 자동화하는 Claude Ship을 공개했다.
+- [코딩 에이전트로 주 100개 PR을 배포하기까지: 병목을 하나씩 옮겨 가며 푼 순서](../entries/2026-11.md#코딩-에이전트로-주-100개-pr을-배포하기까지-병목을-하나씩-옮겨-가며-푼-순서) (2026-11-23): Imprint의 Will Larson이 한 주에 PR 100개 이상(최고 7일 170개, 대부분 사내 클라우드 하네스에서 작성)을 프로덕션에 배포하게 된 과정을 정리했다.
 - [gemini-api CLI: 코딩 에이전트가 셸에서 Gemini 멀티모달 기능을 호출](../entries/2026-11.md#gemini-api-cli-코딩-에이전트가-셸에서-gemini-멀티모달-기능을-호출) (2026-11-23): Google Gemini 공식 오픈소스 CLI(`gemini-api`)를 설치하고 API 키를 설정해 두면, 셸을 쓸 수 있는 Codex·Claude Code·Antigravity 같은 에이전트가 앱을 만들다가 이미지·음성·음악·영상 생성, 동영상 분석, OCR, 관리형 에이전트 실행을 명령 한 줄로 부를 수 있다.
 - [SECURITY_CONTEXT.md 스킬: 코딩 에이전트용 보안 규칙 파일 자동 생성](../entries/2026-11.md#security_contextmd-스킬-코딩-에이전트용-보안-규칙-파일-자동-생성) (2026-11-23): 저장소를 분석해 앱의 신뢰 경계, 안전하게 써도 되는 내부 헬퍼, 코딩 에이전트가 절대 깨면 안 되는 보안 규칙을 짧은 SECURITY_CONTEXT.md로 정리해 주는 오픈소스 스킬이다.
 - [Claude Code dependency-cooldown 설정: 공개 7일 안 된 패키지 설치 막기](../entries/2026-11.md#claude-code-dependency-cooldown-설정-공개-7일-안-된-패키지-설치-막기) (2026-11-22): claude-code-templates의 dependency-cooldown 설정을 넣으면 npm·pnpm·uv로 공개된 지 7일이 안 된 패키지 버전을 설치하지 못하게 막는다.
