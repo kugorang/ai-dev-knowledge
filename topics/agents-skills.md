@@ -6,8 +6,10 @@
 
 Entries about coding agents, subagents, harnesses and skills (SKILL.md).
 
-항목 234개, 최신순 / 234 entries, newest first.
+항목 236개, 최신순 / 236 entries, newest first.
 
+- [T3 Code Mobile 2.4: 폰에서 로컬 개발 서버 미리보기, 이슈 트래커, 답변 일부 인용](../entries/2026-11.md#t3-code-mobile-24-폰에서-로컬-개발-서버-미리보기-이슈-트래커-답변-일부-인용) (2026-11-27): Claude Code·Codex 같은 에이전트를 한 화면에서 굴리는 T3 Code의 iOS·Android 앱이 2.4로 올라갔다.
+- [Google Workspace MCP 서버 GA와 2027-02-01부터의 'AI 에이전트는 MCP로만' 규칙](../entries/2026-11.md#google-workspace-mcp-서버-ga와-2027-02-01부터의-ai-에이전트는-mcp로만-규칙) (2026-11-26): Google이 11/24 Gmail·Drive·Calendar·Docs 등 Workspace MCP 서버 8개를 정식 출시하면서 API 약관에 부록을 붙여, 2027-02-01부터 AI 에이전트나 하네스가 Workspace에 접근할 때는 이 MCP 서버를 쓰도록 했다(REST 직접 호출은 Standard 쿼터로 묶인다).
 - [문서 없는 9달러 MP3 플레이어에 Rockbox 이식: Codex에서 Claude Code로 갈아타고 자동 테스트 셸로 밤새 개발](../entries/2026-11.md#문서-없는-9달러-mp3-플레이어에-rockbox-이식-codex에서-claude-code로-갈아타고-자동-테스트-셸로-밤새-개발) (2026-11-26): 사양이 공개되지 않은 SRAM 512KiB짜리 MP3 플레이어에 LLM으로 Rockbox를 이식한 기록이다.
 - [Karpathy, Claude Code로 실제 미국 데이터를 쓴 문명 스타일 게임 지도를 7시간 만에 제작](../entries/2026-11.md#karpathy-claude-code로-실제-미국-데이터를-쓴-문명-스타일-게임-지도를-7시간-만에-제작) (2026-11-26): Karpathy가 Claude Code 데스크톱 앱에서 Opus 5.5(medium)와 ultracode를 켜고, 인구조사·경제·에너지·지질 등 공공 데이터 31종을 내려받아 25km 육각 격자 하나에 맞춘 문명(Civilization) 스타일 지도를 만들게 했다.
 - [Obsidian 공식 커넥터: Claude Code·Codex·Antigravity·Cursor·Grok Bot·Muse에 같은 노트 볼트 연결](../entries/2026-11.md#obsidian-공식-커넥터-claude-codecodexantigravitycursorgrok-botmuse에-같은-노트-볼트-연결) (2026-11-26): Obsidian이 여러 에이전트에서 같은 볼트를 지식 베이스로 쓰도록 오픈소스 스킬 묶음(obsidianmd/obsidian-skills)을 공식 커넥터로 내놨다.

@@ -6,8 +6,9 @@ MCP 서버·클라이언트·보안을 다룬 항목 모음입니다.
 
 Entries about MCP servers, clients and security.
 
-항목 56개, 최신순 / 56 entries, newest first.
+항목 57개, 최신순 / 57 entries, newest first.
 
+- [Google Workspace MCP 서버 GA와 2027-02-01부터의 'AI 에이전트는 MCP로만' 규칙](../entries/2026-11.md#google-workspace-mcp-서버-ga와-2027-02-01부터의-ai-에이전트는-mcp로만-규칙) (2026-11-26): Google이 11/24 Gmail·Drive·Calendar·Docs 등 Workspace MCP 서버 8개를 정식 출시하면서 API 약관에 부록을 붙여, 2027-02-01부터 AI 에이전트나 하네스가 Workspace에 접근할 때는 이 MCP 서버를 쓰도록 했다(REST 직접 호출은 Standard 쿼터로 묶인다).
 - [Antigravity 플러그인 마켓플레이스: 스킬·MCP·서브에이전트·규칙·훅을 한 패키지로](../entries/2026-11.md#antigravity-플러그인-마켓플레이스-스킬mcp서브에이전트규칙훅을-한-패키지로) (2026-11-26): Google Antigravity에 플러그인 마켓플레이스가 생겨, Agent Plugins Specification을 따르는 플러그인을 마켓플레이스·GitHub 저장소·로컬 폴더에서 설치할 수 있다.
 - [Antigravity의 Modern Web Guidance 스킬로 기존 HTML 폼에 WebMCP 도구 달기](../entries/2026-11.md#antigravity의-modern-web-guidance-스킬로-기존-html-폼에-webmcp-도구-달기) (2026-11-25): Google Antigravity 공식 계정이 Modern Web Guidance 스킬을 써서 프런트엔드를 다시 짜지 않고 기존 HTML 폼에 선언형 WebMCP 도구를 붙이는 방법을 소개했다.
 - [T3 Code 0.1.12: 여러 저장소를 한 프로젝트·한 워크트리로, 에이전트 MCP 로그인](../entries/2026-11.md#t3-code-0112-여러-저장소를-한-프로젝트한-워크트리로-에이전트-mcp-로그인) (2026-11-25): Claude Code·Codex 같은 에이전트를 한 화면에서 돌리는 T3 Code 0.1.12에서 프로젝트가 여러 저장소(저장소 폴더, .code-workspace 파일, 서브모듈)를 묶을 수 있게 됐다.
