@@ -6,8 +6,9 @@ OpenAI Codex(CLI·앱·클라우드) 관련 팁·업데이트·워크플로 모�
 
 Tips, updates and workflows for OpenAI Codex (CLI, app and cloud).
 
-항목 80개, 최신순 / 80 entries, newest first.
+항목 81개, 최신순 / 81 entries, newest first.
 
+- [CLI-Anything·CLI-Hub: 기존 소프트웨어를 에이전트가 쓰는 명령줄로 만들고 레지스트리에서 설치](../entries/2026-11.md#cli-anythingcli-hub-기존-소프트웨어를-에이전트가-쓰는-명령줄로-만들고-레지스트리에서-설치) (2026-11-27): HKUDS의 CLI-Anything은 사람이 쓰는 프로그램을 에이전트가 다룰 수 있는 명령줄 하네스로 만들고, 이미 만들어진 하네스는 CLI-Hub 레지스트리에서 고를 수 있게 한 도구다.
 - [T3 Code Mobile 2.4: 폰에서 로컬 개발 서버 미리보기, 이슈 트래커, 답변 일부 인용](../entries/2026-11.md#t3-code-mobile-24-폰에서-로컬-개발-서버-미리보기-이슈-트래커-답변-일부-인용) (2026-11-27): Claude Code·Codex 같은 에이전트를 한 화면에서 굴리는 T3 Code의 iOS·Android 앱이 2.4로 올라갔다.
 - [OpenAI, GPT-6.2 사용량 과소 계산 수정: 같은 작업에도 플랜 한도가 더 빨리 찬다](../entries/2026-11.md#openai-gpt-62-사용량-과소-계산-수정-같은-작업에도-플랜-한도가-더-빨리-찬다) (2026-11-26): Codex 팀의 Thibault Sottiaux(@thsottiaux)가 GPT-6.2 출시 때 Astra와 Sol 사용량이 실수로 할인 계산되고 있었고 이를 바로잡았다고 밝혔다.
 - [문서 없는 9달러 MP3 플레이어에 Rockbox 이식: Codex에서 Claude Code로 갈아타고 자동 테스트 셸로 밤새 개발](../entries/2026-11.md#문서-없는-9달러-mp3-플레이어에-rockbox-이식-codex에서-claude-code로-갈아타고-자동-테스트-셸로-밤새-개발) (2026-11-26): 사양이 공개되지 않은 SRAM 512KiB짜리 MP3 플레이어에 LLM으로 Rockbox를 이식한 기록이다.

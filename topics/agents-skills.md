@@ -6,8 +6,9 @@
 
 Entries about coding agents, subagents, harnesses and skills (SKILL.md).
 
-항목 236개, 최신순 / 236 entries, newest first.
+항목 237개, 최신순 / 237 entries, newest first.
 
+- [CLI-Anything·CLI-Hub: 기존 소프트웨어를 에이전트가 쓰는 명령줄로 만들고 레지스트리에서 설치](../entries/2026-11.md#cli-anythingcli-hub-기존-소프트웨어를-에이전트가-쓰는-명령줄로-만들고-레지스트리에서-설치) (2026-11-27): HKUDS의 CLI-Anything은 사람이 쓰는 프로그램을 에이전트가 다룰 수 있는 명령줄 하네스로 만들고, 이미 만들어진 하네스는 CLI-Hub 레지스트리에서 고를 수 있게 한 도구다.
 - [T3 Code Mobile 2.4: 폰에서 로컬 개발 서버 미리보기, 이슈 트래커, 답변 일부 인용](../entries/2026-11.md#t3-code-mobile-24-폰에서-로컬-개발-서버-미리보기-이슈-트래커-답변-일부-인용) (2026-11-27): Claude Code·Codex 같은 에이전트를 한 화면에서 굴리는 T3 Code의 iOS·Android 앱이 2.4로 올라갔다.
 - [Google Workspace MCP 서버 GA와 2027-02-01부터의 'AI 에이전트는 MCP로만' 규칙](../entries/2026-11.md#google-workspace-mcp-서버-ga와-2027-02-01부터의-ai-에이전트는-mcp로만-규칙) (2026-11-26): Google이 11/24 Gmail·Drive·Calendar·Docs 등 Workspace MCP 서버 8개를 정식 출시하면서 API 약관에 부록을 붙여, 2027-02-01부터 AI 에이전트나 하네스가 Workspace에 접근할 때는 이 MCP 서버를 쓰도록 했다(REST 직접 호출은 Standard 쿼터로 묶인다).
 - [문서 없는 9달러 MP3 플레이어에 Rockbox 이식: Codex에서 Claude Code로 갈아타고 자동 테스트 셸로 밤새 개발](../entries/2026-11.md#문서-없는-9달러-mp3-플레이어에-rockbox-이식-codex에서-claude-code로-갈아타고-자동-테스트-셸로-밤새-개발) (2026-11-26): 사양이 공개되지 않은 SRAM 512KiB짜리 MP3 플레이어에 LLM으로 Rockbox를 이식한 기록이다.

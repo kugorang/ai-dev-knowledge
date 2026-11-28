@@ -6,8 +6,9 @@ AI 코드 에디터 Cursor 관련 팁·업데이트·워크플로 모음입니�
 
 Tips, updates and workflows for the Cursor AI code editor.
 
-항목 56개, 최신순 / 56 entries, newest first.
+항목 57개, 최신순 / 57 entries, newest first.
 
+- [CLI-Anything·CLI-Hub: 기존 소프트웨어를 에이전트가 쓰는 명령줄로 만들고 레지스트리에서 설치](../entries/2026-11.md#cli-anythingcli-hub-기존-소프트웨어를-에이전트가-쓰는-명령줄로-만들고-레지스트리에서-설치) (2026-11-27): HKUDS의 CLI-Anything은 사람이 쓰는 프로그램을 에이전트가 다룰 수 있는 명령줄 하네스로 만들고, 이미 만들어진 하네스는 CLI-Hub 레지스트리에서 고를 수 있게 한 도구다.
 - [Obsidian 공식 커넥터: Claude Code·Codex·Antigravity·Cursor·Grok Bot·Muse에 같은 노트 볼트 연결](../entries/2026-11.md#obsidian-공식-커넥터-claude-codecodexantigravitycursorgrok-botmuse에-같은-노트-볼트-연결) (2026-11-26): Obsidian이 여러 에이전트에서 같은 볼트를 지식 베이스로 쓰도록 오픈소스 스킬 묶음(obsidianmd/obsidian-skills)을 공식 커넥터로 내놨다.
 - [app-store-compliance: 앱스토어·구글 플레이 심사 거절 원인을 제출 전에 막는 에이전트 스킬·훅](../entries/2026-11.md#app-store-compliance-앱스토어구글-플레이-심사-거절-원인을-제출-전에-막는-에이전트-스킬훅) (2026-11-26): 바이브코딩으로 만든 iOS·안드로이드 앱을 제출하기 전에 Apple App Store와 Google Play의 대표적인 거절 패턴을 점검해 주는 오픈소스 스킬이다.
 - [OmniGet: 코딩 에이전트가 내 PC와 로그인 세션을 쓰게 하는 로컬 MCP 서버](../entries/2026-11.md#omniget-코딩-에이전트가-내-pc와-로그인-세션을-쓰게-하는-로컬-mcp-서버) (2026-11-24): OmniGet은 Claude Code·Codex·Cursor·Gemini CLI에 붙는 오픈소스(GPL-3.0) 로컬 MCP 서버로, 에이전트가 이미 로그인된 내 계정으로 채팅·피드를 읽고, 내장 브라우저로 페이지를 토큰 한도 안에서 읽고, 영상·음악·직접 결제한 강의를 내려받고, 폴더를 프롬프트용 파일 하나로 묶거나 포트·HTTP 요청을 다루게 해 준다.
